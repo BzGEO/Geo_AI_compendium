@@ -14,10 +14,10 @@
 ## 1. Objectives
 
 * Document the various Machine Learning approaches available across various [desktop + cloud] platforms (e.g. ArcGIS, ENVI, GEE, QGIS, SNAP, TerrSet)
-* Compile resources (including tutorials and sample scripts) regarding how to implement each approach in different platforms
-* Understand how to replicate ML workflows from one platform to another
+  * Compile resources (including tutorials and sample scripts) regarding how to implement each approach in different platforms
+  * Understand how to replicate ML workflows from one platform to another
 * Understand the limitations of the various ML approaches
-* Push the limits of the various approaches
+  * Push the limits of the various approaches
 * What determines the taste of the cake? The quality of the ingredients used, or the technique of the baker? 🤔
 
 ## 2. Schematics
