@@ -42,3 +42,24 @@
 
 ## 6. Resources: Other
 
+**GEE**
+* Earth Engine Fundamentals & Applications book (2022)
+* Earth Engine higher education tutorials (2016)
+* Earth Engine general tutorials
+* Earth Engine Developers Google Group
+
+**Miscellaneous**
+
+* Statistical Machine Intelligence and Learning Engine (SMILE)
+ * Google: SMILE Naive Bayes documentation
+* How to open a Google Colab Notebook from Github in Google Colab: “Just change the domain from 'github.com' to 'githubtocolab.com' and the notebook will open in Colab. [source]
+* Other ‘open source GIS tutorials’ from Carleton University (Canada)
+* NASA Science Mission Directorate Artificial Intelligence initiative
+* Oak Ridge National Lab Trillion Pixel Challenge
+ * Sept. 2019 workshop report
+ * July 2023 workshop press release
+* Emil’s private GeoAI photo library
+
+
+**Neural networks + deep learning in general**
+* Neural networks explainer video from Esri (great contrast w/ Random Forest explainer video)
