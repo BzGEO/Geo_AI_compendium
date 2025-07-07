@@ -23,8 +23,13 @@
 ## 2. Schematics
 
 * Overview of the distinctions between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)
+
+
 * Overview of various tools for doing ML (“SciKit-Learn algorithm cheat sheet”):
+
+
 * Complementary overview of available ML tools:
+
 
 ## 3. Resources: Machine learning (traditional)
 
