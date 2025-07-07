@@ -1,6 +1,6 @@
 # GeoML Sourcebook: Geospatial machine learning / artificial intelligence (Geo ML / Geo AI) resources focused on land cover monitoring
 
-*compiled by Emil A. Cherrington, Ph.D. | last updated: July 2025*
+*compiled by Emil A. Cherrington, Ph.D. | last updated: 7 July 2025*
 
 ## Overview
 
