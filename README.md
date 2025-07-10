@@ -25,7 +25,7 @@
 * Overview of the distinctions between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)
 
 
-* Overview of various tools for doing ML (“SciKit-Learn algorithm cheat sheet”):
+* Overview of various tools for doing ML (“[SciKit-Learn algorithm cheat sheet](https://scikit-learn.org/1.4/tutorial/machine_learning_map/index.html)”):
 
 
 * Complementary overview of available ML tools:
