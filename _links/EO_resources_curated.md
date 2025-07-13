@@ -12,12 +12,12 @@
 
 ## Portals and platforms for EO data
 * U.S. National Aeronautics & Space Administration (NASA)
-  * [NASA EOSDIS WorldView](https://worldview.earthdata.nasa.gov/) -> *visualization*
-  * [NASA Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/) -> *time series analysis*
-  * [NASA EarthData Search](https://search.earthdata.nasa.gov/search) -> *data extraction / download*
-  * [NASA  OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/) -> *data extraction / download*
-  * [NASA ASF DAAC](https://search.asf.alaska.edu/#/) -> *data extraction / download*
-  * [NASA AppEEARS](https://appeears.earthdatacloud.nasa.gov/) -> *data extraction / download*
+  * NASA [EOSDIS WorldView](https://worldview.earthdata.nasa.gov/) -> *visualization*
+  * NASA [Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/) -> *time series analysis*
+  * NASA [EarthData Search](https://search.earthdata.nasa.gov/search) -> *data extraction / download*
+  * NASA [OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/) -> *data extraction / download*
+  * NASA [ASF DAAC](https://search.asf.alaska.edu/#/) -> *data extraction / download*
+  * NASA [AppEEARS](https://appeears.earthdatacloud.nasa.gov/) -> *data extraction / download*
 * U.S. Geological Survey (USGS)
   * [USGS Earth Explorer](https://earthexplorer.usgs.gov/) -> *data extraction / download*
   * [USGS ESPA](https://espa.cr.usgs.gov/) -> *data extraction / download*
@@ -33,18 +33,18 @@
     * Apply for access to Planet data: [NASA Commercial Satellite Data (CSDA) program](https://csdap.earthdata.nasa.gov/signup/)
     * Planet Dove + SuperDove band [specifications](https://docs.planet.com/data/imagery/planetscope/)
       * Dove Classic + Dove-R: VNIR (blue, green, red, NIR)
-      * Super Dove (coastal blue, blue, green I, green, yellow, red, red edge, NIR)
+      * Super Dove: 8-band (coastal blue, blue, green I, green, yellow, red, red edge, NIR)
 
 ## Hyperspectral data resources
 * Missions
-  * NASA spaceborne (i.e., satellite) missions
+  * NASA spaceborne (i.e., satellite) missions 🛰️
     * EO-1 [Hyperion](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-earth-observing-one-eo-1-hyperion), 2001-2017
       * [Hyperion data in GEE](https://developers.google.com/earth-engine/datasets/catalog/EO1_HYPERION)
     * International Space Station [Earth Surface Mineral Dust Source Investigation (EMIT)](https://earth.jpl.nasa.gov/emit/), 2022-present
       * [EMIT data in GEE](https://developers.google.com/earth-engine/datasets/catalog/NASA_EMIT_L2A_RFL)
     * [Plankton, Aerosol, Cloud, ocean Ecosystem (PACE)](https://pace.oceansciences.org/), 2024-present
     * [Surface Biology & Geology (SBG)](https://sbg.jpl.nasa.gov/), *proposed*
-  * NASA airborne missions
+  * NASA airborne missions 🛩️
     * [Airborne Visible InfraRed Imaging Spectrometer (AVIRIS)](https://aviris.jpl.nasa.gov/)
       * [AVIRIS-NG data over NEON sites, in GEE](https://developers.google.com/earth-engine/datasets/catalog/projects_neon-prod-earthengine_assets_HSI_REFL_002)
   * EOportal.org [hyperspectral mission list](https://www.eoportal.org/other-space-activities/hyperspectral-imaging)
@@ -69,10 +69,10 @@
     * [Hyperspectral toolkit (2025)](https://github.com/BzGEO/hyperspectral_toolkit)
       * [GEE code repo](https://bit.ly/gee_repo_hyperspectral)
 
-## Spotlight: Hyperspectral data from NASA's PACE
+## Spotlight: Hyperspectral data from NASA's PACE 🛰️
 * [PACE mission page](https://pace.oceansciences.org/)
   * [Ocean Color Instrument (OCI)](https://pace.oceansciences.org/oci.htm)
-* Data access
+* Data access 💾
   * View data in [NASA EOSDIS WorldView](https://go.nasa.gov/4kNDA1z) -> *example for 8 July 2025*
   * Download data via the [NASA  OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/)
   * Download data via the [NASA EarthData Search](https://search.earthdata.nasa.gov/search?fi=OCI&as[platforms][0]=Space-based%20Platforms%3AEarth%20Observation%20Satellites%3A%3APACE&as[instrument][0]=OCI&fpb0=Space-based%20Platforms&fpc0=Earth%20Observation%20Satellites&fps0=PACE)
@@ -85,8 +85,8 @@
   * [PACE: Applications workshop (Dec. 2024)](https://pace.oceansciences.org/event_archive/2024-PACE-Applications-Workshop.htm)
 * PACE events [page](https://pace.oceansciences.org/events.htm)
 * [PACE Land data Users' Group (PLUG)](https://pace.oceansciences.org/events_more.htm?id=74)
-  * 1st PLUG meeting (15.04.2025): [recording](https://www.youtube.com/watch?v=7U1FBZyB-dk)
-  * 2nd PLUG meeting (01.07.2025): [recording](https://www.youtube.com/watch?v=hOu8rPd_x6I)
+  * 1st PLUG meeting (15.04.2025): [recording](https://www.youtube.com/watch?v=7U1FBZyB-dk) 🎥
+  * 2nd PLUG meeting (01.07.2025): [recording](https://www.youtube.com/watch?v=hOu8rPd_x6I) 🎥
 * PACE Early Adopters / Applications Partners
   * [PACE: Early Adopters projects](https://pace.oceansciences.org/app_adopters.htm)
     * PACE: Early Adopters [UAH project](https://pace.oceansciences.org/people_ea.htm?id=127)
@@ -100,7 +100,7 @@
   * [Multispectral: Landsat TM / ETM+ / OLI / OLI2](https://bit.ly/landsat_bands)
   * [Multispectral: Sentinel-2 MSI](https://bit.ly/s2_bands)
 
-## Desktop software programs
+## Desktop software programs 👨‍💻
 * GUI-based
   * Clark University's TerrSet [installers](https://github.com/ClarkCGA/terrset/releases)
   * ESA's SNAP [installers](https://step.esa.int/main/download/snap-download/)
@@ -114,7 +114,7 @@
     * [Windows](https://cran.r-project.org/bin/windows/)
   * R Studio desktop [installers](https://posit.co/download/rstudio-desktop/)
 
-## the Google Earth Engine (GEE) platform for EO cloud computing
+## the Google Earth Engine (GEE) 🌎 platform for EO cloud computing
 * GEE [Code Editor](https://code.earthengine.google.com/)
   * [GEE registration link](https://earthengine.google.com/signup/)
   * [Instructions for GEE project registration](https://courses.spatialthoughts.com/gee-sign-up.html), via SpatialThoughts.com
