@@ -51,20 +51,24 @@
 ## 5. Resources: Uncertainty / accuracy assessment
 
 * General accuracy assessment
-  * ArcGIS Desktop: Accuracy Assessment for Image Classification page
-  * ArcGIS Pro: Accuracy Assessment page
-  * GEE: Export training samples script
-  * QGIS: Accuracy assessment plugin
+  * ArcGIS Desktop: Accuracy Assessment for Image Classification [page](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/accuracy-assessment-for-image-classification.htm)
+  * ArcGIS Pro: Accuracy Assessment [page](https://pro.arcgis.com/en/pro-app/latest/help/analysis/image-analyst/accuracy-assessment.htm)
+  * GEE: Export training samples [script](https://developers.google.com/earth-engine/apidocs/export-table-todrive)
+  * QGIS: Accuracy assessment [plugin](https://plugins.qgis.org/plugins/accassess/)
 
 * Accuracy assessment of land cover data applying statistical best practices
   * Area Estimation & Accuracy Assessment (AREA2) toolbox
     * GitHub page: https://github.com/bullocke/AREA2/blob/master/README.md
     * GEE repository: https://code.earthengine.google.com/?accept_repo=projects/AREA2/public
 
+![]()
+[*source*](https://towardsdatascience.com/how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9): Sara A. Metwalli
 * The issue of training, validation, and test data
   * Training, validation, and test data sets (Wikipedia): https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets
   * Definitions (from J. Brownlee, 2020): https://machinelearningmastery.com/difference-test-validation-datasets/
 
+![]()
+[*source*](https://machinelearningmastery.com/difference-test-validation-datasets/): J. Brownlee (2020)
 
 ## 6. Resources: Other
 
