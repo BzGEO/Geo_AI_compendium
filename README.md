@@ -29,18 +29,24 @@
 
 * Overview of the distinctions between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)
 
+![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/venn_diagram_ai_small.png)
 
-* Overview of various tools for doing ML (“[SciKit-Learn algorithm cheat sheet](https://scikit-learn.org/1.4/tutorial/machine_learning_map/index.html)”):
+*source*: [Human Centered AI Lab](https://human-centered.ai/wordpress/wp-content/uploads/2017/11/Deep-Learning-subset-of-Machine-Learning-subset-of-Artificial-Intelligence.jpg)
 
+* Overview of various tools for doing ML (“[SciKit-Learn algorithm cheat sheet](https://scikit-learn.org/stable/machine_learning_map.html)”):
 
-* Complementary overview of available ML tools:
+![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/scikit_learn_cheatsheet.PNG)
 
+*source*: [SciKitLearn](https://scikit-learn.org/stable/machine_learning_map.html)
 
 ## 3. Resources: Machine learning (traditional)
 
 
 ## 4. Resources: Deep learning
 
+![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/cranberries_dl_small2.png)
+
+![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/oversized_salad_dl2.png)
 
 ## 5. Resources: Uncertainty / accuracy assessment
 
