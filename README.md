@@ -54,23 +54,26 @@
 ## 6. Resources: Other
 
 **GEE**
-* Earth Engine Fundamentals & Applications book (2022)
-* Earth Engine higher education tutorials (2016)
-* Earth Engine general tutorials
-* Earth Engine Developers Google Group
+* Earth Engine Fundamentals & Applications [book 📔](https://www.eefabook.org/) (2022)
+  * [Videos 🎥](https://www.youtube.com/@eefabook3667/videos)
+  * [EEFA book GEE code repository](https://code.earthengine.google.com/?accept_repo=projects/gee-edu/book)
+* Earth Engine higher education [tutorials](https://developers.google.com/earth-engine/tutorials/edu)
+* Earth Engine general [tutorials](https://developers.google.com/earth-engine/tutorials/community/explore)
+* Earth Engine Developers [Google Group](https://groups.google.com/g/google-earth-engine-developers/)
 
 **Miscellaneous**
 
-* Statistical Machine Intelligence and Learning Engine (SMILE)
- * Google: SMILE Naive Bayes documentation
-* How to open a Google Colab Notebook from Github in Google Colab: “Just change the domain from 'github.com' to 'githubtocolab.com' and the notebook will open in Colab. [source]
-* Other ‘open source GIS tutorials’ from Carleton University (Canada)
+* Statistical Machine Intelligence and Learning Engine [(SMILE)](https://haifengl.github.io/classification.html)
+  * Google: SMILE Naive Bayes [documentation](https://developers.google.com/earth-engine/apidocs/ee-classifier-smilenaivebayes)
+* How to open a Google Colab Notebook from Github in Google Colab: "*Just change the domain from 'github.com' to 'githubtocolab.com' and the notebook will open in Colab.*" [source](https://stackoverflow.com/questions/62596466/how-can-i-run-notebooks-of-a-github-project-in-google-colab#:~:text=Open%20Github%20notebook%20whatever%20you,notebook%20will%20open%20in%20Colab)
+* Other ‘[open source GIS tutorials](https://dges.carleton.ca/CUOSGwiki/index.php/Main_Page)’ from Carleton University (Canada)
 * NASA Science Mission Directorate Artificial Intelligence initiative
-* Oak Ridge National Lab Trillion Pixel Challenge
- * Sept. 2019 workshop report
- * July 2023 workshop press release
-* Emil’s private GeoAI photo library
+* Oak Ridge National Lab [Trillion Pixel Challenge](https://geoai.ornl.gov/trillion-pixel/)
+ * Sept. 2019 workshop [report](https://geoai.ornl.gov/trillion-pixel/wp-content/uploads/sites/2/2021/03/Trillion_Pixel_Challenge_Workshop_Report-for-public-release.pdf)
+ * July 2023 workshop [press release](https://www.ornl.gov/news/trillion-pixel-challenge-looks-ahead-next-decade-geoai-innovation)
+* Emil’s private GeoAI [photo library](https://photos.app.goo.gl/oeWUE5RKnKGTmT1Q9)
 
 
 **Neural networks + deep learning in general**
-* Neural networks explainer video from Esri (great contrast w/ Random Forest explainer video)
+* Neural networks explainer [video ⏯️](https://www.youtube.com/watch?v=X22ENbm4BfU) from Esri  great contrast w/ Random Forest explainer [video ⏯️](https://www.youtube.com/watch?v=HL0nz9uOtF8)
+
