@@ -1,5 +1,5 @@
 # Earth Observation (#EO) resources: a curated list
-[![Update](https://img.shields.io/github/last-commit/bzgeo/bzgeo?label=last%20updated&style=flat-square)](https://github.com/BzGEO/BzGEO/edit/main/links/EO_resources_curated.md)
+[![Update](https://img.shields.io/github/last-commit/bzgeo/geo_ai_refs?label=last%20updated&style=flat-square)](https://github.com/BzGEO/BzGEO/edit/main/links/EO_resources_curated.md)
 
 *compiled by Emil A. Cherrington, Ph.D.*
 
