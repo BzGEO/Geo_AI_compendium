@@ -19,12 +19,12 @@
   * NASA [ASF DAAC](https://search.asf.alaska.edu/#/) -> *data extraction / download*
   * NASA [AppEEARS](https://appeears.earthdatacloud.nasa.gov/) -> *data extraction / download*
 * U.S. Geological Survey (USGS)
-  * [USGS Earth Explorer](https://earthexplorer.usgs.gov/) -> *data extraction / download*
-  * [USGS ESPA](https://espa.cr.usgs.gov/) -> *data extraction / download*
-  * [USGS Glovis](https://glovis.usgs.gov/app) -> *visualization*
+  * USGS [Earth Explorer](https://earthexplorer.usgs.gov/) -> *data extraction / download*
+  * USGS [ESPA](https://espa.cr.usgs.gov/) -> *data extraction / download*
+  * USGS [Glovis](https://glovis.usgs.gov/app) -> *visualization*
 * European Commission's Copernicus Programme + European Space Agency (ESA)
   * [Copernicus Browser](https://browser.dataspace.copernicus.eu/) -> *data extraction / download*
-  * [Copernicus Land Monitoring Service](https://land.copernicus.eu/en) -> *data extraction / download*
+  * Copernicus [Land Monitoring Service](https://land.copernicus.eu/en) -> *data extraction / download*
 * Commercial
   * [Maxar Discover](https://discover.maxar.com/) -> *visualization*
   * [Planet Explorer](https://www.planet.com/explorer/) -> *data extraction / download*
@@ -45,7 +45,7 @@
     * [Plankton, Aerosol, Cloud, ocean Ecosystem (PACE)](https://pace.oceansciences.org/), 2024-present
     * [Surface Biology & Geology (SBG)](https://sbg.jpl.nasa.gov/), *proposed*
   * NASA airborne missions 🛩️
-    * [Airborne Visible InfraRed Imaging Spectrometer (AVIRIS)](https://aviris.jpl.nasa.gov/)
+    * Airborne Visible InfraRed Imaging Spectrometer [(AVIRIS)](https://aviris.jpl.nasa.gov/)
       * [AVIRIS-NG data over NEON sites, in GEE](https://developers.google.com/earth-engine/datasets/catalog/projects_neon-prod-earthengine_assets_HSI_REFL_002)
   * EOportal.org [hyperspectral mission list](https://www.eoportal.org/other-space-activities/hyperspectral-imaging)
 * **GitHub code repositories** (*not exhaustive*)
@@ -77,23 +77,23 @@
   * Download data via the [NASA  OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/)
   * Download data via the [NASA EarthData Search](https://search.earthdata.nasa.gov/search?fi=OCI&as[platforms][0]=Space-based%20Platforms%3AEarth%20Observation%20Satellites%3A%3APACE&as[instrument][0]=OCI&fpb0=Space-based%20Platforms&fpc0=Earth%20Observation%20Satellites&fps0=PACE)
 * PACE data products
-  * [PACE data products list](https://pace.oceansciences.org/data_table.htm)
-    * [Data description: Surface reflectance](https://oceancolor.gsfc.nasa.gov/data/10.5067/PACE/OCI/L2/SFREFL/3.0)
-    * [Data description: Land Vegetation Indices (LandVI)](https://oceancolor.gsfc.nasa.gov/data/10.5067/PACE/OCI/L2/LANDVI/3.0)
-  * [PACE: Terrestrial products overview slides (Dec. 2024)](https://pace.oceansciences.org/docs/03-c-Huemmrich_PACE_Terrestrial.pdf)
+  * PACE data [products list](https://pace.oceansciences.org/data_table.htm)
+    * Data description: [Surface reflectance](https://oceancolor.gsfc.nasa.gov/data/10.5067/PACE/OCI/L2/SFREFL/3.0)
+    * Data description: [Land Vegetation Indices (LandVI)](https://oceancolor.gsfc.nasa.gov/data/10.5067/PACE/OCI/L2/LANDVI/3.0)
+  * PACE: Terrestrial products [overview slides (Dec. 2024)](https://pace.oceansciences.org/docs/03-c-Huemmrich_PACE_Terrestrial.pdf)
 * PACE Applications
-  * [PACE: Applications workshop (Dec. 2024)](https://pace.oceansciences.org/event_archive/2024-PACE-Applications-Workshop.htm)
+  * PACE: [Applications workshop (Dec. 2024)](https://pace.oceansciences.org/event_archive/2024-PACE-Applications-Workshop.htm)
 * PACE events [page](https://pace.oceansciences.org/events.htm)
-* [PACE Land data Users' Group (PLUG)](https://pace.oceansciences.org/events_more.htm?id=74)
+* PACE Land data Users' Group [(PLUG)](https://pace.oceansciences.org/events_more.htm?id=74)
   * 1st PLUG meeting (15.04.2025): [recording](https://www.youtube.com/watch?v=7U1FBZyB-dk) 🎥
   * 2nd PLUG meeting (01.07.2025): [recording](https://www.youtube.com/watch?v=hOu8rPd_x6I) 🎥
 * PACE Early Adopters / Applications Partners
-  * [PACE: Early Adopters projects](https://pace.oceansciences.org/app_adopters.htm)
+  * PACE: [Early Adopters projects](https://pace.oceansciences.org/app_adopters.htm)
     * PACE: Early Adopters [UAH project](https://pace.oceansciences.org/people_ea.htm?id=127)
     * PACE: Early Adopters projects [application form](https://forms.gle/ZxUeqDJDZu47SEzD8)
 * Calendars for products
-  * [8-day calendar](https://bit.ly/pace_oci_8d_cal)
-  * [Julian day calendar (non-leap year)](https://satcorps.larc.nasa.gov/safari/JulianDayChart.html)
+  * 8-day [calendar](https://bit.ly/pace_oci_8d_cal)
+  * Julian day [calendar (non-leap year)](https://satcorps.larc.nasa.gov/safari/JulianDayChart.html)
 * Spectral bands from various multispectral and hyperspectral platforms
   * [Hyperspectral: PACE OCI (SFREFL, v3)](https://bit.ly/pace_oci_sr_v3_bands)
   * [Hyperspectral: ISS EMIT](https://bit.ly/iss_emit_bands)
