@@ -29,42 +29,68 @@
 
 * Overview of the distinctions between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)
 
+![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/venn_diagram_ai_small.png)
 
-* Overview of various tools for doing ML (“[SciKit-Learn algorithm cheat sheet](https://scikit-learn.org/1.4/tutorial/machine_learning_map/index.html)”):
+*source*: [Human Centered AI Lab](https://human-centered.ai/wordpress/wp-content/uploads/2017/11/Deep-Learning-subset-of-Machine-Learning-subset-of-Artificial-Intelligence.jpg)
 
+* Overview of various tools for doing ML (“[SciKit-Learn algorithm cheat sheet](https://scikit-learn.org/stable/machine_learning_map.html)”):
 
-* Complementary overview of available ML tools:
+![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/scikit_learn_cheatsheet.PNG)
 
+*source*: [SciKitLearn](https://scikit-learn.org/stable/machine_learning_map.html)
 
 ## 3. Resources: Machine learning (traditional)
 
 
 ## 4. Resources: Deep learning
 
+![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/cranberries_dl_small2.png)
+
+![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/oversized_salad_dl2.png)
 
 ## 5. Resources: Uncertainty / accuracy assessment
 
+* General accuracy assessment
+  * ArcGIS Desktop: Accuracy Assessment for Image Classification [page](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/accuracy-assessment-for-image-classification.htm)
+  * ArcGIS Pro: Accuracy Assessment [page](https://pro.arcgis.com/en/pro-app/latest/help/analysis/image-analyst/accuracy-assessment.htm)
+  * GEE: Export training samples [script](https://developers.google.com/earth-engine/apidocs/export-table-todrive)
+  * QGIS: Accuracy assessment [plugin](https://plugins.qgis.org/plugins/accassess/)
+
+* Accuracy assessment of land cover data applying statistical best practices
+  * Area Estimation & Accuracy Assessment (AREA2) toolbox
+    * GitHub page: https://github.com/bullocke/AREA2/blob/master/README.md
+    * GEE repository: https://code.earthengine.google.com/?accept_repo=projects/AREA2/public
+
+![]()
+[*source*](https://towardsdatascience.com/how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9): Sara A. Metwalli
+* The issue of training, validation, and test data
+  * Training, validation, and test data sets (Wikipedia): https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets
+  * Definitions (from J. Brownlee, 2020): https://machinelearningmastery.com/difference-test-validation-datasets/
+
+![]()
+[*source*](https://machinelearningmastery.com/difference-test-validation-datasets/): J. Brownlee (2020)
 
 ## 6. Resources: Other
 
 **GEE**
-* Earth Engine Fundamentals & Applications book (2022)
-* Earth Engine higher education tutorials (2016)
-* Earth Engine general tutorials
-* Earth Engine Developers Google Group
+* Earth Engine Fundamentals & Applications [book](https://www.eefabook.org/) (2022) 📔
+  * [Videos](https://www.youtube.com/@eefabook3667/videos) 🎥
+  * EEFA book GEE code [repository](https://code.earthengine.google.com/?accept_repo=projects/gee-edu/book) 💾
+* Earth Engine higher education [tutorials](https://developers.google.com/earth-engine/tutorials/edu) 📝
+* Earth Engine general [tutorials](https://developers.google.com/earth-engine/tutorials/community/explore) 📝
+* Earth Engine Developers [Google Group](https://groups.google.com/g/google-earth-engine-developers/) 👨‍💻
 
 **Miscellaneous**
 
-* Statistical Machine Intelligence and Learning Engine (SMILE)
- * Google: SMILE Naive Bayes documentation
-* How to open a Google Colab Notebook from Github in Google Colab: “Just change the domain from 'github.com' to 'githubtocolab.com' and the notebook will open in Colab. [source]
-* Other ‘open source GIS tutorials’ from Carleton University (Canada)
-* NASA Science Mission Directorate Artificial Intelligence initiative
-* Oak Ridge National Lab Trillion Pixel Challenge
- * Sept. 2019 workshop report
- * July 2023 workshop press release
-* Emil’s private GeoAI photo library
-
+* Statistical Machine Intelligence and Learning Engine [(SMILE)](https://haifengl.github.io/classification.html)
+  * Google: SMILE Naive Bayes [documentation](https://developers.google.com/earth-engine/apidocs/ee-classifier-smilenaivebayes)
+* How to open a Google Colab Notebook from Github in [Google Colab](https://colab.research.google.com/): "*Just change the domain from 'github.com' to 'githubtocolab.com' and the notebook will open in Colab.*" [source](https://stackoverflow.com/questions/62596466/how-can-i-run-notebooks-of-a-github-project-in-google-colab#:~:text=Open%20Github%20notebook%20whatever%20you,notebook%20will%20open%20in%20Colab)
+* Other ['open source GIS tutorials'](https://dges.carleton.ca/CUOSGwiki/index.php/Main_Page) from Carleton University (Canada)
+* NASA Science Mission Directorate [Artificial Intelligence initiative](https://science.nasa.gov/open-science/smd-ai-initiative/)
+* Oak Ridge National Lab [Trillion Pixel Challenge](https://geoai.ornl.gov/trillion-pixel/)
+ * Sept. 2019 workshop [report](https://geoai.ornl.gov/trillion-pixel/wp-content/uploads/sites/2/2021/03/Trillion_Pixel_Challenge_Workshop_Report-for-public-release.pdf)
+ * July 2023 workshop [press release](https://www.ornl.gov/news/trillion-pixel-challenge-looks-ahead-next-decade-geoai-innovation)
+* Emil’s private GeoAI [photo library](https://photos.app.goo.gl/oeWUE5RKnKGTmT1Q9) 📸
 
 **Neural networks + deep learning in general**
-* Neural networks explainer video from Esri (great contrast w/ Random Forest explainer video)
+* Neural networks explainer [video](https://www.youtube.com/watch?v=X22ENbm4BfU) 🎥 from Esri ➡️ *great contrast* w/ Random Forest explainer [video](https://www.youtube.com/watch?v=HL0nz9uOtF8) 🎥

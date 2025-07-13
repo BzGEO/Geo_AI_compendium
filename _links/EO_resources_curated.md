@@ -1,5 +1,5 @@
 # Earth Observation (#EO) resources: a curated list
-[![Update](https://img.shields.io/github/last-commit/bzgeo/bzgeo?label=last%20updated&style=flat-square)](https://github.com/BzGEO/BzGEO/edit/main/links/EO_resources_curated.md)
+[![Update](https://img.shields.io/github/last-commit/bzgeo/geo_ai_refs?label=last%20updated&style=flat-square)](https://github.com/BzGEO/BzGEO/edit/main/links/EO_resources_curated.md)
 
 *compiled by Emil A. Cherrington, Ph.D.*
 
@@ -127,7 +127,7 @@
 * GEE tutorials, etc.
   * [Book: EE Fundamentals & Applications (EEFA), 2022](https://www.eefabook.org/)
     * [Videos](https://www.youtube.com/@eefabook3667/videos)
-    * [EEFA book GEE code repository](https://earthengine.googlesource.com/projects/gee-edu/book)
+    * [EEFA book GEE code repository](https://code.earthengine.google.com/?accept_repo=projects/gee-edu/book)
   * [GEE Higher Education resources](https://developers.google.com/earth-engine/tutorials/edu)
   * [Tutorials from the community](https://developers.google.com/earth-engine/tutorials/community/explore)
 * Other resources
