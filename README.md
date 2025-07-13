@@ -50,16 +50,31 @@
 
 ## 5. Resources: Uncertainty / accuracy assessment
 
+* General accuracy assessment
+  * ArcGIS Desktop: Accuracy Assessment for Image Classification page
+  * ArcGIS Pro: Accuracy Assessment page
+  * GEE: Export training samples script
+  * QGIS: Accuracy assessment plugin
+
+* Accuracy assessment of land cover data applying statistical best practices
+  * Area Estimation & Accuracy Assessment (AREA2) toolbox
+    * GitHub page: https://github.com/bullocke/AREA2/blob/master/README.md
+    * GEE repository: https://code.earthengine.google.com/?accept_repo=projects/AREA2/public
+
+* The issue of training, validation, and test data
+  * Training, validation, and test data sets (Wikipedia): https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets
+  * Definitions (from J. Brownlee, 2020): https://machinelearningmastery.com/difference-test-validation-datasets/
+
 
 ## 6. Resources: Other
 
 **GEE**
-* Earth Engine Fundamentals & Applications [book 📔](https://www.eefabook.org/) (2022)
+* Earth Engine Fundamentals & Applications [book](https://www.eefabook.org/) (2022) 📔
   * [Videos](https://www.youtube.com/@eefabook3667/videos) 🎥
-  * [EEFA book GEE code repository](https://code.earthengine.google.com/?accept_repo=projects/gee-edu/book)
-* Earth Engine higher education [tutorials](https://developers.google.com/earth-engine/tutorials/edu)
-* Earth Engine general [tutorials](https://developers.google.com/earth-engine/tutorials/community/explore)
-* Earth Engine Developers 👨‍💻 [Google Group](https://groups.google.com/g/google-earth-engine-developers/)
+  * EEFA book GEE code [repository](https://code.earthengine.google.com/?accept_repo=projects/gee-edu/book) 💾
+* Earth Engine higher education [tutorials](https://developers.google.com/earth-engine/tutorials/edu) 📝
+* Earth Engine general [tutorials](https://developers.google.com/earth-engine/tutorials/community/explore) 📝
+* Earth Engine Developers [Google Group](https://groups.google.com/g/google-earth-engine-developers/) 👨‍💻
 
 **Miscellaneous**
 
@@ -71,9 +86,7 @@
 * Oak Ridge National Lab [Trillion Pixel Challenge](https://geoai.ornl.gov/trillion-pixel/)
  * Sept. 2019 workshop [report](https://geoai.ornl.gov/trillion-pixel/wp-content/uploads/sites/2/2021/03/Trillion_Pixel_Challenge_Workshop_Report-for-public-release.pdf)
  * July 2023 workshop [press release](https://www.ornl.gov/news/trillion-pixel-challenge-looks-ahead-next-decade-geoai-innovation)
-* Emil’s private GeoAI [photo library](https://photos.app.goo.gl/oeWUE5RKnKGTmT1Q9)
-
+* Emil’s private GeoAI [photo library](https://photos.app.goo.gl/oeWUE5RKnKGTmT1Q9) 📸
 
 **Neural networks + deep learning in general**
 * Neural networks explainer [video](https://www.youtube.com/watch?v=X22ENbm4BfU) 🎥 from Esri ➡️ *great contrast* w/ Random Forest explainer [video](https://www.youtube.com/watch?v=HL0nz9uOtF8) 🎥
-
