@@ -23,7 +23,7 @@
   * Understand how to replicate ML workflows from one platform to another
 * Understand the limitations of the various ML approaches 🤔
   * Push the limits of the various approaches
-* What determines the taste of the cake? The quality of the ingredients used, or the technique of the baker? 🤔
+  * *For instance, what determines the taste of the cake? The quality of the ingredients used, or the technique of the baker?* 🤔
 
 ## 2. Schematics
 
