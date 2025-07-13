@@ -5,6 +5,8 @@
 
 [![Update](https://img.shields.io/github/last-commit/bzgeo/geo_ai_refs?label=last%20updated&style=flat-square)](https://github.com/BzGEO/geo_ai_refs)
 
+![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/word_cloud_v2023-05-05b.PNG)
+
 ## Overview
 
 1. Objectives
@@ -16,12 +18,12 @@
 
 ## 1. Objectives
 
-* Document the various Machine Learning approaches available across various [desktop + cloud] platforms (e.g. ArcGIS, ENVI, GEE, QGIS, SNAP, TerrSet)
-  * Compile resources (including tutorials and sample scripts) regarding how to implement each approach in different platforms
+* Document the various Machine Learning approaches available across various [desktop + cloud] platforms (e.g. [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview), [ENVI](https://www.nv5geospatialsoftware.com/Products/ENVI), [ERDAS Imagine](https://hexagon.com/products/erdas-imagine), [GEE](https://code.earthengine.google.com/), [QGIS](https://qgis.org/),[R](https://cran.r-project.org/), [SNAP](https://step.esa.int/main/download/snap-download/), [TerrSet](https://github.com/ClarkCGA/terrset))
+  * Compile resources (including tutorials and sample scripts) regarding how to implement those approaches in the platforms listed ⬆️
   * Understand how to replicate ML workflows from one platform to another
-* Understand the limitations of the various ML approaches
+* Understand the limitations of the various ML approaches 🤔
   * Push the limits of the various approaches
-* What determines the taste of the cake? The quality of the ingredients used, or the technique of the baker? 🤔
+  * *For instance, what determines the taste of the cake? The quality of the ingredients used, or the technique of the baker?* 🤔
 
 ## 2. Schematics
 
