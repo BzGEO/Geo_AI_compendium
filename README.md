@@ -1,5 +1,5 @@
 # GeoAI Sourcebook:
-## Geospatial artificial intelligence / machine learning (Geo AI / Geo ML) resources focused on land cover monitoring
+## Geospatial 🗺️ artificial intelligence / machine learning (Geo AI / Geo ML) 👨‍💻 resources focused on land cover monitoring 🛰️🏞️
 
 *compiled by Emil A. Cherrington, Ph.D.*
 
