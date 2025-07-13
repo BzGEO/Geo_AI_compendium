@@ -1,8 +1,9 @@
-# GeoAI Sourcebook: Geospatial artificial intelligence / machine learning (Geo AI / Geo ML) resources focused on land cover monitoring
-
-[![Update](https://img.shields.io/github/last-commit/bzgeo/geo_ai_refs?label=last%20updated&style=flat-square)](https://github.com/BzGEO/geo_ai_refs)
+# GeoAI Sourcebook:
+## Geospatial artificial intelligence / machine learning (Geo AI / Geo ML) resources focused on land cover monitoring
 
 *compiled by Emil A. Cherrington, Ph.D.*
+
+[![Update](https://img.shields.io/github/last-commit/bzgeo/geo_ai_refs?label=last%20updated&style=flat-square)](https://github.com/BzGEO/geo_ai_refs)
 
 ## Overview
 
