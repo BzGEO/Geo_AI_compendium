@@ -61,13 +61,15 @@
     * GitHub page: https://github.com/bullocke/AREA2/blob/master/README.md
     * GEE repository: https://code.earthengine.google.com/?accept_repo=projects/AREA2/public
 
-![]()
+![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/graphic_ml_algorithm_accuracy_metwalli.png)
+
 [*source*](https://towardsdatascience.com/how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9): Sara A. Metwalli
+
 * The issue of training, validation, and test data
   * Training, validation, and test data sets (Wikipedia): https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets
   * Definitions (from J. Brownlee, 2020): https://machinelearningmastery.com/difference-test-validation-datasets/
 
-![]()
+![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/graphic_validation_brownlee.png)
 [*source*](https://machinelearningmastery.com/difference-test-validation-datasets/): J. Brownlee (2020)
 
 ## 6. Resources: Other
