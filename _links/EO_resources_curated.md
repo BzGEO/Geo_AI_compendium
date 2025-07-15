@@ -155,7 +155,7 @@
 ## Select geospatial AI resources
 
 * NASA-related
-  * [SERVIR Geo AI Working Group page](https://sites.google.com/uah.edu/geo-ai-working-group/home)
+  * SERVIR Geo AI Working Group [page](https://sites.google.com/uah.edu/geo-ai-working-group/home)
   * Course - [NASA ARSET: Fundamentals of Machine Learning for Earth Science (2023)](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-machine-learning-earth-science)
     * [Associated GitHub page](https://github.com/NASAARSET/ARSET_ML_Fundamentals)
 
