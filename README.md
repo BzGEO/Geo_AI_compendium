@@ -41,7 +41,10 @@
 
 ## 3. Resources: Machine learning (classical / traditional)
 
-*These are resources for commonly-used software applications. Let's start with an overview of Machine Learning.*
+*These are resources for commonly-used software applications.*
+
+## 3.a. Overview of classical / traditional ML
+*Let's start with an overview of Machine Learning.*
 
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/google_2022_ml_defn.PNG)
 [source:](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit?slide=id.gff707151b9_21_75#slide=id.gff707151b9_21_75) Google (2022)
@@ -51,26 +54,90 @@
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/google_2024_ml_vs_dl.PNG)
 [source:](https://docs.google.com/presentation/d/1BUk4pvlpJb5Uwm4Uld8WqDun4MexaLygACcd1pRWCVc/edit?slide=id.g2f65abacf57_0_1#slide=id.g2f65abacf57_0_1) Google (2024)
 
-**Software applications**
+## 3.b. Classification algorithms
 
-*ArcGIS*
+## 3.b.1. Unsupervised classification algorithms
+
+**K-means**
+
+![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_k_means.PNG)
+
+source: B. Howell (2006)
+
+
+**ISODATA**
+
+![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_isodata_1.PNG)
+
+source: B. Howell (2006)
+
+
+![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_isodata_2.PNG)
+
+source: J. Jensen (2005)
+
+
+![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_isodata_3.PNG)
+
+source: J. Jensen (2005)
+
+
+## 3.b.2. Supervised classification algorithms
+
+**Minimum Distance**
+
+![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_min_dist.PNG)
+
+source: B. Howell (2006)
+
+
+**Maximum Likelihood**
+
+![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_mlc.PNG)
+
+source: B. Howell (2006)
+
+
+**Support Vector Machine**
+
+![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_svm.PNG)
+
+[source](https://scikit-learn.org/stable/modules/svm.html): SciKit-Learn
+
+
+**Random Forest**
+
+![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_rf.PNG)
+
+source: RUS-Copernicus
+
+
+**Other: Miscellaneous supervised ML classification output options in Earth Engine** ➡️ *some classifiers output class probability maps*
+
+![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_gee_options.PNG)
+
+[source](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit#slide=id.gff707151b9_21_352): Google (2022) | for viewing class probabilities, see [this](https://developers.google.com/earth-engine/apidocs/ee-classifier-setoutputmode)
+
+## 3.c. Classical / traditional ML in commonly-used software applications
+
+**ArcGIS**
 * Classifying Images in **ArcGIS Desktop** 10.4 [tutorial](https://community.esri.com/t5/esri-technical-support-blog/classifying-images-in-arcgis-for-desktop-10-4)
 * Train a 'Random Trees' classifier in **ArcGIS Desktop** [tutorial](https://desktop.arcgis.com/en/arcmap/latest/tools/spatial-analyst-toolbox/train-random-trees-classifier.htm)
 * Overview of image classification in **ArcGIS Pro** [tutorial](https://pro.arcgis.com/en/pro-app/latest/help/analysis/image-analyst/overview-of-image-classification.htm)
 
-*QGIS*
+**QGIS**
 * Supervised classification using the Semi-automatic classification Plugin (SCP)’s various algorithms and Sentinel-2 data in QGIS [tutorial](https://dges.carleton.ca/CUOSGwiki/index.php/Supervised_classification_in_QGIS)
 
-*ENVI*
+**ENVI**
 * Classification (supervised + unsupervised ML) workflow [overview](https://www.nv5geospatialsoftware.com/docs/Classification.html)
 * Classification [tutorial](https://www.nv5geospatialsoftware.com/docs/classificationtutorial.html)
 
-*SNAP*
+**SNAP**
 * Unsupervised classification of land cover using Sentinel-1 in SNAP [tutorial](https://dges.carleton.ca/CUOSGwiki/index.php/Unsupervised_Landcover_Classification_In_SNAP_Using_Sentinel_1_Imagery)
 * Supervised classification (Random Forests) of forests using Sentinel-2 in SNAP [tutorial](https://dges.carleton.ca/CUOSGwiki/index.php/Random_Forest_Supervised_Classification_Using_Sentinel-2_Data)
 * Land cover classification (unsupervised, supervised) using Sentinel-1 in SNAP [tutorial](http://step.esa.int/docs/tutorials/S1TBX%20Landcover%20classification%20with%20Sentinel-1%20GRD.pdf)
 
-*Google Earth Engine (GEE)*
+**Google Earth Engine (GEE)**
 * Basic ML in GEE
   * [Slides](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU) (2022) ➡️ *see [slide 69](https://www.google.com/url?q=https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit%23slide%3Did.gff707151b9_21_490&sa=D&source=docs&ust=1753935599322924&usg=AOvVaw2eVgFXxv2aAIFeSD3xLMYe) for restrictions re: the size of the training samples and classifier*
     * [Video](https://www.youtube.com/watch?v=WvaBZbph_cU) (2022)
@@ -96,70 +163,6 @@
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/gee_clusterers_2025-07.PNG)
 
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/gee_classifiers_2025-07.PNG)
-
-**Classification algorithms**
-
-Unsupervised classification algorithms
-
-*K-means*
-
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_k_means.PNG)
-
-source: B. Howell (2006)
-
-
-*ISODATA*
-
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_isodata_1.PNG)
-
-source: B. Howell (2006)
-
-
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_isodata_2.PNG)
-
-source: J. Jensen (2005)
-
-
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_isodata_3.PNG)
-
-source: J. Jensen (2005)
-
-
-Supervised classification algorithms
-
-*Minimum Distance*
-
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_min_dist.PNG)
-
-source: B. Howell (2006)
-
-
-*Maximum Likelihood*
-
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_mlc.PNG)
-
-source: B. Howell (2006)
-
-
-*Support Vector Machine*
-
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_svm.PNG)
-
-[source](https://scikit-learn.org/stable/modules/svm.html): SciKit-Learn
-
-
-*Random Forest*
-
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_rf.PNG)
-
-source: RUS-Copernicus
-
-
-*Miscellaneous supervised ML classification output options in Earth Engine ➡️ some classifiers output class probability maps*
-
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_gee_options.PNG)
-
-[source](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit#slide=id.gff707151b9_21_352): Google (2022) | for viewing class probabilities, see [this](https://developers.google.com/earth-engine/apidocs/ee-classifier-setoutputmode)
 
 ## 4. Resources: Deep Learning
 
