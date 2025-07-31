@@ -9,12 +9,12 @@
 
 ## Overview
 
-1. [Objectives](https://github.com/BzGEO/Geo_AI_sourcebook/tree/main#1-objectives)
-2. [Schematics](https://github.com/BzGEO/Geo_AI_sourcebook/tree/main#2-schematics)
-3. [Resources: Machine learning (classical)](https://github.com/BzGEO/Geo_AI_sourcebook/tree/main#3-resources-machine-learning-classical--traditional)
-4. [Resources: Deep learning](https://github.com/BzGEO/Geo_AI_sourcebook/tree/main#4-resources-deep-learning)
-5. [Resources: Uncertainty / accuracy assessment](https://github.com/BzGEO/Geo_AI_sourcebook/tree/main#5-resources-uncertainty--accuracy-assessment)
-6. [Resources: Other](https://github.com/BzGEO/Geo_AI_sourcebook/tree/main#6-resources-other)
+1. [Objectives](https://github.com/BzGEO/Geo_AI_sourcebook/#1-objectives)
+2. [Schematics](https://github.com/BzGEO/Geo_AI_sourcebook/#2-schematics)
+3. [Resources: Machine learning (classical)](https://github.com/BzGEO/Geo_AI_sourcebook/#3-resources-machine-learning-classical--traditional)
+4. [Resources: Deep learning](https://github.com/BzGEO/Geo_AI_sourcebook/#4-resources-deep-learning)
+5. [Resources: Uncertainty / accuracy assessment](https://github.com/BzGEO/Geo_AI_sourcebook/#5-resources-uncertainty--accuracy-assessment)
+6. [Resources: Other](https://github.com/BzGEO/Geo_AI_sourcebook/tree/#6-resources-other)
 
 ## 1. Objectives
 
