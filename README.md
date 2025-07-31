@@ -164,12 +164,67 @@ source: RUS-Copernicus
 
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/gee_classifiers_2025-07.PNG)
 
-## 4. Resources: Deep Learning
+## 4. Resources: Deep Learning (DL)
 
 🚨 *This section is still in progress.* 🚨
 
 ![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/cranberries_dl_small2.png)
 source: modified from the Cranberries' "Everybody Else is Doing It, So Why Can't We?" album cover (1993)
+
+**TensorFlow resources**
+
+## 4.a. General DL resources from organizations
+*Resources from Development Seed*
+
+
+*Resources from SERVIR*
+* SERVIR (2019): TensorFlow basics overview by Kel Markert
+  * [Slides](https://docs.google.com/presentation/d/1dXJOrNrqSzksN_TrzKPby5mZqZm9_YXJJ-nCcqdkGFU/edit#slide=id.p) ➡️ complementary to Google’s 2022 DL slide deck
+  * Colab [notebook](https://colab.research.google.com/drive/1dGj-j2V_xk8M5o_9i1tBxuE4ZFQEaoyZ)
+* SERVIR Geo AI Working Group (formerly TensorFlow Working Group) [resources](https://sites.google.com/uah.edu/2020-tensorflow-technical-exch/home/resources)
+* SERVIR Geo AI Working Group presentation [videos](https://www.youtube.com/playlist?list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN)
+* Overview of how GEE connects to Google Cloud and AI (Sept. 2019): “Understanding the workflow between the Tensorflow library, Google Cloud Platform, Google Earth Engine, and Google Colab is a challenging undertaking… (T. Mayer / SERVIR SCO)
+
+![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/dl_02.PNG)
+
+*Resources from Spatial Thoughts*
+* Building a Deep Neural Network
+  * [Slides](https://docs.google.com/presentation/d/1hPVRnxp2Vp1VHXBtu36SH_UtEOjPz70KcDV-zGIin3U/edit#slide=id.ge30b5f6dd9_0_33) / [Video](https://youtu.be/34yNkLmEHAI?t=5957)
+  * [Colab Notebook](https://colab.research.google.com/github/spatialthoughts/courses/blob/master/code/end_to_end_gee/tf_gee_dnn_model.ipynb) → *this can be run using local (i.e. desktop or laptop) resources, per these [instructions](https://research.google.com/colaboratory/local-runtimes.html)*
+
+![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/dl_03.PNG)
+
+[source](https://youtu.be/34yNkLmEHAI?t=5197): U. Gandhi / Spatial Thoughts
+
+*Resources from Google*
+
+
+## 4.b. Software-specific DL resources
+
+*ArcGIS-related resources*
+
+*QGIS-related resources*
+* General list of [QGIS plugins](https://plugins.qgis.org/plugins/tags/deep-learning/) referencing DL
+* QGIS Deepness: Deep Neural Remote Sensing [plugin](https://plugins.qgis.org/plugins/deepness/) (2024) 🆕
+  * Documentation [page](https://qgis-plugin-deepness.readthedocs.io/en/latest/)
+  * “[Model Zoo](https://qgis-plugin-deepness.readthedocs.io/en/latest/main/main_model_zoo.html)”
+* QGIS Deep Learning Tools [plugin](https://plugins.qgis.org/plugins/DeepLearningTools/) (2021)
+* QGIS Deep Learning Datasets Maker [plugin](https://plugins.qgis.org/plugins/deep-learning-datasets-maker/) (2022)
+
+
+*ENVI-related resources*
+* Overview of the ENVI Deep Learning Process [page](https://www.nv5geospatialsoftware.com/docs/OverviewENVIDeepLearning.html)
+* ENVI Deep Learning Guide [Map](https://www.nv5geospatialsoftware.com/docs/guidemap.html)
+* What's New in ENVI Deep Learning 3.0 [page](https://www.nv5geospatialsoftware.com/docs/deep_learning_WhatsNew.html)
+* ENVI Deep Learning system requirements [page](https://www.nv5geospatialsoftware.com/docs/systemrequirements.html)
+* Train Deep Learning Models Using the ENVI Modeler [page](https://www.nv5geospatialsoftware.com/docs/trainusingmodeler.html)
+
+*R-related resources*
+* NeuralNet package basic [documentation](https://cran.r-project.org/web/packages/neuralnet/index.html)
+* Torch (PyTorch) package basic [documentation](https://cran.r-project.org/web/packages/torch/index.html)
+  * ReddIt thread re: packaging of PyTorch / TensorFlow in R → *“Has anyone else noticed that there do not seem to be many packages in R that allow for Neural Networks and Deep Learning (with the exception of "nnet")? It seems that any time and R user would like to fit Neural Networks, they are "forced" to use the R version of "keras" (through "reticulate") - ultimately, the fitting of the Neural Network is done behind the scenes in Python.”*
+* DataCamp [tutorial](https://www.datacamp.com/tutorial/neural-network-models-r) for building a neural network in R using NeuralNet, Keras, and TensorFlow packages
+* Udemy course preview [video](https://youtu.be/xrBkTy_F-h8?t=226) about neural networks in R (2019) → Udemy [course](https://www.udemy.com/course/how-to-use-ann-for-prediction-mapping-using-gis-data/)
 
 
 
