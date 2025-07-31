@@ -173,8 +173,22 @@ source: modified from the Cranberries' "Everybody Else is Doing It, So Why Can't
 
 **TensorFlow resources**
 
+![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/dl_01.PNG)
+
+source: Google
+
+
 ## 4.a. General DL resources from organizations
 *Resources from Development Seed*
+* Development Seed (2021): Deep Learning overview resources developed for SERVIR Amazonia: GitHub [repo](https://github.com/developmentseed/servir-amazonia-ml]
+* Development Seed (2021): Deep Learning overview resources developed for SERVIR Amazonia: Jupyter Book
+  * 1: [Introduction to ML, Neural Networks (NN), and DL](http://devseed.com/servir-amazonia-ml/docs/Lesson1a_Intro_ML_NN_DL.html)
+  * 2: [Introduction to TensorFlow & Keras](http://devseed.com/servir-amazonia-ml/docs/Lesson1b_Intro_TensorFlow_Keras.html)
+  * 3: [Accessing Planet / NICFI mosaic data](http://devseed.com/servir-amazonia-ml/docs/Lesson2a_get_planet_NICFI.html)
+  * 4: [Processing data for use in DL](http://devseed.com/servir-amazonia-ml/docs/Lesson2b_prep_data_ML_segmentation.html)
+  * 5: [Semantic segmentation with DL](http://devseed.com/servir-amazonia-ml/docs/Lesson3_deeplearning_crop_segmentation.html)
+  * 6: [Evaluating semantic segmentation models](http://devseed.com/servir-amazonia-ml/docs/Lesson4_evaluation.html)
+  * 7: [Dealing with limited data for semantic segmentation](http://devseed.com/servir-amazonia-ml/docs/Lesson5_dealing_with_limited_data.html)
 
 
 *Resources from SERVIR*
