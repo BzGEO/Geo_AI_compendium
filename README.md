@@ -104,45 +104,61 @@ Unsupervised classification algorithms
 *K-means*
 
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_k_means.PNG)
+
 source: B. Howell (2006)
+
 
 *ISODATA*
 
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_isodata_1.PNG)
+
 source: B. Howell (2006)
 
 
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_isodata_2.PNG)
+
 source: J. Jensen (2005)
 
+
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_isodata_3.PNG)
+
 source: J. Jensen (2005)
+
 
 Supervised classification algorithms
 
 *Minimum Distance*
 
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_min_dist.PNG)
+
 source: B. Howell (2006)
+
 
 *Maximum Likelihood*
 
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_mlc.PNG)
+
 source: B. Howell (2006)
+
 
 *Support Vector Machine*
 
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_svm.PNG)
+
 [source](https://scikit-learn.org/stable/modules/svm.html): SciKit-Learn
+
 
 *Random Forest*
 
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_rf.PNG)
+
 source: RUS-Copernicus
+
 
 *Miscellaneous supervised ML classification output options in Earth Engine ➡️ some classifiers output class probability maps*
 
 ![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_gee_options.PNG)
+
 [source](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit#slide=id.gff707151b9_21_352): Google (2022) | for viewing class probabilities, see [this](https://developers.google.com/earth-engine/apidocs/ee-classifier-setoutputmode)
 
 ## 4. Resources: Deep Learning
