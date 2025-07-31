@@ -231,3 +231,7 @@ source: modified from the Cranberries' "Everybody Else is Doing It, So Why Can't
 
 **Neural networks + deep learning in general**
 * Neural networks explainer [video](https://www.youtube.com/watch?v=X22ENbm4BfU) 🎥 from Esri ➡️ *great contrast* w/ Random Forest explainer [video](https://www.youtube.com/watch?v=HL0nz9uOtF8) 🎥
+
+## Contact information
+
+If you have any questions, feel free to contact Emil Cherrington by :envelope_with_arrow: email: **emil.cherrington [at] uah.edu**.
