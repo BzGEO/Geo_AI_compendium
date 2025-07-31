@@ -31,7 +31,7 @@
 
 ![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/venn_diagram_ai_small.png)
 
-*source*: [Human Centered AI Lab](https://human-centered.ai/wordpress/wp-content/uploads/2017/11/Deep-Learning-subset-of-Machine-Learning-subset-of-Artificial-Intelligence.jpg)
+*source*: [Human Centered AI Lab (2017)](https://human-centered.ai/wordpress/wp-content/uploads/2017/11/Deep-Learning-subset-of-Machine-Learning-subset-of-Artificial-Intelligence.jpg)
 
 * Overview of various tools for doing ML (“[SciKit-Learn algorithm cheat sheet](https://scikit-learn.org/stable/machine_learning_map.html)”):
 
@@ -63,7 +63,7 @@
 
 ![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/graphic_ml_algorithm_accuracy_metwalli.png)
 
-[*source*](https://towardsdatascience.com/how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9): Sara A. Metwalli
+[*source*](https://towardsdatascience.com/how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9): Sara A. Metwalli / Towards Data Science (2020)
 
 * The issue of training, validation, and test data
   * Training, validation, and test data sets (Wikipedia): https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets
