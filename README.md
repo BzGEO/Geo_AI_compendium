@@ -1,20 +1,20 @@
-# GeoAI Sourcebook:
+# GeoAI Compendium:
 ## Geospatial 🗺️ artificial intelligence / machine learning (Geo AI / Geo ML) 👨‍💻 resources focused on land cover monitoring 🛰️🏞️
 
 *compiled by Emil A. Cherrington, Ph.D.*
 
-[![Update](https://img.shields.io/github/last-commit/bzgeo/geo_ai_refs?label=last%20updated&style=flat-square)](https://github.com/BzGEO/geo_ai_refs)
+[![Update](https://img.shields.io/github/last-commit/bzgeo/Geo_AI_compendium?label=last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
 
-![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/word_cloud_v2023-05-05b.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/word_cloud_v2023-05-05b.PNG)
 
 ## Overview
 
-1. [Objectives](https://github.com/BzGEO/Geo_AI_sourcebook/#1-objectives)
-2. [Schematics](https://github.com/BzGEO/Geo_AI_sourcebook/#2-schematics)
-3. [Resources: Machine learning (classical)](https://github.com/BzGEO/Geo_AI_sourcebook/#3-resources-machine-learning-classical--traditional)
-4. [Resources: Deep learning](https://github.com/BzGEO/Geo_AI_sourcebook/#4-resources-deep-learning)
-5. [Resources: Uncertainty / accuracy assessment](https://github.com/BzGEO/Geo_AI_sourcebook/#5-resources-uncertainty--accuracy-assessment)
-6. [Resources: Other](https://github.com/BzGEO/Geo_AI_sourcebook/tree/#6-resources-other)
+1. [Objectives](https://github.com/BzGEO/Geo_AI_compendium/#1-objectives)
+2. [Schematics](https://github.com/BzGEO/Geo_AI_compendium/#2-schematics)
+3. [Resources: Machine learning (classical)](https://github.com/BzGEO/Geo_AI_compendium/#3-resources-machine-learning-classical--traditional)
+4. [Resources: Deep learning](https://github.com/BzGEO/Geo_AI_compendium/#4-resources-deep-learning)
+5. [Resources: Uncertainty / accuracy assessment](https://github.com/BzGEO/Geo_AI_compendium/#5-resources-uncertainty--accuracy-assessment)
+6. [Resources: Other](https://github.com/BzGEO/Geo_AI_compendium/tree/#6-resources-other)
 
 ## 1. Objectives
 
@@ -29,13 +29,13 @@
 
 * Overview of the distinctions between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)
 
-![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/venn_diagram_ai_small.png)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/venn_diagram_ai_small.png)
 
 *source*: [Human Centered AI Lab (2017)](https://human-centered.ai/wordpress/wp-content/uploads/2017/11/Deep-Learning-subset-of-Machine-Learning-subset-of-Artificial-Intelligence.jpg)
 
 * Overview of various tools for doing ML (“[SciKit-Learn algorithm cheat sheet](https://scikit-learn.org/stable/machine_learning_map.html)”):
 
-![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/scikit_learn_cheatsheet.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/scikit_learn_cheatsheet.PNG)
 
 *source*: [SciKitLearn](https://scikit-learn.org/stable/machine_learning_map.html)
 
@@ -46,13 +46,13 @@
 ## 3.a. Overview of classical / traditional ML
 *Let's start with an overview of Machine Learning.*
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/google_2022_ml_defn.PNG)
-[source:](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit?slide=id.gff707151b9_21_75#slide=id.gff707151b9_21_75) Google (2022)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/google_2022_ml_defn.PNG)
+source: [Google (2022)](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit?slide=id.gff707151b9_21_75#slide=id.gff707151b9_21_75)
 
 *By the way, how does classical / traditional ML differ from Deep Learning?* 🤔
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/google_2024_ml_vs_dl.PNG)
-[source:](https://docs.google.com/presentation/d/1BUk4pvlpJb5Uwm4Uld8WqDun4MexaLygACcd1pRWCVc/edit?slide=id.g2f65abacf57_0_1#slide=id.g2f65abacf57_0_1) Google (2024)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/google_2024_ml_vs_dl.PNG)
+source: [Google (2024)](https://docs.google.com/presentation/d/1BUk4pvlpJb5Uwm4Uld8WqDun4MexaLygACcd1pRWCVc/edit?slide=id.g2f65abacf57_0_1#slide=id.g2f65abacf57_0_1)
 
 ## 3.b. Classification algorithms
 
@@ -60,24 +60,24 @@
 
 **K-means**
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_k_means.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_unsupervised_k_means.PNG)
 
 source: B. Howell (2006)
 
 
 **ISODATA**
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_isodata_1.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_unsupervised_isodata_1.PNG)
 
 source: B. Howell (2006)
 
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_isodata_2.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_unsupervised_isodata_2.PNG)
 
 source: J. Jensen (2005)
 
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_unsupervised_isodata_3.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_unsupervised_isodata_3.PNG)
 
 source: J. Jensen (2005)
 
@@ -86,37 +86,37 @@ source: J. Jensen (2005)
 
 **Minimum Distance**
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_min_dist.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_min_dist.PNG)
 
 source: B. Howell (2006)
 
 
 **Maximum Likelihood**
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_mlc.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_mlc.PNG)
 
 source: B. Howell (2006)
 
 
 **Support Vector Machine**
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_svm.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_svm.PNG)
 
-[source](https://scikit-learn.org/stable/modules/svm.html): SciKit-Learn
+source: [SciKit-Learn](https://scikit-learn.org/stable/modules/svm.html)
 
 
 **Random Forest**
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_rf.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_rf.PNG)
 
 source: RUS-Copernicus
 
 
 **Other: Miscellaneous supervised ML classification output options in Earth Engine** ➡️ *some classifiers output class probability maps*
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/algo_gee_options.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_gee_options.PNG)
 
-[source](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit#slide=id.gff707151b9_21_352): Google (2022) | for viewing class probabilities, see [this](https://developers.google.com/earth-engine/apidocs/ee-classifier-setoutputmode)
+source: [Google (2022)](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit#slide=id.gff707151b9_21_352) | for viewing class probabilities, see [this](https://developers.google.com/earth-engine/apidocs/ee-classifier-setoutputmode)
 
 ## 3.c. Classical / traditional ML in commonly-used software applications
 
@@ -160,20 +160,20 @@ source: RUS-Copernicus
   * [Naives Bayes](https://developers.google.com/earth-engine/apidocs/ee-classifier-smilenaivebayes) ➡️ *includes what is otherwise referred to as Maximum Likelihood Classification (MLC)*
   * [Random Forest](https://developers.google.com/earth-engine/apidocs/ee-classifier-smilerandomforest)
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/gee_clusterers_2025-07.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/gee_clusterers_2025-07.PNG)
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/gee_classifiers_2025-07.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/gee_classifiers_2025-07.PNG)
 
 ## 4. Resources: Deep Learning (DL)
 
 🚨 *This section is still in progress.* 🚨
 
-![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/cranberries_dl_small2.png)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/cranberries_dl_small2.png)
 source: modified from the Cranberries' "Everybody Else is Doing It, So Why Can't We?" album cover (1993)
 
 **TensorFlow resources**
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/dl_01.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/dl_01.PNG)
 
 source: Google
 
@@ -199,16 +199,16 @@ source: Google
 * SERVIR Geo AI Working Group presentation [videos](https://www.youtube.com/playlist?list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN)
 * Overview of how GEE connects to Google Cloud and AI (Sept. 2019): “Understanding the workflow between the Tensorflow library, Google Cloud Platform, Google Earth Engine, and Google Colab is a challenging undertaking… (T. Mayer / SERVIR SCO)
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/dl_02.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/dl_02.PNG)
 
 *Resources from Spatial Thoughts*
 * Building a Deep Neural Network
   * [Slides](https://docs.google.com/presentation/d/1hPVRnxp2Vp1VHXBtu36SH_UtEOjPz70KcDV-zGIin3U/edit#slide=id.ge30b5f6dd9_0_33) / [Video](https://youtu.be/34yNkLmEHAI?t=5957)
   * [Colab Notebook](https://colab.research.google.com/github/spatialthoughts/courses/blob/master/code/end_to_end_gee/tf_gee_dnn_model.ipynb) → *this can be run using local (i.e. desktop or laptop) resources, per these [instructions](https://research.google.com/colaboratory/local-runtimes.html)*
 
-![](https://github.com/BzGEO/Geo_AI_sourcebook/blob/main/_graphics/dl_03.PNG)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/dl_03.PNG)
 
-[source](https://youtu.be/34yNkLmEHAI?t=5197): U. Gandhi / Spatial Thoughts
+source: [U. Gandhi / Spatial Thoughts](https://youtu.be/34yNkLmEHAI?t=5197)
 
 *Resources from Google*
 
@@ -242,7 +242,7 @@ source: Google
 
 
 
-![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/oversized_salad_dl2.png)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/oversized_salad_dl2.png)
 
 
 
@@ -259,7 +259,7 @@ source: Google
     * GitHub page: https://github.com/bullocke/AREA2/blob/master/README.md
     * GEE repository: https://code.earthengine.google.com/?accept_repo=projects/AREA2/public
 
-![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/graphic_ml_algorithm_accuracy_metwalli.png)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/graphic_ml_algorithm_accuracy_metwalli.png)
 
 [*source*](https://towardsdatascience.com/how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9): Sara A. Metwalli / Towards Data Science (2020)
 
@@ -267,7 +267,7 @@ source: Google
   * Training, validation, and test data sets (Wikipedia): https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets
   * Definitions (from J. Brownlee, 2020): https://machinelearningmastery.com/difference-test-validation-datasets/
 
-![](https://github.com/BzGEO/geo_ai_refs/blob/main/_graphics/graphic_validation_brownlee.png)
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/graphic_validation_brownlee.png)
 [*source*](https://machinelearningmastery.com/difference-test-validation-datasets/): J. Brownlee (2020)
 
 ## 6. Resources: Other
