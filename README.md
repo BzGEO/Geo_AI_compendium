@@ -1,5 +1,5 @@
 # Geospatial Artificial Intelligence (Geo AI) / Geospatial Machine Learning (Geo ML) Compendium:
-## Resources 👨‍💻 focused on land cover monitoring 🛰️🏞️
+## Resources 👨‍💻 focused on land cover monitoring 🏞️🛰️
 
 *compiled by Emil A. Cherrington, Ph.D.* | 🚨 *This compendium is a work in progress.* 🚨
 
