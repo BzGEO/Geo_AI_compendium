@@ -126,6 +126,7 @@
 **ArcGIS**
 * Classifying Images in **ArcGIS Desktop** 10.4 [tutorial](https://community.esri.com/t5/esri-technical-support-blog/classifying-images-in-arcgis-for-desktop-10-4)
 * Train a 'Random Trees' classifier in **ArcGIS Desktop** [tutorial](https://desktop.arcgis.com/en/arcmap/latest/tools/spatial-analyst-toolbox/train-random-trees-classifier.htm)
+  * Random Forest explainer [video](https://www.youtube.com/watch?v=HL0nz9uOtF8) 🎥
 * Overview of image classification in **ArcGIS Pro** [tutorial](https://pro.arcgis.com/en/pro-app/latest/help/analysis/image-analyst/overview-of-image-classification.htm)
 
 **QGIS**
@@ -143,10 +144,10 @@
 **Google Earth Engine (GEE)**
 * Basic ML in GEE
   * [Slides](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU) (2022) ➡️ *see [slide 69](https://www.google.com/url?q=https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit%23slide%3Did.gff707151b9_21_490&sa=D&source=docs&ust=1753935599322924&usg=AOvVaw2eVgFXxv2aAIFeSD3xLMYe) for restrictions re: the size of the training samples and classifier*
-    * [Video](https://www.youtube.com/watch?v=WvaBZbph_cU) (2022)
+    * [Video](https://www.youtube.com/watch?v=WvaBZbph_cU) 🎥 (2022)
   * [Slides](https://docs.google.com/presentation/d/1aZA8Q7nI-lCWHh709U2xRr2tSaGL6WRbfWMZfDecuSw/edit?resourcekey=0-L4QfUh2AXGnMoLgmrnTHxw#slide=id.g248af0f0c61_0_0) - Geospatial ML intro (2023)
   * [Slides](https://docs.google.com/presentation/d/1jT2biH6DIlN133djneZcdXS7-CgR-dlWm2jBQ1KhM50) - EE classifiers (2023)
-    * [Video](https://www.youtube.com/watch?v=arqbzovtQTo) (2023)
+    * [Video](https://www.youtube.com/watch?v=arqbzovtQTo) 🎥 (2023)
   * [Slides](https://docs.google.com/presentation/d/1BUk4pvlpJb5Uwm4Uld8WqDun4MexaLygACcd1pRWCVc/edit#slide=id.g23ba3cc7e10_1_0) (2024)
 * Overview of [unsupervised ML](https://developers.google.com/earth-engine/guides/clustering)
 * Overview of [supervised ML](https://developers.google.com/earth-engine/guides/classification)
@@ -198,14 +199,14 @@
   * [Slides](https://docs.google.com/presentation/d/1dXJOrNrqSzksN_TrzKPby5mZqZm9_YXJJ-nCcqdkGFU/edit#slide=id.p) ➡️ complementary to Google’s 2022 DL slide deck
   * Colab [notebook](https://colab.research.google.com/drive/1dGj-j2V_xk8M5o_9i1tBxuE4ZFQEaoyZ)
 * SERVIR Geo AI Working Group (formerly TensorFlow Working Group) [resources (2019-present)](https://sites.google.com/uah.edu/2020-tensorflow-technical-exch/home/resources)
-* SERVIR Geo AI Working Group presentation [videos (~2022-present)](https://www.youtube.com/playlist?list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN)
+* SERVIR Geo AI Working Group presentation [videos (~2022-present)](https://www.youtube.com/playlist?list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN) 🎥
 * Overview of how GEE connects to Google Cloud and AI (Sept. 2019): "Understanding the workflow between the Tensorflow library, Google Cloud Platform, Google Earth Engine, and Google Colab is a challenging undertaking..." (T. Mayer / SERVIR SCO)
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/dl_02.PNG)
 
 *Resources from Spatial Thoughts*
 * Building a Deep Neural Network
-  * [Slides](https://docs.google.com/presentation/d/1hPVRnxp2Vp1VHXBtu36SH_UtEOjPz70KcDV-zGIin3U/edit#slide=id.ge30b5f6dd9_0_33) / [Video](https://youtu.be/34yNkLmEHAI?t=5957)
+  * [Slides](https://docs.google.com/presentation/d/1hPVRnxp2Vp1VHXBtu36SH_UtEOjPz70KcDV-zGIin3U/edit#slide=id.ge30b5f6dd9_0_33) / [Video](https://youtu.be/34yNkLmEHAI?t=5957) 🎥
   * [Colab Notebook](https://colab.research.google.com/github/spatialthoughts/courses/blob/master/code/end_to_end_gee/tf_gee_dnn_model.ipynb) → *this can be run using local (i.e. desktop or laptop) resources, per these [instructions](https://research.google.com/colaboratory/local-runtimes.html)*
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/dl_03.PNG)
@@ -221,7 +222,7 @@
 
 * Google (2022): Overview of implementing DL using GEE and TensorFlow
   * [Slides](https://docs.google.com/presentation/d/1HcbbEnC0wbGfp-d6qXbVkcBryP0acNlBKeMCsDCUXpw/edit#slide=id.g15d38b5130c_10_137)
-  * [Video](https://www.youtube.com/watch?v=aiqAN1Zlhdk)
+  * [Video](https://www.youtube.com/watch?v=aiqAN1Zlhdk) 🎥
   * [Colab Notebook](https://colab.research.google.com/drive/1QuKj2U5ekiUMYTJC6qpEK3F1unOlCUej)
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/dl_05.PNG)
@@ -230,7 +231,7 @@
 
 * Google (2023): 
   * [Slides](https://docs.google.com/presentation/d/1e5ppyNts-KJx1YIawP-04QxkAXelOrjzKJ0HPpwNILY)
-  * Video ([part 1](https://www.youtube.com/watch?v=_BjtxPSO1Ho), [part 2](https://www.youtube.com/watch?v=2iiC1p69-EY))
+  * Video 🎥 ([part 1](https://www.youtube.com/watch?v=_BjtxPSO1Ho), [part 2](https://www.youtube.com/watch?v=2iiC1p69-EY))
   * Colab notebooks
     * [Part 1](https://colab.research.google.com/drive/1jHgVUls9w0y4HmndV-mpvyZ6yrNuvrjk?usp=sharing): Tables
     * [Part 2.1](https://colab.research.google.com/drive/1NgEB1G17ahL8roNdaDP-UBMbjfyv8XJA?usp=sharing): Generating training data
@@ -259,7 +260,7 @@
 
 *Resources from other sources*
 * Deep learning for land cover classification example (2023) - from [@Ramiqcom](https://www.youtube.com/@ramiqcom)
-  * [Video](https://www.youtube.com/watch?v=NFoZPyQqVRA)
+  * [Video](https://www.youtube.com/watch?v=NFoZPyQqVRA) 🎥
   * [GEE script](https://code.earthengine.google.com/49ccc840cb05e39282cc9d4ca88d82e0)
   * [Colab notebook](https://colab.research.google.com/drive/1mtzWCo4mczLuSjYZiD7JLicNH2jhsljD)
 
@@ -300,7 +301,7 @@
     * [Non-Esri] [Quick Intro to Deep Learning Classifications in ArcGIS Pro](https://www.youtube.com/watch?v=jV-U1RI_qus) (2023)
 * Deep learning via ArcGIS API for Python [page](https://developers.arcgis.com/python/samples/land-cover-classification-using-unet/) (2022)
 * Esri Jupyter notebooks setup [instructions](https://guides.lib.purdue.edu/DataScience/ArcGISPro) (from Purdue U.)
-* Example classification tutorial [video](https://www.youtube.com/watch?v=nFbxIek4Tiw) (from GeoTown)
+* Example classification tutorial [video](https://www.youtube.com/watch?v=nFbxIek4Tiw) 🎥 (from GeoTown)
 * Esri community [forum](https://community.esri.com/t5/custom/page/page-id/Communities)
   * [Questions](https://community.esri.com/t5/arcgis-pro-questions/suggestions-for-deep-learning-backbone-model-for/m-p/1538698) about deep learning patch sizes (14 Sept. 2024)
   * [Questions](https://community.esri.com/t5/arcgis-pro-questions/deep-learning-tools-not-working-in-arcgis-pro-3-4/m-p/1556677#M89931) about installation of v. 3.4 (7 Nov. 2024)
@@ -333,7 +334,7 @@
 * Torch (PyTorch) package basic [documentation](https://cran.r-project.org/web/packages/torch/index.html)
   * ReddIt thread re: packaging of PyTorch / TensorFlow in R → *“Has anyone else noticed that there do not seem to be many packages in R that allow for Neural Networks and Deep Learning (with the exception of "nnet")? It seems that any time and R user would like to fit Neural Networks, they are "forced" to use the R version of "keras" (through "reticulate") - ultimately, the fitting of the Neural Network is done behind the scenes in Python.”*
 * DataCamp [tutorial](https://www.datacamp.com/tutorial/neural-network-models-r) for building a neural network in R using NeuralNet, Keras, and TensorFlow packages
-* Udemy course preview [video](https://youtu.be/xrBkTy_F-h8?t=226) about neural networks in R (2019) → Udemy [course](https://www.udemy.com/course/how-to-use-ann-for-prediction-mapping-using-gis-data/)
+* Udemy course preview [video](https://youtu.be/xrBkTy_F-h8?t=226) 🎥 about neural networks in R (2019) → Udemy [course](https://www.udemy.com/course/how-to-use-ann-for-prediction-mapping-using-gis-data/)
 
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/oversized_salad_dl2.png)
