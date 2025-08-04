@@ -6,7 +6,7 @@
 🚨 *This compendium is a work in progress.* 🚨
 
 [![Update](https://img.shields.io/github/last-commit/bzgeo/Geo_AI_compendium?label=last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.pace_oci_toolkit)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.Geo_AI_compendium)
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/word_cloud_v2023-05-05b.PNG)
 
