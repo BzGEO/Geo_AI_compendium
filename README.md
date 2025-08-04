@@ -212,11 +212,66 @@
 *source*: [U. Gandhi / Spatial Thoughts (2024)](https://youtu.be/34yNkLmEHAI?t=5197)
 
 *Resources from Google*
+* Google (2019): Overview of the connections between GEE, Google Cloud, and the AI Platform (now formally, "Vertex AI"):
+
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/dl_04.PNG)
+
+*source*: [N. Clinton, C. Brown / Google (2019)](https://medium.com/google-earth/down-to-earth-with-ai-platform-7bc363abf4fa)
+
+* Google (2022): Overview of implementing DL using GEE and TensorFlow
+  * [Slides](https://docs.google.com/presentation/d/1HcbbEnC0wbGfp-d6qXbVkcBryP0acNlBKeMCsDCUXpw/edit#slide=id.g15d38b5130c_10_137)
+  * [Video](https://www.youtube.com/watch?v=aiqAN1Zlhdk)
+  * [Colab Notebook](https://colab.research.google.com/drive/1QuKj2U5ekiUMYTJC6qpEK3F1unOlCUej)
+
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/dl_05.PNG)
+
+*source*: [Google (2022)](https://docs.google.com/presentation/d/1HcbbEnC0wbGfp-d6qXbVkcBryP0acNlBKeMCsDCUXpw/edit#slide=id.g15d38b5130c_10_137)
+
+* Google (2023): 
+  * [Slides](https://docs.google.com/presentation/d/1e5ppyNts-KJx1YIawP-04QxkAXelOrjzKJ0HPpwNILY)
+  * Video ([part 1](https://www.youtube.com/watch?v=_BjtxPSO1Ho), [part 2](https://www.youtube.com/watch?v=2iiC1p69-EY))
+  * Colab notebooks
+    * [Part 1](https://colab.research.google.com/drive/1jHgVUls9w0y4HmndV-mpvyZ6yrNuvrjk?usp=sharing): Tables
+    * [Part 2.1](https://colab.research.google.com/drive/1NgEB1G17ahL8roNdaDP-UBMbjfyv8XJA?usp=sharing): Generating training data
+    * [Part 2.1.1](https://colab.research.google.com/drive/1No82eyqGcsklsKh5H2LFtDGg92pBhHkz): Data flow (transfer)
+    * [Part 2.2](https://colab.research.google.com/drive/1KdCNaqYFgAk9ohEF5hWIh7eRkHDPL2-m): Model training on Vertex AI
+    * [Part 2.3](https://colab.research.google.com/drive/1v0o5MEDxSkUT-Eg0RXo2u7rj4oPdZ0Lg): Model prediction
+
+* Google (2024): Deep Learning with Earth Engine & Vertex AI
+  * [Slides](https://docs.google.com/presentation/d/1eNJDIoJg-ADrxC09JIzl00frjyseEc917rItTDPalGI)
+    * [Embeddings (1)](https://docs.google.com/presentation/d/1ZfBYUNV1w377rkxc3REm5_evyzMJF6szxXGBszKC7uw/edit#slide=id.g3012811fd68_0_1316)
+    * [Embeddings (2)](https://docs.google.com/presentation/d/1azsWfeDuC-ZF5L8LNuWAEe49UOsxC-pPvqyZvSvJThk/edit#slide=id.g303d69aca51_0_197)
+  * Colab Notebook: [Soybean mapping](https://colab.research.google.com/drive/1Iip9Li7ZguMxKUjZ4mbcg_q1EDyAvUB2)
+  * [Other Vertex AI examples](https://developers.google.com/earth-engine/guides/ml_examples#multi-class-prediction-with-a-dnn-hosted-on-vertex-ai)
+
+* Google (2025)
+  * Embeddings (Embedding Field Model)
+    * GEE Data Catalog [entry](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL)
+    * [Blog post](https://medium.com/google-earth/ai-powered-pixels-introducing-googles-satellite-embedding-dataset-31744c1f4650)
+    * [White paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/alphaearth-foundations.pdf)
+    * Tutorials
+      * [Part 1](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-01-introduction): Intro
+      * [Part 2](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-02-unsupervised-classification): Unsupervised classification
+      * [Part 3](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-03-supervised-classification): Supervised classification
+      * [Part 4](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-04-regression): Regression
+      * [Part 5](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-05-similarity-search): Similarity search
+
+*Resources from other sources*
+* Deep learning for land cover classification example (2023) - from [@Ramiqcom](https://www.youtube.com/@ramiqcom)
+  * [Video](https://www.youtube.com/watch?v=NFoZPyQqVRA)
+  * [GEE script](https://code.earthengine.google.com/49ccc840cb05e39282cc9d4ca88d82e0)
+  * [Colab notebook](https://colab.research.google.com/drive/1mtzWCo4mczLuSjYZiD7JLicNH2jhsljD)
+
 
 
 ## 4.b. Software-specific DL resources
 
 *ArcGIS-related resources*
+
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/esri_dl_defns_2024.PNG)
+
+*source*: [Esri (2021)](https://www.esri.com/arcgis-blog/products/arcgis-pro/imagery/deep-learning-with-arcgis-pro-tips-tricks-part-2/)
+
 * "Demystifying Geo AI" [article](https://www.esri.com/about/newsroom/arcnews/demystifying-geoai/) 2023
 * "Land Cover Mapping using Pretrained Deep Learning Models" [article](https://www.esri.com/arcgis-blog/products/arcgis/imagery/pretrained-land-cover-models/) 2023
 * Deep learning in ArcGIS Pro 3.x
@@ -251,7 +306,7 @@
 * Esri Australia GIS Directions [podcast episodes](https://esriaustralia.com.au/resources/podcasts/gis-directions/homepage) on Machine Learning
 
 
-![]()
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/arcgis_dl_tools_v_3_3.PNG)
 
 *source*: screenshot from ArcGIS Pro v. 3.3
 
@@ -280,10 +335,7 @@
 * Udemy course preview [video](https://youtu.be/xrBkTy_F-h8?t=226) about neural networks in R (2019) → Udemy [course](https://www.udemy.com/course/how-to-use-ann-for-prediction-mapping-using-gis-data/)
 
 
-
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/oversized_salad_dl2.png)
-
-
 
 ## 5. Resources: Uncertainty / accuracy assessment
 
