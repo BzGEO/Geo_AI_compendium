@@ -255,6 +255,7 @@
     * GEE Data Catalog [entry](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL)
     * [Blog post](https://medium.com/google-earth/ai-powered-pixels-introducing-googles-satellite-embedding-dataset-31744c1f4650)
     * [White paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/alphaearth-foundations.pdf)
+    * [Slides (with code links)](https://docs.google.com/presentation/d/1BwKuuKrC29hiGccuACaKUO6WACJ2bb7gqB31_zETdHI/edit?slide=id.g35452590b7b_2_1035#slide=id.g35452590b7b_2_1035) - *from the ESA Living Planet Symposium*
     * Tutorials
       * [Part 1](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-01-introduction): Intro
       * [Part 2](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-02-unsupervised-classification): Unsupervised classification
