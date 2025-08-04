@@ -395,6 +395,16 @@
 
 ## 7. Software installers
 
+* ArcGIS Pro 3.x deep learning package [installers](https://github.com/Esri/deep-learning-frameworks?tab=readme-ov-file#download) ➡️ *current to ArcGIS Pro 3.5* 👀
+* QGIS [installer](https://qgis.org/download/)
+* QGIS deep learning [plugins](https://plugins.qgis.org/search/?q=deep+learning)
+* R
+  * [Linux installers](https://cran.r-project.org/bin/linux/)
+  * [macOS installers](https://cran.r-project.org/bin/macosx/)
+  * [Windows installers](https://cran.r-project.org/bin/windows/base/)
+* R Studio v.2025.05.1+513 [installer](https://download1.rstudio.org/electron/windows/RStudio-2025.05.1-513.exe)
+* SNAP [installers](https://step.esa.int/main/download/snap-download/)
+* TerrSet [installers](https://github.com/ClarkCGA/terrset/releases)
 
 
 ## Contact information
