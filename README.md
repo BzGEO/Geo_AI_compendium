@@ -3,6 +3,8 @@
 
 *compiled by Emil A. Cherrington, Ph.D.*
 
+🚨 *This compendium is still in progress.* 🚨
+
 [![Update](https://img.shields.io/github/last-commit/bzgeo/Geo_AI_compendium?label=last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/word_cloud_v2023-05-05b.PNG)
@@ -102,7 +104,7 @@
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_svm.PNG)
 
-*source*: [SciKit-Learn](https://scikit-learn.org/stable/modules/svm.html)
+*source*: [SciKit-Learn (2024)](https://scikit-learn.org/stable/modules/svm.html)
 
 
 **Random Forest**
@@ -166,8 +168,6 @@
 
 ## 4. Resources: Deep Learning (DL)
 
-🚨 *This section is still in progress.* 🚨
-
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/cranberries_dl_small2.png)
 
 *source*: modified from the Cranberries' "Everybody Else is Doing It, So Why Can't We?" album cover (1993)
@@ -181,7 +181,7 @@
 
 ## 4.a. General DL resources from organizations
 *Resources from Development Seed*
-* Development Seed (2021): Deep Learning overview resources developed for SERVIR Amazonia: GitHub [repo](https://github.com/developmentseed/servir-amazonia-ml]
+* Development Seed (2021): Deep Learning overview resources developed for SERVIR Amazonia: GitHub [repo](https://github.com/developmentseed/servir-amazonia-ml)
 * Development Seed (2021): Deep Learning overview resources developed for SERVIR Amazonia: Jupyter Book
   * 1: [Introduction to ML, Neural Networks (NN), and DL](http://devseed.com/servir-amazonia-ml/docs/Lesson1a_Intro_ML_NN_DL.html)
   * 2: [Introduction to TensorFlow & Keras](http://devseed.com/servir-amazonia-ml/docs/Lesson1b_Intro_TensorFlow_Keras.html)
@@ -196,9 +196,9 @@
 * SERVIR (2019): TensorFlow basics overview by Kel Markert
   * [Slides](https://docs.google.com/presentation/d/1dXJOrNrqSzksN_TrzKPby5mZqZm9_YXJJ-nCcqdkGFU/edit#slide=id.p) ➡️ complementary to Google’s 2022 DL slide deck
   * Colab [notebook](https://colab.research.google.com/drive/1dGj-j2V_xk8M5o_9i1tBxuE4ZFQEaoyZ)
-* SERVIR Geo AI Working Group (formerly TensorFlow Working Group) [resources](https://sites.google.com/uah.edu/2020-tensorflow-technical-exch/home/resources)
-* SERVIR Geo AI Working Group presentation [videos](https://www.youtube.com/playlist?list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN)
-* Overview of how GEE connects to Google Cloud and AI (Sept. 2019): “Understanding the workflow between the Tensorflow library, Google Cloud Platform, Google Earth Engine, and Google Colab is a challenging undertaking… (T. Mayer / SERVIR SCO)
+* SERVIR Geo AI Working Group (formerly TensorFlow Working Group) [resources (2019-present)](https://sites.google.com/uah.edu/2020-tensorflow-technical-exch/home/resources)
+* SERVIR Geo AI Working Group presentation [videos (~2022-present)](https://www.youtube.com/playlist?list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN)
+* Overview of how GEE connects to Google Cloud and AI (Sept. 2019): "Understanding the workflow between the Tensorflow library, Google Cloud Platform, Google Earth Engine, and Google Colab is a challenging undertaking..." (T. Mayer / SERVIR SCO)
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/dl_02.PNG)
 
@@ -217,6 +217,44 @@
 ## 4.b. Software-specific DL resources
 
 *ArcGIS-related resources*
+* "Demystifying Geo AI" [article](https://www.esri.com/about/newsroom/arcnews/demystifying-geoai/) 2023
+* "Land Cover Mapping using Pretrained Deep Learning Models" [article](https://www.esri.com/arcgis-blog/products/arcgis/imagery/pretrained-land-cover-models/) 2023
+* Deep learning in ArcGIS Pro 3.x
+  * [Overview](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/deep-learning-for-image-analyst-whats-new-in-arcgis-pro-3-2/): "Deep Learning for Image Analyst – What’s New in ArcGIS Pro 3.2" (2023)
+  * [Overview](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/whats-new-for-geoai-in-the-image-analyst-extension-of-arcgis-pro-3-3/): "What's new for GeoAI in the Image Analyst extension of ArcGIS Pro 3.3" (2024)
+  * [Classifying pixels using DL with ArcGIS' Image Analyst](https://pro.arcgis.com/en/pro-app/latest/tool-reference/image-analyst/classify-pixels-using-deep-learning.htm)
+  * [Classifying objects using DL with ArcGIS' Image Analyst](https://pro.arcgis.com/en/pro-app/latest/tool-reference/image-analyst/classify-objects-using-deep-learning.htm)
+  * [Pixel classification](https://pro.arcgis.com/en/pro-app/latest/tool-reference/image-analyst/pixel-classification.htm) ➡️ "In this case of sparse training samples as below, you must set the ignore class parameter to 0. This will ignore the pixels that have not been classified for training."
+  * [Selecting DL model type](https://support.esri.com/en-us/knowledge-base/problem-train-deep-learning-model-model-type-not-found--000025249) ➡️ "Classify pixels using deep learning" → "Classified tiles" option
+  * [Deep learning toolset](https://pro.arcgis.com/en/pro-app/latest/tool-reference/image-analyst/an-overview-of-the-deep-learning-toolset-in-image-analyst.htm) ➡️ explanation of the main ArcGIS DL tools
+  * [Deep learning model architectures](https://pro.arcgis.com/en/pro-app/latest/tool-reference/image-analyst/train-deep-learning-model.htm) ➡️ **really useful to review** 😉
+  * [Training Deep Learning Model (Image Analyst)](https://pro.arcgis.com/en/pro-app/latest/tool-reference/image-analyst/train-deep-learning-model.htm)
+  * [Deep learning model review](https://pro.arcgis.com/en/pro-app/latest/help/analysis/image-analyst/deep-learning-model-reviewer.htm)
+  * [Pretrained Deep Learning Models](https://www.esri.com/en-us/arcgis/deep-learning-models)
+    * "Introducing pretrained geospatial deep learning models" [article](https://www.esri.com/arcgis-blog/products/arcgis/imagery/introducing-ready-to-use-deep-learning-models/) (2020)
+    * [Pixel classification models](https://livingatlas.arcgis.com/en/browse/?q=dlpk%20classification#d=2&q=dlpk+classification)
+      * [Mangrove classification using Landsat-8](https://www.arcgis.com/home/item.html?id=741a56ae6a5340058b9704a8f68f1b9a)
+      * [Land cover classification using Landsat-8](https://www.arcgis.com/home/item.html?id=e732ee81a9c14c238a14df554a8e3225)
+      * [Land cover classification using Sentinel-2](https://www.arcgis.com/home/item.html?id=afd124844ba84da69c2c533d4af10a58)
+      * [Land cover classification using aerial photography](https://www.arcgis.com/home/item.html?id=a10f46a8071a4318bcc085dae26d7ee4)
+    * Segment Anything Model (SAM) [instructions](https://doc.arcgis.com/en/pretrained-models/latest/imagery/using-segment-anything-model-sam-.htm)
+    * Deep Learning package for ArcGIS
+      * Installation [notes](https://pro.arcgis.com/en/pro-app/latest/help/analysis/deep-learning/install-deep-learning-frameworks.htm)
+      * [Installers](https://github.com/Esri/deep-learning-frameworks?tab=readme-ov-file)
+  * [Non-Esri] [Quick Intro to Deep Learning Classifications in ArcGIS Pro](https://www.youtube.com/watch?v=jV-U1RI_qus) (2023)
+  * Deep learning via ArcGIS API for Python [page](https://developers.arcgis.com/python/samples/land-cover-classification-using-unet/) (2022)
+  * Esri Jupyter notebooks setup [instructions](https://guides.lib.purdue.edu/DataScience/ArcGISPro) (from Purdue U.)
+  * Example classification tutorial [video](https://www.youtube.com/watch?v=nFbxIek4Tiw) (from GeoTown)
+  * Esri community [forum](https://community.esri.com/t5/custom/page/page-id/Communities)
+    * [Questions](https://community.esri.com/t5/arcgis-pro-questions/suggestions-for-deep-learning-backbone-model-for/m-p/1538698) about deep learning patch sizes (14 Sept. 2024)
+    * [Questions](https://community.esri.com/t5/arcgis-pro-questions/deep-learning-tools-not-working-in-arcgis-pro-3-4/m-p/1556677#M89931) about installation of v. 3.4 (7 Nov. 2024)
+  * Esri Australia GIS Directions [podcast episodes](https://esriaustralia.com.au/resources/podcasts/gis-directions/homepage) on Machine Learning
+
+
+![]()
+
+*source*: screenshot from ArcGIS Pro v. 3.3
+
 
 *QGIS-related resources*
 * General list of [QGIS plugins](https://plugins.qgis.org/plugins/tags/deep-learning/) referencing DL
