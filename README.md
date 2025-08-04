@@ -1,7 +1,7 @@
 # Geospatial Artificial Intelligence (Geo AI) / Geospatial Machine Learning (Geo ML) Compendium:
 ## Resources 👨‍💻 focused on land cover monitoring 🏞️🛰️
 
-*compiled by Emil A. Cherrington, Ph.D.* | 🚨 *This compendium is a work in progress.* 🚨
+🚨 *This compendium is a work in progress.* 🚨
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16735094.svg)](https://doi.org/10.5281/zenodo.16735094)
 [![Update](https://img.shields.io/github/last-commit/bzgeo/Geo_AI_compendium?label=last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
@@ -169,6 +169,8 @@
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/gee_classifiers_2025-07.PNG)
 
 ## 4. Resources: Deep Learning (DL)
+
+**"Everybody else is doing [*Deep Learning*], so why can't we?"**
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/cranberries_dl_small2.png)
 
