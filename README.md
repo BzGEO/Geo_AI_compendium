@@ -241,14 +241,14 @@
     * Deep Learning package for ArcGIS
       * Installation [notes](https://pro.arcgis.com/en/pro-app/latest/help/analysis/deep-learning/install-deep-learning-frameworks.htm)
       * [Installers](https://github.com/Esri/deep-learning-frameworks?tab=readme-ov-file)
-  * [Non-Esri] [Quick Intro to Deep Learning Classifications in ArcGIS Pro](https://www.youtube.com/watch?v=jV-U1RI_qus) (2023)
-  * Deep learning via ArcGIS API for Python [page](https://developers.arcgis.com/python/samples/land-cover-classification-using-unet/) (2022)
-  * Esri Jupyter notebooks setup [instructions](https://guides.lib.purdue.edu/DataScience/ArcGISPro) (from Purdue U.)
-  * Example classification tutorial [video](https://www.youtube.com/watch?v=nFbxIek4Tiw) (from GeoTown)
-  * Esri community [forum](https://community.esri.com/t5/custom/page/page-id/Communities)
-    * [Questions](https://community.esri.com/t5/arcgis-pro-questions/suggestions-for-deep-learning-backbone-model-for/m-p/1538698) about deep learning patch sizes (14 Sept. 2024)
-    * [Questions](https://community.esri.com/t5/arcgis-pro-questions/deep-learning-tools-not-working-in-arcgis-pro-3-4/m-p/1556677#M89931) about installation of v. 3.4 (7 Nov. 2024)
-  * Esri Australia GIS Directions [podcast episodes](https://esriaustralia.com.au/resources/podcasts/gis-directions/homepage) on Machine Learning
+    * [Non-Esri] [Quick Intro to Deep Learning Classifications in ArcGIS Pro](https://www.youtube.com/watch?v=jV-U1RI_qus) (2023)
+* Deep learning via ArcGIS API for Python [page](https://developers.arcgis.com/python/samples/land-cover-classification-using-unet/) (2022)
+* Esri Jupyter notebooks setup [instructions](https://guides.lib.purdue.edu/DataScience/ArcGISPro) (from Purdue U.)
+* Example classification tutorial [video](https://www.youtube.com/watch?v=nFbxIek4Tiw) (from GeoTown)
+* Esri community [forum](https://community.esri.com/t5/custom/page/page-id/Communities)
+  * [Questions](https://community.esri.com/t5/arcgis-pro-questions/suggestions-for-deep-learning-backbone-model-for/m-p/1538698) about deep learning patch sizes (14 Sept. 2024)
+  * [Questions](https://community.esri.com/t5/arcgis-pro-questions/deep-learning-tools-not-working-in-arcgis-pro-3-4/m-p/1556677#M89931) about installation of v. 3.4 (7 Nov. 2024)
+* Esri Australia GIS Directions [podcast episodes](https://esriaustralia.com.au/resources/podcasts/gis-directions/homepage) on Machine Learning
 
 
 ![]()
