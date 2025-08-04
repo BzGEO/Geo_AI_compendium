@@ -47,12 +47,12 @@
 *Let's start with an overview of Machine Learning.*
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/google_2022_ml_defn.PNG)
-source: [Google (2022)](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit?slide=id.gff707151b9_21_75#slide=id.gff707151b9_21_75)
+*source*: [Google (2022)](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit?slide=id.gff707151b9_21_75#slide=id.gff707151b9_21_75)
 
 *By the way, how does classical / traditional ML differ from Deep Learning?* 🤔
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/google_2024_ml_vs_dl.PNG)
-source: [Google (2024)](https://docs.google.com/presentation/d/1BUk4pvlpJb5Uwm4Uld8WqDun4MexaLygACcd1pRWCVc/edit?slide=id.g2f65abacf57_0_1#slide=id.g2f65abacf57_0_1)
+*source*: [Google (2024)](https://docs.google.com/presentation/d/1BUk4pvlpJb5Uwm4Uld8WqDun4MexaLygACcd1pRWCVc/edit?slide=id.g2f65abacf57_0_1#slide=id.g2f65abacf57_0_1)
 
 ## 3.b. Classification algorithms
 
@@ -62,24 +62,24 @@ source: [Google (2024)](https://docs.google.com/presentation/d/1BUk4pvlpJb5Uwm4U
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_unsupervised_k_means.PNG)
 
-source: B. Howell (2006)
+*source*: B. Howell (2006)
 
 
 **ISODATA**
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_unsupervised_isodata_1.PNG)
 
-source: B. Howell (2006)
+*source*: B. Howell (2006)
 
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_unsupervised_isodata_2.PNG)
 
-source: J. Jensen (2005)
+*source*: J. Jensen (2005)
 
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_unsupervised_isodata_3.PNG)
 
-source: J. Jensen (2005)
+*source*: J. Jensen (2005)
 
 
 ## 3.b.2. Supervised classification algorithms
@@ -88,35 +88,35 @@ source: J. Jensen (2005)
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_min_dist.PNG)
 
-source: B. Howell (2006)
+*source*: B. Howell (2006)
 
 
 **Maximum Likelihood**
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_mlc.PNG)
 
-source: B. Howell (2006)
+*source*: B. Howell (2006)
 
 
 **Support Vector Machine**
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_svm.PNG)
 
-source: [SciKit-Learn](https://scikit-learn.org/stable/modules/svm.html)
+*source*: [SciKit-Learn](https://scikit-learn.org/stable/modules/svm.html)
 
 
 **Random Forest**
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_rf.PNG)
 
-source: RUS-Copernicus
+*source*: [RUS-Copernicus (2017)](https://eo4society.esa.int/wp-content/uploads/2022/01/LAND01_CropMapping_Seville.pdf)
 
 
 **Other: Miscellaneous supervised ML classification output options in Earth Engine** ➡️ *some classifiers output class probability maps*
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_gee_options.PNG)
 
-source: [Google (2022)](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit#slide=id.gff707151b9_21_352) | for viewing class probabilities, see [this](https://developers.google.com/earth-engine/apidocs/ee-classifier-setoutputmode)
+*source*: [Google (2022)](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit#slide=id.gff707151b9_21_352) | for viewing class probabilities, see [this](https://developers.google.com/earth-engine/apidocs/ee-classifier-setoutputmode)
 
 ## 3.c. Classical / traditional ML in commonly-used software applications
 
@@ -169,13 +169,14 @@ source: [Google (2022)](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFD
 🚨 *This section is still in progress.* 🚨
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/cranberries_dl_small2.png)
-source: modified from the Cranberries' "Everybody Else is Doing It, So Why Can't We?" album cover (1993)
+
+*source*: modified from the Cranberries' "Everybody Else is Doing It, So Why Can't We?" album cover (1993)
 
 **TensorFlow resources**
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/dl_01.PNG)
 
-source: Google
+*source*: Google
 
 
 ## 4.a. General DL resources from organizations
@@ -208,7 +209,7 @@ source: Google
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/dl_03.PNG)
 
-source: [U. Gandhi / Spatial Thoughts](https://youtu.be/34yNkLmEHAI?t=5197)
+*source*: [U. Gandhi / Spatial Thoughts (2024)](https://youtu.be/34yNkLmEHAI?t=5197)
 
 *Resources from Google*
 
