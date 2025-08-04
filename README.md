@@ -3,7 +3,7 @@
 
 *compiled by Emil A. Cherrington, Ph.D.*
 
-🚨 *This compendium is still in progress.* 🚨
+🚨 *This compendium is a work in progress.* 🚨
 
 [![Update](https://img.shields.io/github/last-commit/bzgeo/Geo_AI_compendium?label=last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
 
