@@ -390,8 +390,6 @@
 * How to open a Google Colab Notebook from Github in [Google Colab](https://colab.research.google.com/): "*Just change the domain from 'github.com' to 'githubtocolab.com' and the notebook will open in Colab.*" [source](https://stackoverflow.com/questions/62596466/how-can-i-run-notebooks-of-a-github-project-in-google-colab#:~:text=Open%20Github%20notebook%20whatever%20you,notebook%20will%20open%20in%20Colab)
 
 
-* *Emil's private GeoAI [photo library](https://photos.app.goo.gl/oeWUE5RKnKGTmT1Q9)* 📸
-
 **Neural networks + deep learning in general**
 * Neural networks explainer [video](https://www.youtube.com/watch?v=X22ENbm4BfU) 🎥 from Esri ➡️ *great contrast* w/ Random Forest explainer [video](https://www.youtube.com/watch?v=HL0nz9uOtF8) 🎥
 
