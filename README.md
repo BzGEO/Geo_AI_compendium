@@ -5,6 +5,7 @@
 
 🚨 *This compendium is a work in progress.* 🚨
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16735094.svg)](https://doi.org/10.5281/zenodo.16735094)
 [![Update](https://img.shields.io/github/last-commit/bzgeo/Geo_AI_compendium?label=last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.Geo_AI_compendium)
 
