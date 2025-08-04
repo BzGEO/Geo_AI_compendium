@@ -36,6 +36,8 @@
 
 *source*: [Human Centered AI Lab (2017)](https://human-centered.ai/wordpress/wp-content/uploads/2017/11/Deep-Learning-subset-of-Machine-Learning-subset-of-Artificial-Intelligence.jpg)
 
+**Therefore ⬇️ we will focus on the broader ML and the DL aspects of geospatial artificial intelligence.** 🧐
+
 * Overview of various tools for doing ML (“[SciKit-Learn algorithm cheat sheet](https://scikit-learn.org/stable/machine_learning_map.html)”):
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/scikit_learn_cheatsheet.PNG)
