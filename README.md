@@ -1,9 +1,7 @@
 # GeoAI Compendium:
 ## Geospatial 🗺️ artificial intelligence / machine learning (Geo AI / Geo ML) 👨‍💻 resources focused on land cover monitoring 🛰️🏞️
 
-*compiled by Emil A. Cherrington, Ph.D.*
-
-🚨 *This compendium is a work in progress.* 🚨
+*compiled by Emil A. Cherrington, Ph.D.* | 🚨 *This compendium is a work in progress.* 🚨
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16735094.svg)](https://doi.org/10.5281/zenodo.16735094)
 [![Update](https://img.shields.io/github/last-commit/bzgeo/Geo_AI_compendium?label=last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
@@ -407,6 +405,15 @@
   * R Studio *v.2025.05.1+513* [installer](https://download1.rstudio.org/electron/windows/RStudio-2025.05.1-513.exe)
 * SNAP [installers](https://step.esa.int/main/download/snap-download/)
 * TerrSet [installers](https://github.com/ClarkCGA/terrset/releases)
+
+
+## Citation
+
+If this documentation is used in publications, presentations, or other venues, please cite 📝 the following:
+
+Cherrington, E. (2025). Geo AI Compendium (Version 1.0.0) [Document]. https://doi.org/10.5281/zenodo.16735094
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16735094.svg)](https://doi.org/10.5281/zenodo.16735094)
 
 
 ## Contact information
