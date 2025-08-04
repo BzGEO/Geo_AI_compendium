@@ -16,7 +16,8 @@
 3. [Resources: Machine learning (classical)](https://github.com/BzGEO/Geo_AI_compendium/#3-resources-machine-learning-classical--traditional)
 4. [Resources: Deep learning](https://github.com/BzGEO/Geo_AI_compendium/#4-resources-deep-learning)
 5. [Resources: Uncertainty / accuracy assessment](https://github.com/BzGEO/Geo_AI_compendium/#5-resources-uncertainty--accuracy-assessment)
-6. [Resources: Other](https://github.com/BzGEO/Geo_AI_compendium/tree/#6-resources-other)
+6. [Resources: Other](https://github.com/BzGEO/Geo_AI_compendium/#6-resources-other)
+7. [Software installers](https://github.com/BzGEO/Geo_AI_compendium/#7-software-installers)
 
 ## 1. Objectives
 
@@ -391,6 +392,10 @@
 
 **Neural networks + deep learning in general**
 * Neural networks explainer [video](https://www.youtube.com/watch?v=X22ENbm4BfU) 🎥 from Esri ➡️ *great contrast* w/ Random Forest explainer [video](https://www.youtube.com/watch?v=HL0nz9uOtF8) 🎥
+
+## 7. Software installers
+
+
 
 ## Contact information
 
