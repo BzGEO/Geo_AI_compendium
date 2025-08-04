@@ -15,7 +15,7 @@
 2. [Schematics](https://github.com/BzGEO/Geo_AI_compendium/#2-schematics)
 3. [Resources: Machine learning (classical)](https://github.com/BzGEO/Geo_AI_compendium/#3-resources-machine-learning-classical--traditional)
 4. [Resources: Deep learning](https://github.com/BzGEO/Geo_AI_compendium/#4-resources-deep-learning)
-5. [Resources: Uncertainty / accuracy assessment](https://github.com/BzGEO/Geo_AI_compendium/#5-resources-uncertainty--accuracy-assessment)
+5. [Resources: Uncertainty assessment / accuracy assessment](https://github.com/BzGEO/Geo_AI_compendium/#5-resources-uncertainty--accuracy-assessment)
 6. [Resources: Other](https://github.com/BzGEO/Geo_AI_compendium/#6-resources-other)
 7. [Software installers](https://github.com/BzGEO/Geo_AI_compendium/#7-software-installers)
 
@@ -343,7 +343,7 @@
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/oversized_salad_dl2.png)
 
-## 5. Resources: Uncertainty / accuracy assessment
+## 5. Resources: Uncertainty assessment / accuracy assessment
 
 * General accuracy assessment
   * ArcGIS Desktop: Accuracy Assessment for Image Classification [page](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/accuracy-assessment-for-image-classification.htm)
