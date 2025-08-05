@@ -9,17 +9,9 @@
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/word_cloud_v2023-05-05b.PNG)
 
-## Overview
-
-1. [Objectives](https://github.com/BzGEO/Geo_AI_compendium/#1-objectives)
-2. [Schematics](https://github.com/BzGEO/Geo_AI_compendium/#2-schematics)
-3. [Resources: Machine learning (classical)](https://github.com/BzGEO/Geo_AI_compendium/#3-resources-machine-learning-classical--traditional)
-4. [Resources: Deep learning](https://github.com/BzGEO/Geo_AI_compendium/#4-resources-deep-learning)
-5. [Resources: Uncertainty assessment / accuracy assessment](https://github.com/BzGEO/Geo_AI_compendium/#5-resources-uncertainty--accuracy-assessment)
-6. [Resources: Other](https://github.com/BzGEO/Geo_AI_compendium/#6-resources-other)
-7. [Software installers](https://github.com/BzGEO/Geo_AI_compendium/#7-software-installers)
-
-## 1. Objectives
+##
+<details>
+  <summary><b> 1. Objectives</b></summary>
 
 * Document the various Machine Learning approaches available across various [desktop + cloud] platforms (e.g. [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview), [ENVI](https://www.nv5geospatialsoftware.com/Products/ENVI), [ERDAS Imagine](https://hexagon.com/products/erdas-imagine), [GEE](https://code.earthengine.google.com/), [QGIS](https://qgis.org/),[R](https://cran.r-project.org/), [SNAP](https://step.esa.int/main/download/snap-download/), [TerrSet](https://github.com/ClarkCGA/terrset))
   * Compile resources (including tutorials and sample scripts) regarding how to implement those approaches in the platforms listed ⬆️
@@ -28,7 +20,11 @@
   * Push the limits of the various approaches
   * *For instance, what determines the taste of the cake? The quality of the ingredients used, or the technique of the baker?* 🤔
 
-## 2. Schematics
+</details>
+
+##
+<details>
+  <summary><b> 2. Schematics</b></summary>
 
 * Overview of the distinctions between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)
 
@@ -44,11 +40,20 @@
 
 *source*: [SciKitLearn](https://scikit-learn.org/stable/machine_learning_map.html)
 
-## 3. Resources: Machine learning (classical / traditional)
+</details>
 
+##
+<details>
+  <summary><b> 3. Resources: Machine learning (classical / traditional)</b></summary>
+ 
 *These are resources for commonly-used software applications.*
 
-## 3.a. Overview of classical / traditional ML
+</details>
+
+##
+<details>
+  <summary><b> 3.a. Overview of classical / traditional ML </b></summary>
+ 
 *Let's start with an overview of Machine Learning.*
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/google_2022_ml_defn.PNG)
@@ -59,9 +64,13 @@
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/google_2024_ml_vs_dl.PNG)
 *source*: [Google (2024)](https://docs.google.com/presentation/d/1BUk4pvlpJb5Uwm4Uld8WqDun4MexaLygACcd1pRWCVc/edit?slide=id.g2f65abacf57_0_1#slide=id.g2f65abacf57_0_1)
 
-## 3.b. Classification algorithms
+</details>
 
-## 3.b.1. Unsupervised classification algorithms
+##
+<details>
+  <summary><b> 3.b. Classification algorithms </b></summary>
+
+**3.b.1. Unsupervised classification algorithms**
 
 **K-means**
 
@@ -87,7 +96,7 @@
 *source*: J. Jensen (2005)
 
 
-## 3.b.2. Supervised classification algorithms
+**3.b.2. Supervised classification algorithms**
 
 **Minimum Distance**
 
@@ -123,7 +132,12 @@
 
 *source*: [Google (2022)](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit#slide=id.gff707151b9_21_352) | for viewing class probabilities, see [this](https://developers.google.com/earth-engine/apidocs/ee-classifier-setoutputmode)
 
-## 3.c. Classical / traditional ML in commonly-used software applications
+</details>
+
+##
+
+<details>
+  <summary><b> 3.c. Classical / traditional ML in commonly-used software applications </b></summary>
 
 **ArcGIS**
 * Classifying Images in **ArcGIS Desktop** 10.4 [tutorial](https://community.esri.com/t5/esri-technical-support-blog/classifying-images-in-arcgis-for-desktop-10-4)
@@ -170,7 +184,12 @@
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/gee_classifiers_2025-07.PNG)
 
-## 4. Resources: Deep Learning (DL)
+</details>
+
+##
+<details>
+  <summary><b> 4. Resources: Deep Learning (DL) </b></summary>
+
 
 **"Everybody else is doing [*Deep Learning*], so why can't we?"**
 
@@ -184,8 +203,13 @@
 
 *source*: Google
 
+</details>
 
-## 4.a. General DL resources from organizations
+##
+<details>
+  <summary><b> 4.a. General DL resources from organizations </b></summary>
+
+
 *Resources from Development Seed*
 * Development Seed (2021): Deep Learning overview resources developed for SERVIR Amazonia: GitHub [repo](https://github.com/developmentseed/servir-amazonia-ml)
 * Development Seed (2021): Deep Learning overview resources developed for SERVIR Amazonia: Jupyter Book
@@ -269,9 +293,12 @@
   * [GEE script](https://code.earthengine.google.com/49ccc840cb05e39282cc9d4ca88d82e0)
   * [Colab notebook](https://colab.research.google.com/drive/1mtzWCo4mczLuSjYZiD7JLicNH2jhsljD)
 
+</details>
 
+##
+<details>
+  <summary><b> 4.b. Software-specific DL resources </b></summary>
 
-## 4.b. Software-specific DL resources
 
 *ArcGIS-related resources*
 
@@ -344,7 +371,14 @@
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/oversized_salad_dl2.png)
 
-## 5. Resources: Uncertainty assessment / accuracy assessment
+</details>
+
+##
+<details>
+  <summary><b> 5. Resources: Uncertainty assessment / accuracy assessment </b></summary>
+
+
+## 
 
 * General accuracy assessment
   * ArcGIS Desktop: Accuracy Assessment for Image Classification [page](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/accuracy-assessment-for-image-classification.htm)
@@ -368,7 +402,11 @@
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/graphic_validation_brownlee.png)
 [*source*](https://machinelearningmastery.com/difference-test-validation-datasets/): J. Brownlee (2020)
 
-## 6. Resources: Other
+</details>
+
+##
+<details>
+  <summary><b> 6. Resources: Other </b></summary>
 
 **GEE**
 * Earth Engine Fundamentals & Applications [book](https://www.eefabook.org/) (2022) 📔
@@ -397,8 +435,13 @@
 **Neural networks + deep learning in general**
 * Neural networks explainer [video](https://www.youtube.com/watch?v=X22ENbm4BfU) 🎥 from Esri ➡️ *great contrast* w/ Random Forest explainer [video](https://www.youtube.com/watch?v=HL0nz9uOtF8) 🎥
 
-## 7. Software installers
+</details>
 
+##
+<details>
+  <summary><b> 7. Software installers </b></summary>
+
+##
 * ArcGIS Pro 3.x deep learning package [installers](https://github.com/Esri/deep-learning-frameworks?tab=readme-ov-file#download) ➡️ *current to ArcGIS Pro 3.5* 👀
 * QGIS
   * Main program [installer](https://qgis.org/download/)
@@ -412,16 +455,27 @@
 * SNAP [installers](https://step.esa.int/main/download/snap-download/)
 * TerrSet [installers](https://github.com/ClarkCGA/terrset/releases)
 
+</details>
 
-## Citation
+##
+<details>
+  <summary><b> Citation </b></summary>
 
+##
 If this documentation is used in publications, presentations, or other venues, please cite 📝 the following:
 
 Cherrington, E. (2025). Geo AI Compendium (Version 1.0.0) [Document]. https://doi.org/10.5281/zenodo.16735094
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16735094.svg)](https://doi.org/10.5281/zenodo.16735094)
 
+</details>
 
-## Contact information
+##
+<details>
+  <summary><b> Contact information </b></summary>
 
+##
 If you have any questions, feel free to contact Emil Cherrington by :envelope_with_arrow: email: **emil.cherrington [at] uah.edu**.
+
+
+</details>
