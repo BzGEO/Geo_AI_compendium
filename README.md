@@ -14,7 +14,7 @@
 1. [Objectives](https://github.com/BzGEO/Geo_AI_compendium/#1-objectives)
 2. [Schematics](https://github.com/BzGEO/Geo_AI_compendium/#2-schematics)
 3. [Resources: Machine learning (classical)](https://github.com/BzGEO/Geo_AI_compendium/#3-resources-machine-learning-classical--traditional)
-4. [Resources: Deep learning](https://github.com/BzGEO/Geo_AI_compendium/#4-resources-deep-learning)
+4. [Resources: Deep learning](https://github.com/BzGEO/Geo_AI_compendium/#4-resources-deep-learning-dl)
 5. [Resources: Uncertainty assessment / accuracy assessment](https://github.com/BzGEO/Geo_AI_compendium/#5-resources-uncertainty--accuracy-assessment)
 6. [Resources: Other](https://github.com/BzGEO/Geo_AI_compendium/#6-resources-other)
 7. [Software installers](https://github.com/BzGEO/Geo_AI_compendium/#7-software-installers)
