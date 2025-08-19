@@ -299,6 +299,7 @@
       * [Land cover classification using Landsat-8](https://www.arcgis.com/home/item.html?id=e732ee81a9c14c238a14df554a8e3225)
       * [Land cover classification using Sentinel-2](https://www.arcgis.com/home/item.html?id=afd124844ba84da69c2c533d4af10a58)
       * [Land cover classification using aerial photography](https://www.arcgis.com/home/item.html?id=a10f46a8071a4318bcc085dae26d7ee4)
+    * Prithvi-related [models](https://livingatlas.arcgis.com/en/browse/?q=prithvi#d=1&type=tool&itemTypes=Deep+Learning+Package&q=prithvi) (via IBM / NASA)
     * Segment Anything Model (SAM) [instructions](https://doc.arcgis.com/en/pretrained-models/latest/imagery/using-segment-anything-model-sam-.htm)
     * Deep Learning package for ArcGIS
       * Installation [notes](https://pro.arcgis.com/en/pro-app/latest/help/analysis/deep-learning/install-deep-learning-frameworks.htm)
