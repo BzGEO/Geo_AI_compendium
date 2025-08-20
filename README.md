@@ -281,6 +281,7 @@
 
 * "Demystifying Geo AI" [article](https://www.esri.com/about/newsroom/arcnews/demystifying-geoai/) 2023
 * "Land Cover Mapping using Pretrained Deep Learning Models" [article](https://www.esri.com/arcgis-blog/products/arcgis/imagery/pretrained-land-cover-models/) 2023
+* "GeoAI: Artificial Intelligence in GIS" [book](https://www.esri.com/en-us/esri-press/browse/geoai-artificial-intelligence-in-gis) 2025
 * Deep learning in ArcGIS Pro 3.x
   * [Overview](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/deep-learning-for-image-analyst-whats-new-in-arcgis-pro-3-2/): "Deep Learning for Image Analyst – What’s New in ArcGIS Pro 3.2" (2023)
   * [Overview](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/whats-new-for-geoai-in-the-image-analyst-extension-of-arcgis-pro-3-3/): "What's new for GeoAI in the Image Analyst extension of ArcGIS Pro 3.3" (2024)
