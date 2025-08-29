@@ -255,13 +255,15 @@
     * GEE Data Catalog [entry](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL)
     * [Blog post](https://medium.com/google-earth/ai-powered-pixels-introducing-googles-satellite-embedding-dataset-31744c1f4650)
     * [White paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/alphaearth-foundations.pdf)
-    * [Slides (with code links)](https://docs.google.com/presentation/d/1BwKuuKrC29hiGccuACaKUO6WACJ2bb7gqB31_zETdHI/edit?slide=id.g35452590b7b_2_1035#slide=id.g35452590b7b_2_1035) - *from the ESA Living Planet Symposium*
+    * [Slides (w/ code links)](https://docs.google.com/presentation/d/1BwKuuKrC29hiGccuACaKUO6WACJ2bb7gqB31_zETdHI/edit?slide=id.g35452590b7b_2_1035#slide=id.g35452590b7b_2_1035) - *from the ESA Living Planet Symposium*
+    * [Slides (w/ code links)](https://docs.google.com/presentation/d/1SOoPxez884xFi6vNH6tienumAsxPlwltdWYdiuRAiw0/edit?slide=id.gb58a2d31439823e_0#slide=id.gb58a2d31439823e_0) - *from Geo For Good 2025 NYC*
     * Tutorials
       * [Part 1](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-01-introduction): Intro
       * [Part 2](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-02-unsupervised-classification): Unsupervised classification
       * [Part 3](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-03-supervised-classification): Supervised classification
       * [Part 4](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-04-regression): Regression
       * [Part 5](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-05-similarity-search): Similarity search
+  * Machine Learning with Earth Engine & Vertex AI [slides](https://docs.google.com/presentation/d/1hRW6dPlwMBWKsF_Aj2pfWkr00eMj5LvCRfBBILGXZ3U/edit?slide=id.g378c412611f_0_0#slide=id.g378c412611f_0_0)
 
 *Resources from other sources*
 * Deep learning for land cover classification example (2023) - from [@Ramiqcom](https://www.youtube.com/@ramiqcom)
