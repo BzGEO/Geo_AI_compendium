@@ -383,6 +383,7 @@
 **Miscellaneous**
 
 * NASA Science Mission Directorate [Artificial Intelligence initiative](https://science.nasa.gov/open-science/smd-ai-initiative/)
+* U.S. General Services Administration (GSA) Artificial intelligence [community of practice](https://www.gsa.gov/technology/government-it-initiatives/artificial-intelligence/ai-community-of-practice)
 * Oak Ridge National Lab [Trillion Pixel Challenge](https://geoai.ornl.gov/trillion-pixel/)
   * Sept. 2019 workshop [report](https://geoai.ornl.gov/trillion-pixel/wp-content/uploads/sites/2/2021/03/Trillion_Pixel_Challenge_Workshop_Report-for-public-release.pdf)
   * July 2023 workshop [press release](https://www.ornl.gov/news/trillion-pixel-challenge-looks-ahead-next-decade-geoai-innovation)
