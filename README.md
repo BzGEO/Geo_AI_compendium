@@ -307,6 +307,7 @@
     * Deep Learning package for ArcGIS
       * Installation [notes](https://pro.arcgis.com/en/pro-app/latest/help/analysis/deep-learning/install-deep-learning-frameworks.htm)
       * [Installers](https://github.com/Esri/deep-learning-frameworks?tab=readme-ov-file)
+    * [Introduction to deep learning](https://pro.arcgis.com/en/pro-app/latest/help/analysis/deep-learning/what-is-deep-learning-.htm) (2025)
     * [Non-Esri] [Quick Intro to Deep Learning Classifications in ArcGIS Pro](https://www.youtube.com/watch?v=jV-U1RI_qus) (2023)
 * Deep learning via ArcGIS API for Python [page](https://developers.arcgis.com/python/samples/land-cover-classification-using-unet/) (2022)
 * Esri Jupyter notebooks setup [instructions](https://guides.lib.purdue.edu/DataScience/ArcGISPro) (from Purdue U.)
