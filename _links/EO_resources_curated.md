@@ -34,6 +34,9 @@
     * Planet Dove + SuperDove band [specifications](https://docs.planet.com/data/imagery/planetscope/)
       * Dove Classic + Dove-R: VNIR (blue, green, red, NIR)
       * Super Dove: 8-band (coastal blue, blue, green I, green, yellow, red, red edge, NIR)
+    * Planet *Tropical Forest Observatory*
+      * [Blog article (Sept. 2025)](https://www.planet.com/pulse/tropical-forest-observatory-for-reducing-and-reversing-tropical-deforestation/)
+      * [Pricing](https://www.planet.com/pricing/?tab=monitoring)
 
 ## Hyperspectral data resources
 * Missions
