@@ -271,8 +271,6 @@
   * [GEE script](https://code.earthengine.google.com/49ccc840cb05e39282cc9d4ca88d82e0)
   * [Colab notebook](https://colab.research.google.com/drive/1mtzWCo4mczLuSjYZiD7JLicNH2jhsljD)
 
-
-
 ## 4.b. Software-specific DL resources
 
 *ArcGIS-related resources*
