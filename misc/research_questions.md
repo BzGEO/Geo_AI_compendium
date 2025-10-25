@@ -6,7 +6,7 @@
 
 **Scenario 2:** *You are looking to do intensive image processing work on the mobile workstation you're looking to purchase. Should you necessarily choose a system with the highest RAM, fastest CPU, and fastest GPU available (e.g., 128 GB RAM, 3.00 GHz CPU, Nvidia Geforce RTX 5090)? Would you get similar results from a system with fewer resources (e.g., 32 GB RAM, 2.00 GHz CPU, Nvidia Geforce RTX 5060)?*
 
-**Scenario 3:** *You just want to know if your basic desktop or laptop that does not have a dedicated GPU will be able to execute deep learning-based classifications or regressions in ArcGIS Pro.*
+**Scenario 3:** *You just want to know if your basic desktop or laptop that does not have a dedicated GPU will be able to execute deep learning-based classifications or regressions in ArcGIS Pro. Should you just skip trying to do desktop-based classification altogether and run your classifications or regressions in the cloud? If so, what approaches should you explore?*
 
 ## Research questions
 * Does the application of deep learning-based land cover classification result in higher accuracies than traditional machine learning methods like supervised classification?
