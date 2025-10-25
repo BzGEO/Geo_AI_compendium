@@ -1,5 +1,5 @@
 # Random research questions related to #GeoML
-*Last updated: 23.10.2025*
+*Last updated: 25.10.2025*
 
 ## Scenarios
 *Scenario 1: You would like to run GeoAI (machine learning)-related tasks on a desktop or mobile system and are looking to purchase a workstation. Does the computer's configuration ultimately matter? What type of memory (RAM), central processing unit (CPU), and graphics processing unit (GPU) resources should you consider, if at all?*
