@@ -17,3 +17,7 @@
     * To what extent is the speed with which one is able to perform deep learning-based classifications impacted by GPU specifications?
 
 * How appropriate are desktop computing architectures for implementing deep learning-based land cover classifications, especially in the context of the growing availability of cloud computing resources? 
+
+
+## Experiment tracker
+See: https://bit.ly/geoml_mod_comp
