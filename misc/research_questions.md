@@ -2,9 +2,9 @@
 *Last updated: 25.10.2025*
 
 ## Scenarios
-**Scenario 1:** *You would like to run GeoAI (machine learning)-related tasks on a desktop or mobile system and are looking to purchase a workstation. Does the computer's configuration ultimately matter? What type of memory (RAM), central processing unit (CPU), and graphics processing unit (GPU) resources should you consider, if at all?*
+**Scenario 1:** *You would like to run GeoAI (machine learning)-related tasks on a desktop or mobile system and are looking to purchase a workstation. Does the computer's configuration ultimately matter? What type of memory ([RAM](https://en.wikipedia.org/wiki/Random-access_memory)), central processing unit ([CPU](https://en.wikipedia.org/wiki/Central_processing_unit)), and graphics processing unit ([GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)) resources should you consider, if at all?*
 
-**Scenario 2:** *You are looking to do intensive image processing work on the mobile workstation you're looking to purchase. Should you necessarily choose a system with the highest RAM, fastest CPU, and fastest GPU available (e.g., 128 GB RAM, 3.00 GHz CPU, Nvidia Geforce RTX 5090)? Would you get similar results from a system with fewer resources (e.g., 32 GB RAM, 2.00 GHz CPU, Nvidia Geforce RTX 5060)?*
+**Scenario 2:** *You are looking to do intensive image processing work on the mobile workstation you're looking to purchase. Should you necessarily choose a system with the highest RAM, fastest CPU, and fastest GPU available (e.g., 128 GB RAM, 3.00 GHz CPU, [Nvidia GeForce RTX 5090](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/))? Would you get similar results from a system with fewer resources (e.g., 32 GB RAM, 2.00 GHz CPU, [Nvidia GeForce RTX 5060](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060-family/))?*
 
 **Scenario 3:** *You just want to know if your basic desktop or laptop that does not have a dedicated GPU will be able to execute deep learning-based classifications or regressions in [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview). Should you just skip trying to do desktop-based classification altogether and run your classifications or regressions in the cloud? If so, what approaches should you explore?*
 
