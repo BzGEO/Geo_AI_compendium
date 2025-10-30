@@ -22,3 +22,6 @@
 
 ## Experiment tracker
 See: https://bit.ly/geoml_mod_comp
+
+## Other
+* [GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks](https://github.com/The-AI-Alliance/GEO-Bench-VLM)
