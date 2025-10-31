@@ -10,7 +10,7 @@
 **Scenario 3:** *You just want to know if your basic desktop or laptop that does not have a dedicated GPU will be able to execute deep learning-based classifications or regressions in [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview). Should you just skip trying to do desktop-based classification altogether and run your classifications or regressions in the cloud? If so, what approaches should you explore?*
 
 ## Hypothesis(es)
-* *Deep learning-based classifications should run faster on more powerful computers than on less powerful computers.*
+* *Deep learning-based classifications **should** run faster on more powerful computers than on less powerful computers.*
 
 ## Research questions
 * Does the application of deep learning-based land cover classification result in higher accuracies than traditional machine learning methods like supervised classification?
