@@ -1,4 +1,4 @@
-# Somewhat random research questions related to #GeoML
+# Miscellaneous research questions related to #GeoML
 [![Update](https://img.shields.io/github/last-commit/bzgeo/bzgeo?label=last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
 
 ## Scenarios
