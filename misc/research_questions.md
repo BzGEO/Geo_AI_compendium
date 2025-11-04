@@ -24,7 +24,7 @@
 
 
 ## Experiment tracker
-See: https://bit.ly/geoml_mod_comp (**public**)
+See: https://bit.ly/geoml_mod_comp [**public**]
 
 ## Other
 *Are there parallel past or ongoing benchmarking types of activities?*
