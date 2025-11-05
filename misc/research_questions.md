@@ -23,7 +23,9 @@
 * How appropriate are desktop computing architectures for implementing deep learning-based land cover classifications, especially in the context of the growing availability of cloud computing resources? 
 
 ## Computer systems
+Last updated in September 2025:
 
+![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/geoml_experiments_computers_2025-11-05.jpg)
 
 ## Experiment tracker
 See: https://bit.ly/geoml_mod_comp [**public**]
