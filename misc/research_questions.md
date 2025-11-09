@@ -31,5 +31,5 @@ Last updated in September 2025:
 See: https://bit.ly/geoml_mod_comp [**public**]
 
 ## Other
-*Are there parallel past or ongoing benchmarking types of activities?*
+*What are some parallel past or ongoing benchmarking types of activities?*
 * [GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks](https://github.com/The-AI-Alliance/GEO-Bench-VLM)
