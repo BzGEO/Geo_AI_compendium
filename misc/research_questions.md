@@ -12,6 +12,8 @@
 ## Hypothesis(es)
 * *Deep learning-based classifications **should** execute (run) faster on more powerful computers than on less powerful computers.*
 
+* *Deep learning-basee classifications should necessarily be higher accuracy than classical ML classifications.*
+
 ## Research questions
 * Does the application of deep learning-based land cover classification result in higher accuracies than traditional machine learning methods like supervised classification?
 
