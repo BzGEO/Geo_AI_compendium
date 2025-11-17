@@ -12,7 +12,7 @@
 ## Hypothesis(es)
 * *Deep learning-based classifications **should** execute (run) faster on more powerful computers than on less powerful computers.*
 
-* *Deep learning-basee classifications should necessarily be higher accuracy than classical ML classifications.*
+* *All other things being equal, deep learning-based classifications **should** be more accurate than classical ML classifications.*
 
 ## Key considerations
 * Accuracy of approaches relative to each other
