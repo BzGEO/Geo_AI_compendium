@@ -14,6 +14,16 @@
 
 * *Deep learning-basee classifications should necessarily be higher accuracy than classical ML classifications.*
 
+## Considerations
+* Accuracy of approaches relative to each other
+   * *Do deep learning based approaches necessarily result in higher classification accuracies?*
+
+* Speed of executing one approach versus another
+   * *Are classical machine learning approaches faster to execute than deep learning based ones?*
+
+* Level of effort to be able to implement one approach / workflow versus another
+   * *Is it easier to implement a classical machine learning approach versus a deep learning based one?*
+
 ## Research questions
 * Does the application of deep learning-based land cover classification result in higher accuracies than traditional machine learning methods like supervised classification?
 
