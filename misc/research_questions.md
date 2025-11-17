@@ -14,7 +14,7 @@
 
 * *Deep learning-basee classifications should necessarily be higher accuracy than classical ML classifications.*
 
-## Considerations
+## Key considerations
 * Accuracy of approaches relative to each other
    * *Do deep learning based approaches necessarily result in higher classification accuracies?*
 
