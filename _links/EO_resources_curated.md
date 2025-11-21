@@ -78,6 +78,7 @@
 * Data access 💾
   * View data in [NASA EOSDIS WorldView](https://go.nasa.gov/4kNDA1z) -> *example for 8 July 2025*
   * Download data via the [NASA  OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/)
+  * Download data via [NASA OB.DAAC advanced data search](https://oceandata.sci.gsfc.nasa.gov/file_search/)
   * Download data via the [NASA EarthData Search](https://search.earthdata.nasa.gov/search?fi=OCI&as[platforms][0]=Space-based%20Platforms%3AEarth%20Observation%20Satellites%3A%3APACE&as[instrument][0]=OCI&fpb0=Space-based%20Platforms&fpc0=Earth%20Observation%20Satellites&fps0=PACE)
 * PACE data products
   * PACE data [products list](https://pace.oceansciences.org/data_table.htm)
