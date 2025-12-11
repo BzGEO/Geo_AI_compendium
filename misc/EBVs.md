@@ -4,7 +4,7 @@
 ## List of EBVs relevant to ecosystems
 
 * **Ecosystem function**
-    * Primary productivity -> NPP derived from MODIS [MOD17A] or VIIRS []
+    * Primary productivity -> NPP derived from MODIS [MOD17A] or VIIRS [VNP17A]
     * Ecosystem phenology -> [annual] phenological patterns derived from Landsat, MODIS [MOD09Q1P_NDVI], or VIIRS [VNP22Q2]
     * Ecosystem disturbances -> [annual] disturbances derived from LandTrendr or CCDC
 * **Ecosystem structure**
