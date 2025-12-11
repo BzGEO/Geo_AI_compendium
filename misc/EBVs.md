@@ -17,4 +17,4 @@
 * To what extent can the functional & structural traits above be linked to or modeled using the Google EFM data?
 
 ## References
-* GEOBON page on the Essential Biodiversity Variables (EBVs) (*not dated*): https://geobon.org/ebvs/what-are-ebvs/
+* GEO BON page on the Essential Biodiversity Variables (EBVs) (*not dated*): https://geobon.org/ebvs/what-are-ebvs/
