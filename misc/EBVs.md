@@ -12,5 +12,9 @@
     * Ecosystem distribution -> *land cover types (IGBP classification) derived from MODIS [MCD12Q1] or VIIRS [?]*
     * Ecosystem vertical profile -> *heights derived from GEDI or ICESat-2, or PAI derived from GEDI, or LAI derived from MODIS [MOD15A2] or VIIRS [VNP15A2]*
 
+## Research questions
+* How do the functional & structural traits above need to be processed for development of indices for decision-making?
+* To what extent can the functional & structural traits above be linked to or modeled using the Google EFM data?
+
 ## References
 * GEOBON page on the Essential Biodiversity Variables (EBVs) (*not dated*): https://geobon.org/ebvs/what-are-ebvs/
