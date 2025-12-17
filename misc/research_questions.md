@@ -1,6 +1,8 @@
 # Miscellaneous research questions related to #GeoML & #GeoAI
 [![Update](https://img.shields.io/github/last-commit/bzgeo/bzgeo?label=last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
 
+*To be revisited in Jan. 2026*
+
 ## Scenarios
 
 **Scenario 1:** *You would like to run geospatial [AI](https://support.esri.com/en-us/gis-dictionary/ai) ([machine learning](https://support.esri.com/en-us/gis-dictionary/machine-learning))-related tasks on a desktop or mobile system and are looking to purchase a workstation. Does the computer's configuration ultimately matter? What type of memory ([RAM](https://en.wikipedia.org/wiki/Random-access_memory)), central processing unit ([CPU](https://en.wikipedia.org/wiki/Central_processing_unit)), and graphics processing unit ([GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)) resources should you consider, if at all?*
