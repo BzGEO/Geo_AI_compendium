@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates related to the main items presented in the Geo AI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 31.12.2025
+1. A recent comparison of the 'mini super computers': https://www.theregister.com/2025/12/25/amd_strix_halo_nvidia_spark/.
+
 ## Updates: 29.12.2025
 1. This may be irrelevant at some point in the medium term, but one of the most relevant happenings is the shortage of random access memory (RAM), which will impact the ability of people, going forward, to acquire memory for desktop and mobile computers. Hence, one should expect that GeoAI / GeoML will be affected by this in 2026. See the following recent NPR news story on the topic of the memory shortage: https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram.
 
