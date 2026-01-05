@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates related to the main items presented in the Geo AI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 04.01.2026
+1. To integrate: https://scitechdaily.com/scientists-create-a-periodic-table-for-artificial-intelligence/.
+
 ## Updates: 02.01.2026
 1. To integrate into the main *Compendium*: https://www.esri.com/content/dam/esrisites/en-us/media/misc/demystifying-deep-learning-analysis-for-your-students-webinar.pdf.
 
