@@ -1,16 +1,19 @@
 # Change log file: the Geo AI Compendium
 [![Update](https://img.shields.io/github/last-commit/bzgeo/Geo_AI_compendium?label=repo%20last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
 
-**About**: This file is intended to provide updates related to the main items presented in the Geo AI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
+**About**: This file is intended to provide updates *and news* related to the main items presented in the Geo AI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
+
+## Updates: 08.01.2026
+1. On Large Language Model (LLM) parameters, courtesy of the *MIT Technology Review*: [LLMs contain a LOT of parameters. But what’s a parameter?](https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/).
 
 ## Updates: 07.01.2026
-1. News update from the 2026 Consumer Electronics Show (CES) conference: https://www.npr.org/2026/01/07/nx-s1-5668349/at-ces-the-worlds-biggest-tech-companies-hope-to-make-a-splash
+1. News update from the 2026 Consumer Electronics Show (CES) conference: [At CES, the world's biggest tech companies hope to make a splash](https://www.npr.org/2026/01/07/nx-s1-5668349/at-ces-the-worlds-biggest-tech-companies-hope-to-make-a-splash).
 
 ## Updates: 04.01.2026
-1. To integrate: https://scitechdaily.com/scientists-create-a-periodic-table-for-artificial-intelligence/.
+1. To integrate: [Scientists Create a “Periodic Table” for Artificial Intelligence](https://scitechdaily.com/scientists-create-a-periodic-table-for-artificial-intelligence/).
 
 ## Updates: 02.01.2026
-1. To integrate into the main *Compendium*: https://www.esri.com/content/dam/esrisites/en-us/media/misc/demystifying-deep-learning-analysis-for-your-students-webinar.pdf.
+1. To integrate into the main *Compendium*: [Demystifying Deep Learning Analysis for Your Students: A Higher Education Webinar](https://www.esri.com/content/dam/esrisites/en-us/media/misc/demystifying-deep-learning-analysis-for-your-students-webinar.pdf).
 
 ## Updates: 31.12.2025
 1. A recent comparison of the 'mini super computers': https://www.theregister.com/2025/12/25/amd_strix_halo_nvidia_spark/.
