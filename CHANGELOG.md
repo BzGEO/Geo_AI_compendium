@@ -4,7 +4,7 @@
 **About**: This file is intended to provide updates related to the main items presented in the Geo AI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 07.01.2026
-1. News update from the 2026 CES conference: https://www.npr.org/2026/01/07/nx-s1-5668349/at-ces-the-worlds-biggest-tech-companies-hope-to-make-a-splash
+1. News update from the 2026 Consumer Electronics Show (CES) conference: https://www.npr.org/2026/01/07/nx-s1-5668349/at-ces-the-worlds-biggest-tech-companies-hope-to-make-a-splash
 
 ## Updates: 04.01.2026
 1. To integrate: https://scitechdaily.com/scientists-create-a-periodic-table-for-artificial-intelligence/.
