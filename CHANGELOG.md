@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the Geo AI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 13.01.2026
+1. On the overdependence on AI tools: ["AI can spark creativity — if we ask it how, not what, to think: Studies aiming to maximize human creativity demonstrate that people work best when buoyed up by others who show them new ways to innovate"](https://www.nature.com/articles/d41586-026-00049-2).
+
 ## Updates: 08.01.2026
 1. On Large Language Model (LLM) parameters, courtesy of the *MIT Technology Review*: [LLMs contain a LOT of parameters. But what’s a parameter?](https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/).
 
