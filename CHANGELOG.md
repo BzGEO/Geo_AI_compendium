@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the Geo AI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 19.01.2026
+1. If the following is accurate, what will happen to desktop GeoAI if there are no more graphics cards to power workflows? See: https://www.tweaktown.com/news/109737/nvidia-basically-exiting-high-end-pc-gaming-in-2026-kills-off-rtx-50-desktop-and-laptop-gpus/index.html.
+
 ## Updates: 13.01.2026
 1. On the overdependence on AI tools: ["AI can spark creativity — if we ask it how, not what, to think: Studies aiming to maximize human creativity demonstrate that people work best when buoyed up by others who show them new ways to innovate"](https://www.nature.com/articles/d41586-026-00049-2).
 
