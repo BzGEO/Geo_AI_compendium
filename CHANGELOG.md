@@ -5,6 +5,7 @@
 
 ## Updates: 19.01.2026
 1. If the following is accurate, what will happen to desktop GeoAI if there are no more graphics cards to power workflows? See: https://www.tweaktown.com/news/109737/nvidia-basically-exiting-high-end-pc-gaming-in-2026-kills-off-rtx-50-desktop-and-laptop-gpus/index.html.
+2. For those using the deep learning workflows in ArcGIS Pro, ArcGIS Pro version 3.6 has released its first patch (3.6.1), available from https://my.esri.com.
 
 ## Updates: 13.01.2026
 1. On the overdependence on AI tools: ["AI can spark creativity — if we ask it how, not what, to think: Studies aiming to maximize human creativity demonstrate that people work best when buoyed up by others who show them new ways to innovate"](https://www.nature.com/articles/d41586-026-00049-2).
