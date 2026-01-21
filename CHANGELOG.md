@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the Geo AI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 21.01.2026
+1. The leadership of large tech companies recognize that artificial intelligence does need to have practical considerations: ["Microsoft CEO warns that we must 'do something useful' with AI or they'll lose 'social permission' to burn electricity on it"](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/).
+
 ## Updates: 19.01.2026
 1. If the following is accurate, what will happen to desktop GeoAI if there are no more graphics cards to power workflows? See: https://www.tweaktown.com/news/109737/nvidia-basically-exiting-high-end-pc-gaming-in-2026-kills-off-rtx-50-desktop-and-laptop-gpus/index.html.
 2. For those using the deep learning workflows in ArcGIS Pro, ArcGIS Pro version 3.6 has released its first patch (3.6.1), available from https://my.esri.com.
