@@ -13,7 +13,7 @@
 ### Access the data
 * Earth Engine [Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/) [entry](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL)
 * Earth Engine [script](https://code.earthengine.google.com/?scriptPath=Examples:Datasets/GOOGLE/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL) for viewing the data
-* Earth Engine [sample scripts](https://docs.google.com/presentation/d/1SOoPxez884xFi6vNH6tienumAsxPlwltdWYdiuRAiw0/edit?slide=id.g36f94bbbd2a_0_0#slide=id.g36f94bbbd2a_0_0)
+* Earth Engine [sample scripts](https://docs.google.com/presentation/d/1SOoPxez884xFi6vNH6tienumAsxPlwltdWYdiuRAiw0/edit?slide=id.g36f94bbbd2a_0_0#slide=id.g36f94bbbd2a_0_0) from the Geo For Good NYC mini-summit (Aug. 2025)
 
 ### Tutorials for using the data
 * 2025 tutorials
