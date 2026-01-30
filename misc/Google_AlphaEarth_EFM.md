@@ -2,7 +2,7 @@
 *last updated: 30.01.2026*
 
 ## Scientific literature
-* [White paper, 2025](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/alphaearth-foundations.pdf)
+* [White paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/alphaearth-foundations.pdf) (2025)
 * Pascal & Guerra-Hernandez (2026) [paper](https://www.sciencedirect.com/science/article/pii/S0378112726000484) on AEF / GEDI data
 
 ## Non-technical literature
