@@ -1,4 +1,4 @@
-## Internal [non-public] links to BDEC materials
+## Internal links to BDEC materials [non-public]
 
 * https://github.com/herndk1/MODIS-VIIRS
 * https://github.com/herndk1/Prithvi-HLS-NDVI
