@@ -1,4 +1,4 @@
-## [Non-public] links to EFM-related projects
+## Links to EFM-related projects [non-public]
 
 * https://github.com/BzGEO/Google_EFM_research
 * https://github.com/herndk1/GoogleEmbeddingsMiniGrant**
