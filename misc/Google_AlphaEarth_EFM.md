@@ -1,11 +1,12 @@
 # Google's AlphaEarth Foundations / Satellite Embeddings Dataset / Embedding Fields Model dataset
-*last updated: 30.01.2026*
+*last updated: 31.01.2026*
 
 **Description**: *"The Google Satellite Embedding dataset is a global, analysis-ready collection of learned geospatial embeddings. Each 10-meter pixel in this dataset is a 64-dimensional representation, or "embedding vector," that encodes temporal trajectories of surface conditions at and around that pixel as measured by various Earth observation instruments and datasets, over a single calendar year. Unlike conventional spectral inputs and indices, where bands correspond to physical measurements, embeddings are feature vectors that summarize relationships across multi-source, multi-modal observations in a less directly interpretable, but more powerful way."*
 
 ## Scientific literature
 * [White paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/alphaearth-foundations.pdf) (2025)
 * Pascal & Guerra-Hernandez (2026) [paper](https://www.sciencedirect.com/science/article/pii/S0378112726000484) on AEF / GEDI data
+* Full [list](https://arxiv.org/search/?query=alphaearth&searchtype=all&source=header) of *AlphaEarth*-related preprints in [arXiv](https://arxiv.org/) ➡️ *it currently stands at 12 papers as of 31 Jan. 2026*
 
 ## Other reading
 * Google [blog post](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/) (July 2025)
