@@ -4,7 +4,7 @@
 **Description**: *"The Google Satellite Embedding dataset is a global, analysis-ready collection of learned geospatial embeddings. Each 10-meter pixel in this dataset is a 64-dimensional representation, or "embedding vector," that encodes temporal trajectories of surface conditions at and around that pixel as measured by various Earth observation instruments and datasets, over a single calendar year. Unlike conventional spectral inputs and indices, where bands correspond to physical measurements, embeddings are feature vectors that summarize relationships across multi-source, multi-modal observations in a less directly interpretable, but more powerful way."*
 
 ## Scientific literature
-* [White paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/alphaearth-foundations.pdf) (2025)
+* [White paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/alphaearth-foundations.pdf) (July 2025)
 * Pascal & Guerra-Hernandez (2026) [paper](https://www.sciencedirect.com/science/article/pii/S0378112726000484) on AEF / GEDI data (in *Forest Ecology and Management*)
 * Full [list](https://arxiv.org/search/?query=alphaearth&searchtype=all&source=header) of *AlphaEarth*-related preprints in [arXiv](https://arxiv.org/) ➡️ *it currently stands at 12 papers as of 31 Jan. 2026*
 
@@ -26,5 +26,11 @@
   * [Part 4](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-04-regression): Regression
   * [Part 5](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-05-similarity-search): Similarity search
 
-## Other
+## Updates
 * Jan. 2026 [update](https://groups.google.com/g/google-earth-engine-developers/c/oCYk15Mta0s) (published on the Earth Engine Developers group)
+
+## Other
+* European Space Agency *Major TOM* embeddings ➡️ *complementary effort to AlphaEarth*
+  * GitHub [repo](https://github.com/ESA-PhiLab/Major-TOM)
+  * Overview [article](https://philab.esa.int/new-ai-powered-insights-with-the-latest-major-tom-embeddings/) (Jan. 2025)
+  * arXiv [paper](https://arxiv.org/html/2412.05600v1) (Dec. 2024)
