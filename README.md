@@ -251,7 +251,7 @@
   * [Other Vertex AI examples](https://developers.google.com/earth-engine/guides/ml_examples#multi-class-prediction-with-a-dnn-hosted-on-vertex-ai)
 
 * Google (2025)
-  * Embeddings (Embedding Field Model)
+  * Embeddings (Embedding Fields Model) ➡️ also see [this](https://github.com/BzGEO/Geo_AI_compendium/blob/main/misc/Google_AlphaEarth_EFM.md)
     * GEE Data Catalog [entry](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL)
     * [Blog post](https://medium.com/google-earth/ai-powered-pixels-introducing-googles-satellite-embedding-dataset-31744c1f4650)
     * [White paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/alphaearth-foundations.pdf)
