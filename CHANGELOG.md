@@ -3,6 +3,13 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the Geo AI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 30.01.2026
+1. A short update was done to the main [Compendium](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md) regarding the Google DeepMind *AlphaEarth Foundations* (Satellite Embeddings) dataset.
+2. A separate [document](https://github.com/BzGEO/Geo_AI_compendium/blob/main/misc/Google_AlphaEarth_EFM.md) was created specifically for the *AlphaEarth Foundations* dataset. See: https://github.com/BzGEO/Geo_AI_compendium/blob/main/misc/Google_AlphaEarth_EFM.md.
+3. Next week, there are two significant GeoAI-related events will be occurring:
+  * **Tue. 3 Feb.** (11:00 am to 12:30 pm US Central time): The ~quarterly Federal GeoAI Community of Practice (CoP) meeting. Some additional details on a previous CoP meeting are provided [here](https://www.linkedin.com/feed/update/urn:li:activity:7315402092343398402/). Also see the CoP's [*Survey of Current Use*](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__tVaezJUNkU5UTZDUzRRWTBMMzUxS1AxSzBLNUEyOS4u) of GeoAI.
+  * **Wed. 4 Feb.** (10:00-11:00 am US Central time): The biweekly GeoAI Working Group meeting. See: https://sites.google.com/uah.edu/geo-ai-working-group/.
+
 ## Updates: 21.01.2026
 1. The leadership of large tech companies recognize that artificial intelligence does need to have practical considerations: ["Microsoft CEO warns that we must 'do something useful' with AI or they'll lose 'social permission' to burn electricity on it"](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/).
 
