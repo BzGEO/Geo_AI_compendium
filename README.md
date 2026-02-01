@@ -202,8 +202,8 @@
 * SERVIR (2019): TensorFlow basics overview by Kel Markert
   * [Slides](https://docs.google.com/presentation/d/1dXJOrNrqSzksN_TrzKPby5mZqZm9_YXJJ-nCcqdkGFU/edit#slide=id.p) ➡️ complementary to Google’s 2022 DL slide deck
   * Colab [notebook](https://colab.research.google.com/drive/1dGj-j2V_xk8M5o_9i1tBxuE4ZFQEaoyZ)
-* SERVIR Geo AI Working Group (formerly TensorFlow Working Group) [resources (2019-present)](https://sites.google.com/uah.edu/geo-ai-working-group/home/resources)
-* SERVIR Geo AI Working Group presentation [videos (~2022-present)](https://www.youtube.com/playlist?list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN) 🎥
+* SERVIR GeoAI Working Group (alternatively the *Geo-AI Working Group* or *Geo AI Working Group*, and formerly the *TensorFlow Working Group*) [resources (2019-present)](https://sites.google.com/uah.edu/geo-ai-working-group/home/resources)
+* SERVIR GeoAI Working Group presentation [videos (~2022-present)](https://www.youtube.com/playlist?list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN) 🎥
 * Overview of how GEE connects to Google Cloud and AI (Sept. 2019): "Understanding the workflow between the Tensorflow library, Google Cloud Platform, Google Earth Engine, and Google Colab is a challenging undertaking..." (T. Mayer / SERVIR SCO)
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/dl_02.PNG)
