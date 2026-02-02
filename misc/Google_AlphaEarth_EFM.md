@@ -1,10 +1,10 @@
 # Google's AlphaEarth Foundations (AEF) / Satellite Embeddings Dataset / Embedding Fields Model (EFM) dataset
-*last updated: 31.01.2026*
+*last updated: 02.02.2026*
 
 **Description**: *"The Google Satellite Embedding dataset is a global, analysis-ready collection of learned geospatial embeddings. Each 10-meter pixel in this dataset is a 64-dimensional representation, or "embedding vector," that encodes temporal trajectories of surface conditions at and around that pixel as measured by various Earth observation instruments and datasets, over a single calendar year. Unlike conventional spectral inputs and indices, where bands correspond to physical measurements, embeddings are feature vectors that summarize relationships across multi-source, multi-modal observations in a less directly interpretable, but more powerful way."*
 
 ## Scientific literature
-* [White paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/alphaearth-foundations.pdf) (July 2025)
+* AEF [White paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/alphaearth-foundations.pdf) from Google (July 2025)
 * Pascal & Guerra-Hernandez (2026) [paper](https://www.sciencedirect.com/science/article/pii/S0378112726000484) on AEF / GEDI data (in *Forest Ecology and Management*)
 * Full [list](https://arxiv.org/search/?query=alphaearth&searchtype=all&source=header) of *AlphaEarth*-related preprints in [arXiv](https://arxiv.org/) ➡️ *it currently stands at 12 papers as of 31 Jan. 2026*
 
@@ -25,6 +25,10 @@
   * [Part 3](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-03-supervised-classification): Supervised classification
   * [Part 4](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-04-regression): Regression
   * [Part 5](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-05-similarity-search): Similarity search
+
+### Use cases
+* Presentation - [Ecological Insights from AlphaEarth Embeddings using Google Earth Engine](https://www.youtube.com/watch?v=beUAUovNjwc), by Ph.D. candidate [Okikiola Michael Alegbeleye](https://github.com/Okikiola-Michael) (Sept. 2025)
+* Presentation - [Visualizing Google's AlphaEarth Satellite Embeddings in 3D](https://www.youtube.com/watch?v=EGL7fXyA7-U), by Prof. [Qiusheng Wu](https://github.com/giswqs) of U. Tennessee (Aug. 2025)
 
 ## Updates
 * Jan. 2026 [update](https://groups.google.com/g/google-earth-engine-developers/c/oCYk15Mta0s) (published on the Earth Engine Developers group)
