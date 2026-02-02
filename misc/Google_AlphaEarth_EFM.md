@@ -9,8 +9,8 @@
 * Full [list](https://arxiv.org/search/?query=alphaearth&searchtype=all&source=header) of *AlphaEarth*-related preprints in [arXiv](https://arxiv.org/) ➡️ *it currently stands at 12 papers as of 31 Jan. 2026*
 
 ## Other reading
-* Google [blog post](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/) (July 2025)
-* Medium [blog post](https://medium.com/google-earth/ai-powered-pixels-introducing-googles-satellite-embedding-dataset-31744c1f4650) (July 2025)
+* *Introductory* Google [blog post](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/) (July 2025)
+* *Introductory* Medium [blog post](https://medium.com/google-earth/ai-powered-pixels-introducing-googles-satellite-embedding-dataset-31744c1f4650) (July 2025)
 
 ## Data
 ### Access the data
