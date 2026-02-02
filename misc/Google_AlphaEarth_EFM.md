@@ -6,7 +6,7 @@
 ## Scientific literature
 * AEF [White paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/alphaearth-foundations.pdf) from Google (July 2025)
 * Pascal & Guerra-Hernandez (2026) [paper](https://www.sciencedirect.com/science/article/pii/S0378112726000484) on AEF / GEDI data (in *Forest Ecology and Management*)
-* Full [list](https://arxiv.org/search/?query=alphaearth&searchtype=all&source=header) of *AlphaEarth*-related preprints in [arXiv](https://arxiv.org/) ➡️ *it currently stands at 12 papers as of 31 Jan. 2026*
+* Full [list](https://arxiv.org/search/?query=alphaearth&searchtype=all&source=header) of *AlphaEarth*-related preprints in [arXiv](https://arxiv.org/) ➡️ *it currently stands at **12 papers as of 31 Jan. 2026***
 
 ## Other reading
 * *Introductory* Google [blog post](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/) (July 2025)
