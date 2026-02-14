@@ -8,7 +8,7 @@
 2. New Esri article on GeoAI in agriculture: https://www.esri.com/en-us/industries/blog/articles/trusted-applications-of-geospatial-ai-for-agriculture
 
 ## Updates: 03.02.2026
-1. The 2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation will be held in Huntsville, Alabama from 19-22 May, 2026. Abstract submission is 16 Feb. 2026. See: https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/.
+1. The 2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation will be held in Huntsville, Alabama from 19-22 May, 2026. The abstract submission deadline is 16 Feb. 2026. See: https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/.
 
 ## Updates: 30.01.2026
 1. A short update was done to the main [Compendium](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md) regarding the Google DeepMind *AlphaEarth Foundations* (Satellite Embeddings) dataset.
