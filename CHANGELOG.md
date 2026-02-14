@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the Geo AI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 14.02.2026
+1. On AI hype: https://www.businessinsider.com/gary-marcus-response-something-big-is-happening-ai-essay-shumer-2026-2
+
 ## Updates: 03.02.2026
 1. The 2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation will be held in Huntsville, Alabama from 19-22 May, 2026. Abstract submission is 16 Feb. 2026. See: https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/.
 
