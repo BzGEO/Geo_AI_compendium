@@ -5,7 +5,8 @@
 
 ## Updates: 14.02.2026
 1. On AI hype: https://www.businessinsider.com/gary-marcus-response-something-big-is-happening-ai-essay-shumer-2026-2
-2. New Esri article on GeoAI in agriculture: https://www.esri.com/en-us/industries/blog/articles/trusted-applications-of-geospatial-ai-for-agriculture
+ * The response to the recent AI hype article (linked within the previous article) is certainly reminiscent of "The AI Con" [book](https://thecon.ai), whose thesis is that consumers (i.e., all of us) are being *substantially oversold* a bill of goods regarding the capabilities of artificial intelligence.
+3. New Esri article on GeoAI in agriculture: https://www.esri.com/en-us/industries/blog/articles/trusted-applications-of-geospatial-ai-for-agriculture
 
 ## Updates: 03.02.2026
 1. The 2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation will be held in Huntsville, Alabama from 19-22 May, 2026. The abstract submission deadline is 16 Feb. 2026. See: https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/.
