@@ -5,7 +5,7 @@
 
 ## Updates: 16.02.2026
 1. What NASA Goddard is looking for re: GeoAI skills in an upcoming summer [internship](https://www.linkedin.com/posts/ehsan-jalilvand-1699534a_summerabrinternabropportunity-prithvi-location-activity-7428241574565797888-bgVE):
-<img width="901" height="883" alt="image" src="https://github.com/user-attachments/assets/cb0d2456-69ee-4379-80a4-27584c1310ff" />
+<img width="450" height="441.5" alt="image" src="https://github.com/user-attachments/assets/cb0d2456-69ee-4379-80a4-27584c1310ff" />
 
 ## Updates: 14.02.2026
 1. New Esri article on GeoAI in agriculture: https://www.esri.com/en-us/industries/blog/articles/trusted-applications-of-geospatial-ai-for-agriculture
