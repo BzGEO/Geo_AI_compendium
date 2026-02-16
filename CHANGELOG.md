@@ -3,6 +3,10 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 16.02.2026
+1. What NASA Goddard is looking for re: GeoAI skills in an upcoming summer [internship](https://www.linkedin.com/posts/ehsan-jalilvand-1699534a_summerabrinternabropportunity-prithvi-location-activity-7428241574565797888-bgVE):
+<img width="901" height="883" alt="image" src="https://github.com/user-attachments/assets/cb0d2456-69ee-4379-80a4-27584c1310ff" />
+
 ## Updates: 14.02.2026
 1. New Esri article on GeoAI in agriculture: https://www.esri.com/en-us/industries/blog/articles/trusted-applications-of-geospatial-ai-for-agriculture
 2. On AI hype: https://www.businessinsider.com/gary-marcus-response-something-big-is-happening-ai-essay-shumer-2026-2
