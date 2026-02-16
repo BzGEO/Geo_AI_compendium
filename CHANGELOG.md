@@ -1,7 +1,7 @@
-# Change log file: the Geo AI Compendium
+# Change log file: the GeoAI Compendium
 [![Update](https://img.shields.io/github/last-commit/bzgeo/Geo_AI_compendium?label=repo%20last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
 
-**About**: This file is intended to provide updates *and news* related to the main items presented in the Geo AI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
+**About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 14.02.2026
 1. New Esri article on GeoAI in agriculture: https://www.esri.com/en-us/industries/blog/articles/trusted-applications-of-geospatial-ai-for-agriculture
