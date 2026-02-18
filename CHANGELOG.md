@@ -19,7 +19,8 @@
  * [You Can Rent HP’s Ginormous Gaming Laptops. Here’s Why You Shouldn’t](https://gizmodo.com/you-can-rent-hps-ginormous-gaming-laptops-heres-why-you-shouldnt-2000720761) (*Gizmodo*, Feb. 2025)
 
 ## Updates: 03.02.2026
-1. The 2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation will be held in Huntsville, Alabama from 19-22 May, 2026. The abstract submission deadline is Thu. 19 Feb. 2026 (*updated*). See: https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/.
+1. The 2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation will be held in Huntsville, Alabama from 19-22 May, 2026. The abstract submission deadline is Thu. 19 Feb. 2026 (*updated*). See: https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/. The workshop's main themes are as follows:
+<img width="823" height="263" alt="image" src="https://github.com/user-attachments/assets/e404eee2-588a-4435-8c51-66c0182d6ae2" />
 
 ## Updates: 30.01.2026
 1. A short update was done to the main [Compendium](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md) regarding the Google DeepMind *AlphaEarth Foundations* (Satellite Embeddings) dataset.
