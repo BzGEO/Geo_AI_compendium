@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 21.02.2026
+1. On public perception of AI: https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html.
+
 ## Updates: 18.02.2026
 1. On the impact of AI in science in general: [AI is helping individual scientists, study suggests — but not science](https://www.npr.org/2026/02/17/nx-s1-5711344/ai-is-helping-individual-scientists-study-suggests-but-not-science) (NPR, 2026).
 
