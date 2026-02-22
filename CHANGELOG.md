@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 22.02.2026
+1. For those using the deep learning workflows in ArcGIS Pro, the second patch for ArcGIS Pro version 3.6 (i.e., 3.6.2) was released on 19.02.2026, and is available for download from https://my.esri.com. Details are provided here: https://community.esri.com/t5/arcgis-pro-documents/arcgis-pro-3-6-patch-2-3-6-2-is-now-available/ta-p/1685330.
+
 ## Updates: 21.02.2026
 1. A comprehensive look at public perception of AI: https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html (*New York Times*, 2026).
 
