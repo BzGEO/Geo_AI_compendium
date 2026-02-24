@@ -6,6 +6,9 @@
 ## Updates: 24.02.2026
 1. On the impacts of AI on the science workforce: [AI is threatening science jobs. Which ones are most at risk?
 Data-analysis and modelling positions are already becoming obsolete, but hands-on experimentalists can breathe easy for now.](https://www.nature.com/articles/d41586-026-00444-9) (*Nature*, 2026)
+2. On the potential future impact of AI on the geospatial workforce:
+ * Eric Pimpler's Aug. 2025 blog post, [The AI Revolution is Coming for GIS: What You Need to Know About Microsoft’s Latest Warning](https://geospatialtraining.com/the-ai-revolution-is-coming-for-gis-what-you-need-to-know-about-microsofts-latest-warning/)
+ * Dr. Joseph Kerski's Sept. 2025 reflection on Eric Pimpler's post, [The AI Revolution is Coming for GIS: What You Need to Know About Microsoft’s Latest Warning: A review of Eric Pimpler’s new article](https://spatialreserves.wordpress.com/2025/09/29/the-ai-revolution-is-coming-for-gis-what-you-need-to-know-about-microsofts-latest-warning/)
 
 ## Updates: 22.02.2026
 1. For those using the deep learning workflows in ArcGIS Pro, the second patch for ArcGIS Pro version 3.6 (i.e., 3.6.2) was released on 19.02.2026, and is available for download from https://my.esri.com. Details are provided here: https://community.esri.com/t5/arcgis-pro-documents/arcgis-pro-3-6-patch-2-3-6-2-is-now-available/ta-p/1685330.
