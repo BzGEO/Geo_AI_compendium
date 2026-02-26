@@ -273,7 +273,7 @@
 
 ## 4.b. Software-specific DL resources
 
-*ArcGIS-related resources*
+### *ArcGIS-related resources*
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/esri_dl_defns_2024.PNG)
 
@@ -282,6 +282,7 @@
 * "Demystifying Geo AI" [article](https://www.esri.com/about/newsroom/arcnews/demystifying-geoai/) 2023
 * "Land Cover Mapping using Pretrained Deep Learning Models" [article](https://www.esri.com/arcgis-blog/products/arcgis/imagery/pretrained-land-cover-models/) 2023
 * "GeoAI: Artificial Intelligence in GIS" [book](https://www.esri.com/en-us/esri-press/browse/geoai-artificial-intelligence-in-gis) 2025
+* "Resources for Unlocking the Power of Geospatial AI Using ArcGIS" [article](https://community.esri.com/t5/education-blog/resources-for-unlocking-the-power-of-geospatial-ai/ba-p/1293098) 2025
 * Deep learning in ArcGIS Pro 3.x
   * [Overview](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/deep-learning-for-image-analyst-whats-new-in-arcgis-pro-3-2/): "Deep Learning for Image Analyst – What’s New in ArcGIS Pro 3.2" (2023)
   * [Overview](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/whats-new-for-geoai-in-the-image-analyst-extension-of-arcgis-pro-3-3/): "What's new for GeoAI in the Image Analyst extension of ArcGIS Pro 3.3" (2024)
@@ -321,7 +322,7 @@
 *source*: screenshot from ArcGIS Pro v. 3.3
 
 
-*QGIS-related resources*
+### *QGIS-related resources*
 * General list of [QGIS plugins](https://plugins.qgis.org/plugins/tags/deep-learning/) referencing DL
 * QGIS Deepness: Deep Neural Remote Sensing [plugin](https://plugins.qgis.org/plugins/deepness/) (2024) 🆕
   * Documentation [page](https://qgis-plugin-deepness.readthedocs.io/en/latest/)
@@ -330,14 +331,14 @@
 * QGIS Deep Learning Datasets Maker [plugin](https://plugins.qgis.org/plugins/deep-learning-datasets-maker/) (2022)
 
 
-*ENVI-related resources*
+### *ENVI-related resources*
 * Overview of the ENVI Deep Learning Process [page](https://www.nv5geospatialsoftware.com/docs/OverviewENVIDeepLearning.html)
 * ENVI Deep Learning Guide [Map](https://www.nv5geospatialsoftware.com/docs/guidemap.html)
 * What's New in ENVI Deep Learning 3.0 [page](https://www.nv5geospatialsoftware.com/docs/deep_learning_WhatsNew.html)
 * ENVI Deep Learning system requirements [page](https://www.nv5geospatialsoftware.com/docs/systemrequirements.html)
 * Train Deep Learning Models Using the ENVI Modeler [page](https://www.nv5geospatialsoftware.com/docs/trainusingmodeler.html)
 
-*R-related resources*
+### *R-related resources*
 * NeuralNet package basic [documentation](https://cran.r-project.org/web/packages/neuralnet/index.html)
 * Torch (PyTorch) package basic [documentation](https://cran.r-project.org/web/packages/torch/index.html)
   * ReddIt thread re: packaging of PyTorch / TensorFlow in R → *“Has anyone else noticed that there do not seem to be many packages in R that allow for Neural Networks and Deep Learning (with the exception of "nnet")? It seems that any time and R user would like to fit Neural Networks, they are "forced" to use the R version of "keras" (through "reticulate") - ultimately, the fitting of the Neural Network is done behind the scenes in Python.”*
