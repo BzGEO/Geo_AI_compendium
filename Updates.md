@@ -1,7 +1,13 @@
-# Change log file: the GeoAI Compendium
+# Updates (formerly the *change log*) associated with the GeoAI Compendium
 [![Update](https://img.shields.io/github/last-commit/bzgeo/Geo_AI_compendium?label=repo%20last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
+
+## Updates: 26.02.2026
+1. In the framework of the UN-GGIM: Americas' [*GeoAI Community of Practice*](https://www.interamericangeoportal.org/pages/geo-ai), Natural Resources Canada is organizing three webinars:
+ * [Module 1](https://events.teams.microsoft.com/event/f6f7b736-1fa2-4934-aee9-895685232fb4@05c95b33-90ca-49d5-b644-288b930b912b) (05.03.2026): **Introduction to ML/DL Theory** -> *Explore the foundational theory behind Machine Learning (ML) and Deep Learning (DL) in a geospatial context.*
+ * [Module 2](https://events.teams.microsoft.com/event/6920fcfb-07a6-4764-8766-dae0a3d38591@05c95b33-90ca-49d5-b644-288b930b912b) (19.03.2026): **Practical Training on Applications of ML/DL on Numerical, Non-Image Data** -> *Gain hands-on experience applying ML/DL techniques to tabular and structured datasets relevant to public sector challenges.*
+ * [Module 3](https://events.teams.microsoft.com/event/ed371a3e-371c-4ddb-b612-3c276b184b76@05c95b33-90ca-49d5-b644-288b930b912b) (22.04.2026): **Practical Training on Applications of GeoAI to High-Resolution Optical Imagery** -> *Learn to leverage AI for advanced analysis of high-resolution imagery—an essential skill for modern geospatial intelligence.*
 
 ## Updates: 25.02.2026
 1. On making deep learning models more efficient: [With help from monkeys, scientists build a leaner AI brain](https://www.npr.org/2026/02/25/nx-s1-5721198/with-help-from-monkeys-scientists-build-a-leaner-ai-brain) (NPR, 2026)
