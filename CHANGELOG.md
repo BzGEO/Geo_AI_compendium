@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 25.02.2026
+1. On making deep learning models more efficient: [With help from monkeys, scientists build a leaner AI brain](https://www.npr.org/2026/02/25/nx-s1-5721198/with-help-from-monkeys-scientists-build-a-leaner-ai-brain) (NPR, 2026)
+
 ## Updates: 24.02.2026
 1. On the impacts of AI on the science workforce: [AI is threatening science jobs. Which ones are most at risk?
 Data-analysis and modelling positions are already becoming obsolete, but hands-on experimentalists can breathe easy for now.](https://www.nature.com/articles/d41586-026-00444-9) (*Nature*, 2026)
