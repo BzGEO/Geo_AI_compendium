@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 04.03.2026
+1. This is not specific to GeoAI, but the Alaska Satellite Facility DAAC recently released a large volume of NISAR data (via Vertex: https://search.asf.alaska.edu). They also released tutorials on the visualization / analysis of that data: https://nisar-docs.asf.alaska.edu.
+
 ## Updates: 03.03.2026
 1. Though they have been whispered about for a while, so-called "deep fakes" have now reached the realm of Earth observation, per a recent article from the *Financial Times*: ["How AI fakes are turning satellite images into war misinformation"](https://www.ft.com/content/0badb6c5-bce2-4948-9d3b-164bdb55ecf4).
 
