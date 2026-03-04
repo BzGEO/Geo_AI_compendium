@@ -1,7 +1,7 @@
 # Geospatial Artificial Intelligence (GeoAI) / Geospatial Machine Learning (GeoML) Compendium:
 ## Resources 👨‍💻 focused on land cover monitoring 🏞️🛰️
 
-🚨 *This compendium is a work in progress.* 🚨 Also see the repo's associated [**Updates** doc](https://github.com/BzGEO/Geo_AI_compendium/blob/main/Updates.md). 🚨
+🚨 *This compendium is a work in progress ➡️ also see the repo's associated [**Updates** doc](https://github.com/BzGEO/Geo_AI_compendium/blob/main/Updates.md).* 🚨
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16735094.svg)](https://doi.org/10.5281/zenodo.16735094)
 [![Update](https://img.shields.io/github/last-commit/bzgeo/Geo_AI_compendium?label=last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
