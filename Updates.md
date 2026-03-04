@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 03.03.2026
+1. Though they have been whispered about for a while, so-called "deep fakes" have now reached the realm of Earth observation, per a recent article from the *Financial Times*: https://www.ft.com/content/0badb6c5-bce2-4948-9d3b-164bdb55ecf4.
+
 ## Updates: 26.02.2026
 1. In the framework of the UN-GGIM: Americas' [*GeoAI Community of Practice*](https://www.interamericangeoportal.org/pages/geo-ai), Natural Resources Canada is organizing three webinars:
  * [Module 1](https://events.teams.microsoft.com/event/f6f7b736-1fa2-4934-aee9-895685232fb4@05c95b33-90ca-49d5-b644-288b930b912b) (05.03.2026): **Introduction to ML/DL Theory** -> *Explore the foundational theory behind Machine Learning (ML) and Deep Learning (DL) in a geospatial context.*
