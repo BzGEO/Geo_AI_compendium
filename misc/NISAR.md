@@ -12,10 +12,10 @@
 > 2. If there is NISAR imagery available for your AOI, **download** the data from ASF's [Vertex](https://search.asf.alaska.edu/#/?dataset=NISAR&prodConfig=PR).
 
 > [!TIP]
-> 3.a. Consult this [tutorial](https://storymaps.arcgis.com/stories/c8f85d20b73c48fd8e89f8eef49bc60b) for **vizualizing** the data with *ArcGIS Pro*.
+> 3.a. Consult [this tutorial](https://storymaps.arcgis.com/stories/c8f85d20b73c48fd8e89f8eef49bc60b) for **vizualizing** the data with *ArcGIS Pro*.
 
 > [!TIP]
-> 3.b. Consult this [tutorial](https://www.earthdata.nasa.gov/learn/tutorials/work-nisar-sample-data#QGISVE) for **vizualizing** the data with *QGIS*.
+> 3.b. Consult [this tutorial](https://www.earthdata.nasa.gov/learn/tutorials/work-nisar-sample-data#QGISVE) for **vizualizing** the data with *QGIS*.
 
  > [!NOTE]
 > 4. Find useful NISAR [**documentation**](https://nisar-docs.asf.alaska.edu) from the *Alaska Satellite Facility DAAC*.
