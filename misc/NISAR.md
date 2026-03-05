@@ -4,7 +4,7 @@
 ## NISAR data cheatsheet
 
 > [!IMPORTANT]
-> 1. Use ASF's [**viewer**](https://experience.arcgis.com/experience/0042193b06104889971cd77f505190e0) tiles for currenly available NISAR scenes.
+> 1. Use ASF's [viewer](https://experience.arcgis.com/experience/0042193b06104889971cd77f505190e0) to **see** where NISAR data are currenly available.
 
 > [!IMPORTANT]
 > 2. **Download** the NISAR data from ASF's [Vertex](https://search.asf.alaska.edu/#/?dataset=NISAR&prodConfig=PR).
