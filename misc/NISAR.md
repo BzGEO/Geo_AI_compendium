@@ -9,7 +9,7 @@
 > 1. Use ASF's [viewer](https://experience.arcgis.com/experience/0042193b06104889971cd77f505190e0) to **see** where NISAR data are currenly available.
 
 > [!IMPORTANT]
-> 2. If there is NISAR imagery available for your AOI, **download** the data from ASF's [Vertex](https://search.asf.alaska.edu/#/?dataset=NISAR&prodConfig=PR).
+> 2. If there is NISAR imagery available for your AOI, **download** the data from ASF's [Vertex](https://search.asf.alaska.edu/#/?dataset=NISAR&prodConfig=PR) portal.
 
 > [!TIP]
 > 3.a. Consult [this tutorial](https://storymaps.arcgis.com/stories/c8f85d20b73c48fd8e89f8eef49bc60b) for **vizualizing** the data with *ArcGIS Pro*.
