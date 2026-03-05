@@ -3,9 +3,17 @@
 
 ## NISAR data cheatsheet
 
-1. **View** tiles for currenly available scenes: https://experience.arcgis.com/experience/0042193b06104889971cd77f505190e0
-2. **Download** the data: https://search.asf.alaska.edu/#/?dataset=NISAR&prodConfig=PR
-3. Tutorials for **visualizing** the data
-    * **ArcGIS Pro**: https://storymaps.arcgis.com/stories/c8f85d20b73c48fd8e89f8eef49bc60b
-    * **QGIS**: https://www.earthdata.nasa.gov/learn/tutorials/work-nisar-sample-data#QGISVE
-5. Other **documentation**: https://nisar-docs.asf.alaska.edu
+> [!IMPORTANT]
+> 1. Use ASF's [**viewer**](https://experience.arcgis.com/experience/0042193b06104889971cd77f505190e0) tiles for currenly available scenes.
+
+> [!IMPORTANT]
+> 2. **Download** the data from ASF's [Vertex](https://search.asf.alaska.edu/#/?dataset=NISAR&prodConfig=PR).
+
+> [!TIP]
+> 3.a. Consult this [tutorial](https://storymaps.arcgis.com/stories/c8f85d20b73c48fd8e89f8eef49bc60b) for **vizualizing** the data with *ArcGIS Pro*.
+
+> [!TIP]
+> 3.b. Consult this [tutorial](https://www.earthdata.nasa.gov/learn/tutorials/work-nisar-sample-data#QGISVE) for **vizualizing** the data with *QGIS*.
+
+ > [!NOTE]
+> 4. Find useful [**documentation**](https://nisar-docs.asf.alaska.edu) from the Alaska Satellite Facility DAAC.
