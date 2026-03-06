@@ -34,3 +34,6 @@
 >5. Find general information on the use of SAR in the [SERVIR SilvaCarbon SAR Handbook (2019)](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar-handbook).
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/nisar_04b.png)
+
+## NISAR Jupyter Notebooks
+* Example NISAR data visualization notebook from MAAP: https://github.com/MAAP-Project/maap-documentation/blob/develop/docs/source/science/NISAR/NISAR_access.ipynb
