@@ -3,7 +3,7 @@
 
 ## NISAR data cheatsheet
 
-**Scenario:** *You are a GIS user or remote sensing specialist and would like to see if there's NISAR data available for your area of interest (AOI), and you would like to download that data and evaluate (view) it.*
+**Scenario:** *You are a GIS user or remote sensing specialist and would like to see if there's NISAR data available for your area of interest (AOI), and you would like to download that data and evaluate (view) it.* 🤔
 
 > [!IMPORTANT]
 > 1. Use ASF's [viewer](https://experience.arcgis.com/experience/0042193b06104889971cd77f505190e0) to **see** where NISAR data are currenly available.
