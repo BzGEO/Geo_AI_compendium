@@ -18,4 +18,4 @@
 > 3.b. Consult [this tutorial](https://www.earthdata.nasa.gov/learn/tutorials/work-nisar-sample-data#QGISVE) for **vizualizing** the data with *QGIS*.
 
  > [!NOTE]
-> 4. Find useful NISAR [**documentation**](https://nisar-docs.asf.alaska.edu) from the *Alaska Satellite Facility DAAC*.
+> 4. Find other useful NISAR [**documentation**](https://nisar-docs.asf.alaska.edu) from the [*Alaska Satellite Facility DAAC*](https://www.earthdata.nasa.gov/centers/asf-daac).
