@@ -1,5 +1,5 @@
 # Resources for the NISAR mission
-*Last updated: 05.03.2026*
+*Last updated: 06.03.2026*
 
 ## NISAR data cheatsheet
 
