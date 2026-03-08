@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 08.03.2026
+1. AI in geospatial was the topic of last week's *MapScaping* podcast: https://mapscaping.com/podcast/ai-in-qgis/.
+
 ## Updates: 04.03.2026
 1. This is not specific to GeoAI, but the Alaska Satellite Facility DAAC recently released a large volume of NISAR data (via Vertex: https://search.asf.alaska.edu). They also released tutorials on the visualization / analysis of that data: https://nisar-docs.asf.alaska.edu. For instance, see the following for how to add NISAR GCOV data to *ArcGIS Pro*: https://storymaps.arcgis.com/stories/c8f85d20b73c48fd8e89f8eef49bc60b. The following interactive map shows the data which have been released thus far, which do not yet cover the entire globe: https://experience.arcgis.com/experience/0042193b06104889971cd77f505190e0.
 
