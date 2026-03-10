@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 10.03.2026
+1. A specialist from Esri indicated that the NASA/ IBM Prithvi [sub-models](https://livingatlas.arcgis.com/en/browse/?q=prithvi#d=1&type=tool&itemTypes=Deep+Learning+Package&q=prithvi) available for ArcGIS will likely be updated to version 2.0 by the ~May 2026 release of ArcGIS Pro 3.7: https://community.esri.com/t5/education-blog/resources-for-unlocking-the-power-of-geospatial-ai/bc-p/1688050/highlight/true#M2657.
+
 ## Updates: 08.03.2026
 1. AI in geospatial was the topic of last week's *MapScaping* podcast: https://mapscaping.com/podcast/ai-in-qgis/.
 
