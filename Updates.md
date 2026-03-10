@@ -5,6 +5,7 @@
 
 ## Updates: 10.03.2026
 1. A specialist from Esri indicated that the NASA/ IBM Prithvi [sub-models](https://livingatlas.arcgis.com/en/browse/?q=prithvi#d=1&type=tool&itemTypes=Deep+Learning+Package&q=prithvi) available for ArcGIS will likely be updated to version 2.0 by the ~May 2026 release of ArcGIS Pro 3.7: https://community.esri.com/t5/education-blog/resources-for-unlocking-the-power-of-geospatial-ai/bc-p/1688050/highlight/true#M2657.
+2. Esri recently published a note with recommendations regarding ArcGIS Pro virtualization, and some of the pointers may also be relevant for desktop / mobile computing, particularly regarding CPU choices: https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/arcgis-pro-virtualization-hardware-and-vm-profiles-2026-edition.
 
 ## Updates: 08.03.2026
 1. AI in geospatial was the topic of last week's *MapScaping* podcast: https://mapscaping.com/podcast/ai-in-qgis/.
