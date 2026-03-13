@@ -1,5 +1,5 @@
 # Resources for the NASA-ISRO Synthetic Aperture Radar (NISAR) mission
-*Last updated: 06.03.2026*
+*Last updated: 13.03.2026*
 
 ## NISAR data cheatsheet
 
@@ -37,3 +37,6 @@
 
 ## NISAR Jupyter Notebooks
 * Example NISAR data visualization notebook from MAAP: https://github.com/MAAP-Project/maap-documentation/blob/develop/docs/source/science/NISAR/NISAR_access.ipynb
+
+## NISAR 2026 Town Hall
+* Recording of the NISAR Town Hall meeting on 26.02.2026 (which includes walk-throughs of the various tutorials, as well as background on NISAR): https://www.youtube.com/watch?v=7tJJmNg8qyE.
