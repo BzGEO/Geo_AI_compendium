@@ -3,6 +3,10 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 13.03.2026
+1. Esri recently published a GeoAI-associated article featuring the [Vision Language Context-Based Classification](https://www.arcgis.com/home/item.html?id=6ec47aa99588404aa74246d62896dbb9) model: https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/turning-imagery-into-action-with-geoai.
+2. On the impact of LLMs on language patterns: [AI can ‘same-ify’ human expression — can some brains resist its pull? Emerging evidence suggests that LLM outputs can shape the text and thoughts of human users.](https://www.nature.com/articles/d41586-026-00781-9).
+
 ## Updates: 10.03.2026
 1. A specialist from Esri indicated that the NASA/ IBM Prithvi [sub-models](https://livingatlas.arcgis.com/en/browse/?q=prithvi#d=1&type=tool&itemTypes=Deep+Learning+Package&q=prithvi) available for ArcGIS will likely be updated to version 2.0 by the ~May 2026 release of ArcGIS Pro 3.7: https://community.esri.com/t5/education-blog/resources-for-unlocking-the-power-of-geospatial-ai/bc-p/1688050/highlight/true#M2657.
 2. Esri recently published a note with recommendations regarding ArcGIS Pro virtualization, and some of the pointers may also be relevant for desktop / mobile computing, particularly regarding CPU choices: https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/arcgis-pro-virtualization-hardware-and-vm-profiles-2026-edition.
