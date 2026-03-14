@@ -5,7 +5,9 @@
 
 ## Updates: 13.03.2026
 1. Esri recently published a GeoAI-associated article (**Turning Imagery into Action with GeoAI**) featuring the [Vision Language Context-Based Classification](https://www.arcgis.com/home/item.html?id=6ec47aa99588404aa74246d62896dbb9) model: https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/turning-imagery-into-action-with-geoai.
-2. On the impact of LLMs on language patterns: [AI can ‘same-ify’ human expression — can some brains resist its pull? Emerging evidence suggests that LLM outputs can shape the text and thoughts of human users.](https://www.nature.com/articles/d41586-026-00781-9).
+2. An Esri representative also published an article on "agriculture intelligence", or AgI: https://www.esri.com/en-us/industries/blog/articles/agriculture.
+3. On the impact of LLMs on language patterns: [AI can ‘same-ify’ human expression — can some brains resist its pull? Emerging evidence suggests that LLM outputs can shape the text and thoughts of human users.](https://www.nature.com/articles/d41586-026-00781-9).
+4. On the impact of LLMs on overall work: [AI Is Forcing Employees to Work Harder Than Ever. Even if AI does increase productivity, it's not exactly good news for workers.](https://futurism.com/artificial-intelligence/ai-forcing-employees-work-harder).
 
 ## Updates: 10.03.2026
 1. A specialist from Esri indicated that the NASA/ IBM Prithvi [sub-models](https://livingatlas.arcgis.com/en/browse/?q=prithvi#d=1&type=tool&itemTypes=Deep+Learning+Package&q=prithvi) available for ArcGIS will likely be updated to version 2.0 by the ~May 2026 release of ArcGIS Pro 3.7: https://community.esri.com/t5/education-blog/resources-for-unlocking-the-power-of-geospatial-ai/bc-p/1688050/highlight/true#M2657.
