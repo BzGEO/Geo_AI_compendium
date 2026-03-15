@@ -3,6 +3,10 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 15.03.2026
+1. To integrate into the *Compendium*: Jupytner notebooks from Esri: https://github.com/Esri/arcgis-python-api/tree/master/samples/04_gis_analysts_data_scientists.
+   * For instance, see: https://github.com/Esri/arcgis-python-api/blob/master/samples/04_gis_analysts_data_scientists/land_cover_classification_using_unet.ipynb.
+
 ## Updates: 13.03.2026
 1. Esri recently published a GeoAI-associated article (**Turning Imagery into Action with GeoAI**) featuring the [Vision Language Context-Based Classification](https://www.arcgis.com/home/item.html?id=6ec47aa99588404aa74246d62896dbb9) model: https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/turning-imagery-into-action-with-geoai.
 2. An Esri representative also published an article on "agriculture intelligence", or AgI: https://www.esri.com/en-us/industries/blog/articles/agriculture.
