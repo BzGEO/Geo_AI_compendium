@@ -5,7 +5,7 @@
 
 ## Updates: 15.03.2026
 1. To integrate into the *Compendium*: Jupytner notebooks from Esri: https://github.com/Esri/arcgis-python-api/tree/master/samples/04_gis_analysts_data_scientists.
-   * For instance, see: https://github.com/Esri/arcgis-python-api/blob/master/samples/04_gis_analysts_data_scientists/land_cover_classification_using_unet.ipynb.
+   * For instance, see: [Land Cover Classification using Satellite Imagery and Deep Learning](https://github.com/Esri/arcgis-python-api/blob/master/samples/04_gis_analysts_data_scientists/land_cover_classification_using_unet.ipynb).
 
 ## Updates: 13.03.2026
 1. Esri recently published a GeoAI-associated article (**Turning Imagery into Action with GeoAI**) featuring the [Vision Language Context-Based Classification](https://www.arcgis.com/home/item.html?id=6ec47aa99588404aa74246d62896dbb9) model: https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/turning-imagery-into-action-with-geoai.
