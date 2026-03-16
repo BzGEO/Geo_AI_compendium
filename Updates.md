@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 16.03.2026
+1. Definitely relevant to AI and ML workflows, *Nature* news covered the ongoing computer RAM shortage (i.e., 'RAMmageddon'): [‘RAMmageddon’ hits labs: AI-driven memory shortage is impacting science. The soaring cost and limited supply of computer memory is slowing some projects — and spurring creative approaches.](https://www.nature.com/articles/d41586-026-00844-x).
+
 ## Updates: 15.03.2026
 1. To integrate into the *Compendium*: Jupytner notebooks from Esri: https://github.com/Esri/arcgis-python-api/tree/master/samples/04_gis_analysts_data_scientists.
    * For instance, see: [Land Cover Classification using Satellite Imagery and Deep Learning](https://github.com/Esri/arcgis-python-api/blob/master/samples/04_gis_analysts_data_scientists/land_cover_classification_using_unet.ipynb).
