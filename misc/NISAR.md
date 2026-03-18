@@ -1,5 +1,5 @@
 # Resources for the NASA-ISRO Synthetic Aperture Radar (NISAR) mission
-*Last updated: 13.03.2026*
+*Last updated: 18.03.2026*
 
 ## NISAR data cheatsheet
 
@@ -40,3 +40,7 @@
 
 ## NISAR 2026 Town Hall
 * Recording of the NISAR Town Hall meeting on 26.02.2026 (which includes walk-throughs of the various tutorials, as well as background on NISAR): https://www.youtube.com/watch?v=7tJJmNg8qyE.
+
+## Examples
+* Exploration of radio frequency interference (RFI) in NISAR data over northern Alabama: https://bit.ly/nisar_rfi_examples.
+
