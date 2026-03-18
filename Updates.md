@@ -3,6 +3,12 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 18.03.2026
+1. This is probably not the best way to track the following, but it's interesting to have a snapshot of the use of the various Prithvi sub-models for ArcGIS Pro. Do the following download numbers provide insight into how many GIS users are using ArcGIS Pro for land cover classification and damage estimation?
+    * [Burn scar segmentation](https://www.arcgis.com/home/item.html?id=9af7af28dd91473bbc8ad40942e74563): **17,086 downloads**
+    * [Crop classification](https://www.arcgis.com/home/item.html?id=39e598cb9eed4f1eac28f8484c5f3679): **28,256 downloads**
+    * [Flood segmentation](https://www.arcgis.com/home/item.html?id=29dc90c33daf402caa9293c2088d1057): **16,336 downloads**
+
 ## Updates: 16.03.2026
 1. Definitely relevant to AI and ML workflows, *Nature* news covered the ongoing computer RAM shortage (i.e., 'RAMmageddon'): [‘RAMmageddon’ hits labs: AI-driven memory shortage is impacting science. The soaring cost and limited supply of computer memory is slowing some projects — and spurring creative approaches.](https://www.nature.com/articles/d41586-026-00844-x).
 
