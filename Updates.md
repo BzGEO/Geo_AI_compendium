@@ -8,7 +8,7 @@
 
 <img width="1088" height="295" alt="image" src="https://github.com/user-attachments/assets/0d71df5f-672d-4330-94d2-5cc18e8ac64a" />
 
-2. On ArcGIS Pro's [Deep Learning packages](https://livingatlas.arcgis.com/en/browse/#d=1&type=tool&itemTypes=Deep+Learning+Package): This is probably not the best way to track the following, but it's interesting to have a snapshot of the use of the various Prithvi sub-models for ArcGIS Pro. *Do the following download numbers provide insight into how many GIS users are using ArcGIS Pro for land cover classification and damage estimation?*
+2. On ArcGIS Pro's [Deep Learning packages](https://livingatlas.arcgis.com/en/browse/#d=1&type=tool&itemTypes=Deep+Learning+Package): This is probably not the best way to track the following, but it's interesting to have a snapshot of the use of the various Prithvi sub-models for ArcGIS Pro, which have been available for just over two years. *Do the following download numbers provide insight into how many GIS users are using ArcGIS Pro for land cover classification and damage estimation?*
     * [Burn scar segmentation](https://www.arcgis.com/home/item.html?id=9af7af28dd91473bbc8ad40942e74563): **17,086 downloads** (since 3 Jan. 2024)
     * [Crop classification](https://www.arcgis.com/home/item.html?id=39e598cb9eed4f1eac28f8484c5f3679): **28,256 downloads** (since 3 Jan. 2024)
     * [Flood segmentation](https://www.arcgis.com/home/item.html?id=29dc90c33daf402caa9293c2088d1057): **16,336 downloads** (since 3 Jan. 2024)
