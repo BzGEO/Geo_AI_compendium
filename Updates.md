@@ -9,6 +9,8 @@
     * [Crop classification](https://www.arcgis.com/home/item.html?id=39e598cb9eed4f1eac28f8484c5f3679): **28,256 downloads**
     * [Flood segmentation](https://www.arcgis.com/home/item.html?id=29dc90c33daf402caa9293c2088d1057): **16,336 downloads**
 
+<img width="1160" height="347" alt="image" src="https://github.com/user-attachments/assets/db0384dd-4cfe-49cf-9ba2-8bb3dc36e731" />
+
 ## Updates: 16.03.2026
 1. Definitely relevant to AI and ML workflows, *Nature* news covered the ongoing computer RAM shortage (i.e., 'RAMmageddon'): [‘RAMmageddon’ hits labs: AI-driven memory shortage is impacting science. The soaring cost and limited supply of computer memory is slowing some projects — and spurring creative approaches.](https://www.nature.com/articles/d41586-026-00844-x).
 
