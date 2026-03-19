@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 19.03.2026
+1. As indicated below, the second part of the three-part GeoAI webinar series organized by Natural Resources Canada in the context of the UN-GGIM: Americas' [*GeoAI Community of Practice*](https://www.interamericangeoportal.org/pages/geo-ai) is underway. The third and final webinar of the series will occur on Wed. 22 April 2026.
+
 ## Updates: 18.03.2026
 
 1. Regarding the ongoing series of webinars organized by Natural Resources Canada in the context of the UN-GGIM: Americas' [*GeoAI Community of Practice*](https://www.interamericangeoportal.org/pages/geo-ai), the team has developed a GitHub repo for the webinars: https://github.com/geoaiclassroom/geoai_learning/. They have also set up a *Google Classroom* for the webinar series: https://classroom.google.com/c/ODQwNjQxMjc1OTQx.
