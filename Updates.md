@@ -4,11 +4,14 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 18.03.2026
-1. The organizers of the upcoming *2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation* (19-22 May 2026) have indicated that the event's draft [program](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/programme) will be available by the end of the next week (i.e., circa 27.03.2026).
+
+1. Regarding the ongoing series of webinars organized by Natural Resources Canada in the context of the UN-GGIM: Americas' [*GeoAI Community of Practice*](https://www.interamericangeoportal.org/pages/geo-ai), the team has developed a GitHub repo for the webinars: https://github.com/geoaiclassroom/geoai_learning/.
+
+2. The organizers of the upcoming *2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation* (19-22 May 2026) have indicated that the event's draft [program](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/programme) will be available by the end of the next week (i.e., circa 27.03.2026).
 
 <img width="1088" height="295" alt="image" src="https://github.com/user-attachments/assets/0d71df5f-672d-4330-94d2-5cc18e8ac64a" />
 
-2. On ArcGIS Pro's [Deep Learning packages](https://livingatlas.arcgis.com/en/browse/#d=1&type=tool&itemTypes=Deep+Learning+Package): This is probably not the best way to track the following, but it's interesting to have a snapshot of the use of the various Prithvi sub-models for ArcGIS Pro, which have been available for just over two years. *Do the following download numbers provide insight into how many GIS users are using ArcGIS Pro for land cover classification and damage estimation?*
+3. On ArcGIS Pro's [Deep Learning packages](https://livingatlas.arcgis.com/en/browse/#d=1&type=tool&itemTypes=Deep+Learning+Package): This is probably not the best way to track the following, but it's interesting to have a snapshot of the use of the various Prithvi sub-models for ArcGIS Pro, which have been available for just over two years. *Do the following download numbers provide insight into how many GIS users are using ArcGIS Pro for land cover classification and damage estimation?*
     * [Burn scar segmentation](https://www.arcgis.com/home/item.html?id=9af7af28dd91473bbc8ad40942e74563): **17,086 downloads** (since 3 Jan. 2024)
     * [Crop classification](https://www.arcgis.com/home/item.html?id=39e598cb9eed4f1eac28f8484c5f3679): **28,256 downloads** (since 3 Jan. 2024)
     * [Flood segmentation](https://www.arcgis.com/home/item.html?id=29dc90c33daf402caa9293c2088d1057): **16,336 downloads** (since 3 Jan. 2024)
