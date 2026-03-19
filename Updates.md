@@ -5,7 +5,7 @@
 
 ## Updates: 18.03.2026
 
-1. Regarding the ongoing series of webinars organized by Natural Resources Canada in the context of the UN-GGIM: Americas' [*GeoAI Community of Practice*](https://www.interamericangeoportal.org/pages/geo-ai), the team has developed a GitHub repo for the webinars: https://github.com/geoaiclassroom/geoai_learning/. They have also set up a Google Classroom for the webinar series: https://classroom.google.com/c/ODQwNjQxMjc1OTQx.
+1. Regarding the ongoing series of webinars organized by Natural Resources Canada in the context of the UN-GGIM: Americas' [*GeoAI Community of Practice*](https://www.interamericangeoportal.org/pages/geo-ai), the team has developed a GitHub repo for the webinars: https://github.com/geoaiclassroom/geoai_learning/. They have also set up a *Google Classroom* for the webinar series: https://classroom.google.com/c/ODQwNjQxMjc1OTQx.
 
 2. The organizers of the upcoming *2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation* (19-22 May 2026) have indicated that the event's draft [program](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/programme) will be available by the end of the next week (i.e., circa 27.03.2026).
 
