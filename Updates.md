@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 20.03.2026
+1. On AI and weather forecasting: [Can AI models reliably forecast extreme weather events? More-rigorous testing is required before artificial-intelligence approaches are widely adopted by public forecasting agencies.](https://www.nature.com/articles/d41586-026-00842-z).
+
 ## Updates: 19.03.2026
 1. As indicated below, the second part of the three-part GeoAI webinar series organized by Natural Resources Canada in the context of the UN-GGIM: Americas' [*GeoAI Community of Practice*](https://www.interamericangeoportal.org/pages/geo-ai) is underway. The third and final webinar of the series will occur on Wed. 22 April 2026.
 
