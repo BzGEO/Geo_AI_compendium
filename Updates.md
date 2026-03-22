@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 22.03.2026
+1. The following isn't GeoAI-specific, but it's certainly worth a read: ['Metacognitive Laziness': How AI Helps Students Offload Critical Thinking, Other Hard Work](https://www.kqed.org/mindshift/65511/university-students-offload-critical-thinking-other-hard-work-to-ai).
+
 ## Updates: 21.03.2026
 1. A recent Esri press book seems like a must-read: [Top 20 Essential Skills for Imagery and Remote Sensing](https://www.esri.com/about/newsroom/announcements/esri-publishes-top-20-essential-skills-for-imagery-and-remote-sensing).
 
