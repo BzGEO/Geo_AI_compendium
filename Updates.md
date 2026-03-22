@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 21.03.2026
+1. A recent Esri press book seems like a must-read: [Top 20 Essential Skills for Imagery and Remote Sensing](https://www.esri.com/about/newsroom/announcements/esri-publishes-top-20-essential-skills-for-imagery-and-remote-sensing).
+
 ## Updates: 20.03.2026
 1. On AI and weather forecasting: [Can AI models reliably forecast extreme weather events? More-rigorous testing is required before artificial-intelligence approaches are widely adopted by public forecasting agencies](https://www.nature.com/articles/d41586-026-00842-z).
 
