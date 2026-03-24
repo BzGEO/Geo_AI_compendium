@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 24.03.2026
+1. More on AI hype: [The intelligence illusion: why AI isn’t as smart as it is made out to be. Artificial-intelligence models will supposedly take over the world, but AI innovator Luc Julia tells Nature that they’re little more than glorified pocket calculators.](https://www.nature.com/articles/d41586-026-00882-5).
+
 ## Updates: 22.03.2026
 1. The following isn't GeoAI-specific, but it's certainly worth a read: ['Metacognitive Laziness': How AI Helps Students Offload Critical Thinking, Other Hard Work](https://www.kqed.org/mindshift/65511/university-students-offload-critical-thinking-other-hard-work-to-ai).
 
