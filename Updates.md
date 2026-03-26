@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 26.03.2026
+1. Relevant to GeoAI, Esri is offering a [*Federal Technical Webinar Series*](https://www.esri.com/arcgis-blog/products/developers/developers/federal-technical-webinar-series), with a [*Strategies for Scripting and Automating Using Python *](https://www.esri.com/en-us/webinars/product/fed-tech-webinar-series/strategies-python-scripting-automation) webinar on 31.03.2026.
+
 ## Updates: 24.03.2026
 1. More on AI hype: [The intelligence illusion: why AI isn’t as smart as it is made out to be. Artificial-intelligence models will supposedly take over the world, but AI innovator Luc Julia tells Nature that they’re little more than glorified pocket calculators.](https://www.nature.com/articles/d41586-026-00882-5).
 2. Upcoming opportunity from *Nature* (*closes on 27.05.2026*): [Nature Awards AI for Discovery](https://www.nature.com/immersive/aifordiscovery/for-applicants/index.html).
