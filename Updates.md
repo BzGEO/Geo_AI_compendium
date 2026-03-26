@@ -9,6 +9,8 @@
    * GitHub: https://book.opengeoai.org
    * PDF (via LeanPub): https://leanpub.com/geoai
    * Print (via Amazon): https://www.amazon.com/dp/B0GTVFY3PQ
+3. More on AI hype: [Why AI hasn’t caused a job apocalypse — so far](https://www.nature.com/articles/d41586-026-00883-4).
+
 
 ## Updates: 24.03.2026
 1. More on AI hype: [The intelligence illusion: why AI isn’t as smart as it is made out to be. Artificial-intelligence models will supposedly take over the world, but AI innovator Luc Julia tells Nature that they’re little more than glorified pocket calculators.](https://www.nature.com/articles/d41586-026-00882-5).
