@@ -9,11 +9,11 @@
    * GitHub: https://book.opengeoai.org
    * PDF (via LeanPub): https://leanpub.com/geoai
    * Print (via Amazon): https://www.amazon.com/dp/B0GTVFY3PQ
-3. More on AI hype: [Why AI hasn’t caused a job apocalypse — so far](https://www.nature.com/articles/d41586-026-00883-4).
-4. Even more on AI hype: ['I Don’t Use AI Much': Steve Wozniak Expresses Skepticism AI Can Replace Humans](https://gizmodo.com/i-dont-use-ai-much-apple-co-founder-expresses-skepticism-ai-can-replace-humans-2000737127).
+3. More on AI hype: [Why AI hasn’t caused a job apocalypse — so far](https://www.nature.com/articles/d41586-026-00883-4) (24.03.2026).
+4. Even more on AI hype: ['I Don’t Use AI Much': Steve Wozniak Expresses Skepticism AI Can Replace Humans](https://gizmodo.com/i-dont-use-ai-much-apple-co-founder-expresses-skepticism-ai-can-replace-humans-2000737127) (24.03.2026).
 
 ## Updates: 24.03.2026
-1. More on AI hype: [The intelligence illusion: why AI isn’t as smart as it is made out to be. Artificial-intelligence models will supposedly take over the world, but AI innovator Luc Julia tells Nature that they’re little more than glorified pocket calculators.](https://www.nature.com/articles/d41586-026-00882-5).
+1. More on AI hype: [The intelligence illusion: why AI isn’t as smart as it is made out to be. Artificial-intelligence models will supposedly take over the world, but AI innovator Luc Julia tells Nature that they’re little more than glorified pocket calculators.](https://www.nature.com/articles/d41586-026-00882-5) (23.02.2026).
 2. Upcoming opportunity from *Nature* (*closes on 27.05.2026*): [Nature Awards AI for Discovery](https://www.nature.com/immersive/aifordiscovery/for-applicants/index.html).
 3. *R*, version 4.5.3 was released on 11.03.2026. If you're interested in accessing the previous versions of *R* (for Windows), see: https://cran.r-project.org/bin/windows/base/old/. Five versions of *R* have been released between March 2025 and March 2026.
 
@@ -102,7 +102,7 @@ Data-analysis and modelling positions are already becoming obsolete, but hands-o
 
 ## Updates: 14.02.2026
 1. New Esri article on GeoAI in agriculture: https://www.esri.com/en-us/industries/blog/articles/trusted-applications-of-geospatial-ai-for-agriculture
-2. On AI hype: https://www.businessinsider.com/gary-marcus-response-something-big-is-happening-ai-essay-shumer-2026-2
+2. On AI hype: [Gary Marcus calls out viral AI essay as alarmist 'hype'](https://www.businessinsider.com/gary-marcus-response-something-big-is-happening-ai-essay-shumer-2026-2) (13.02.2026)
  * The response to the recent AI hype article (linked within the previous article) is certainly reminiscent of "The AI Con" [book](https://thecon.ai), whose thesis is that consumers (i.e., all of us) are being *substantially oversold* a bill of goods regarding the capabilities of artificial intelligence.
 3. On cloud computing:
  * [I will never rent my PC from the cloud—and you shouldn't either](https://www.howtogeek.com/i-will-never-rent-my-pc-from-the-cloud-and-neither-should-you/) (*How To Geek*, Feb. 2025)
