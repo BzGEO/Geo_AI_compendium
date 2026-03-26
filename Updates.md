@@ -5,6 +5,10 @@
 
 ## Updates: 26.03.2026
 1. Relevant to GeoAI, Esri is offering a [*Federal Technical Webinar Series*](https://www.esri.com/arcgis-blog/products/developers/developers/federal-technical-webinar-series), with a [*Strategies for Scripting and Automating Using Python *](https://www.esri.com/en-us/webinars/product/fed-tech-webinar-series/strategies-python-scripting-automation) webinar on 31.03.2026.
+2. Prof. [Qiusheng Wu](https://github.com/giswqs) of the University of Tennessee has recently published a "GeoAI with Python" book, which is available in multiple formats:
+   * GitHub: https://book.opengeoai.org
+   * PDF (via LeanPub): https://leanpub.com/geoai
+   * Print (via Amazon): https://www.amazon.com/dp/B0GTVFY3PQ
 
 ## Updates: 24.03.2026
 1. More on AI hype: [The intelligence illusion: why AI isn’t as smart as it is made out to be. Artificial-intelligence models will supposedly take over the world, but AI innovator Luc Julia tells Nature that they’re little more than glorified pocket calculators.](https://www.nature.com/articles/d41586-026-00882-5).
