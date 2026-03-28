@@ -3,6 +3,11 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 28.03.2026
+1. The agenda for the upcoming 2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation (19.05.2026 - 22.05.2026) has been published: https://airdrive.eventsair.com/eventsairwesteuprod/production-nikal-public/f88071e9ce554f50a0ce91229cc4d5a3.
+
+<img width="2188" height="590" alt="image" src="https://github.com/user-attachments/assets/110d7c62-fa17-4f45-814f-5182c609f728" />
+
 ## Updates: 26.03.2026
 1. Relevant to GeoAI, Esri is offering a [*Federal Technical Webinar Series*](https://www.esri.com/arcgis-blog/products/developers/developers/federal-technical-webinar-series), with a [*Strategies for Scripting and Automating Using Python *](https://www.esri.com/en-us/webinars/product/fed-tech-webinar-series/strategies-python-scripting-automation) webinar on 31.03.2026.
 2. Prof. [Qiusheng Wu](https://github.com/giswqs) of the University of Tennessee has recently published a "GeoAI with Python" book, which is available in multiple formats:
