@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 29.03.2026
+1. Esri deep learning tools will be featured during the GeoAI Working Group meeting this week, on 01.04.2026: https://bsky.app/profile/tmayerscience.bsky.social/post/3mi2cm72wnc27.
+
 ## Updates: 28.03.2026
 1. The agenda for the upcoming 2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation (19.05.2026 - 22.05.2026) has been published: https://airdrive.eventsair.com/eventsairwesteuprod/production-nikal-public/f88071e9ce554f50a0ce91229cc4d5a3.
 
