@@ -3,6 +3,12 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 01.04.2026
+1. The GeoAI Working Group held its biweekly virtual meeting today, and it featured a presentation on *GeoAI in ArcGIS*, presented by Vinay Viswambharan and Lisa Tanh of Esri.
+
+<img width="1360" height="766" alt="image" src="https://github.com/user-attachments/assets/64c6169a-7b95-4114-b23c-bcbebd6ea92f" />
+
+
 ## Updates: 31.03.2026
 1. Following up from the Esri *Federal Technical Webinar Series* entry below, today Esri personnel hosted the webinar on [*Strategies for Scripting and Automating Using Python *](https://www.esri.com/en-us/webinars/product/fed-tech-webinar-series/strategies-python-scripting-automation), with the following overview.
 
