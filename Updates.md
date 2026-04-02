@@ -3,17 +3,18 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 02.04.2026
+1. Esri just published an article on foundation models: [*GeoAI in the Age of Foundation Models*](https://www.esri.com/about/newsroom/arcnews/geoai-in-the-age-of-foundation-models).
+
 ## Updates: 01.04.2026
 1. The GeoAI Working Group held its biweekly virtual meeting today, and it featured a presentation on *GeoAI in ArcGIS*, presented by Vinay Viswambharan and Lisa Tanh of Esri.
 
 <img width="1360" height="766" alt="image" src="https://github.com/user-attachments/assets/64c6169a-7b95-4114-b23c-bcbebd6ea92f" />
 
-
 ## Updates: 31.03.2026
 1. Following up from the Esri *Federal Technical Webinar Series* entry below, today Esri personnel hosted the webinar on [*Strategies for Scripting and Automating Using Python *](https://www.esri.com/en-us/webinars/product/fed-tech-webinar-series/strategies-python-scripting-automation), with the following overview.
 
 <img width="1210" height="654" alt="image" src="https://github.com/user-attachments/assets/cc1367a7-7b63-4712-aa02-d66baad1da16" />
-
 
 ## Updates: 29.03.2026
 1. Esri deep learning tools will be featured during the GeoAI Working Group meeting this week, on 01.04.2026: https://bsky.app/profile/tmayerscience.bsky.social/post/3mi2cm72wnc27.
