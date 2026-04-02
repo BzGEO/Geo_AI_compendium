@@ -4,7 +4,7 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 02.04.2026
-1. Esri just published an article on foundation models: [*GeoAI in the Age of Foundation Models*](https://www.esri.com/about/newsroom/arcnews/geoai-in-the-age-of-foundation-models). Some interesting tidbits:
+1. Esri just published an article on foundation models: [*GeoAI in the Age of Foundation Models*](https://www.esri.com/about/newsroom/arcnews/geoai-in-the-age-of-foundation-models). Some interesting snippets:
    * "*Foundation models learn to create embeddings... Embeddings can be stored as feature layers in ArcGIS, where each geographic feature carries its own multidimensional embedding as part of its attributes. Machine learning tools in ArcGIS can use such embedding datasets for clustering; classification; regression; or other analysis tasks, including predicting places where certain things—like species or buildings—might be found.*"
    * "*ArcGIS integrates several innovative remote sensing foundation models as ready-to-use backbones for geospatial deep learning... Esri is also developing its own model, designed to perform effectively across multispectral and high-resolution satellite imagery.*"
 
