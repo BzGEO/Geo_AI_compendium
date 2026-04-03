@@ -4,7 +4,12 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 03.04.2026
-1. Esri has published the [agenda](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda?tab.event=option_1715110503915) for its upcoming in-person Education Summit (11-12 July 2026), and it includes a session entitled [AI and GIS: Introduction](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1772502056372001BQaO) and another on [AI and GIS: Teaching GeoAI](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1772502627261001J4i3).
+1. Esri has published the [agenda](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda?tab.event=option_1715110503915) for its upcoming in-person Education Summit (11-12 July 2026), and it includes sessions such as:
+   * [AI and GIS: Introduction](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1772502056372001BQaO),
+   * [AI and GIS: Teaching GeoAI](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1772502627261001J4i3),
+   * [Teaching GIS in the Era of AI](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1771548587249001w0af),
+   * [GeoAI: Workflows and Activities](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1772505756363001Q7wM), and
+   * [AI and GIS: AI Assistants](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1772505522451001KFvo).
 
 ## Updates: 02.04.2026
 1. Esri just published an article on foundation models: [*GeoAI in the Age of Foundation Models*](https://www.esri.com/about/newsroom/arcnews/geoai-in-the-age-of-foundation-models). Some interesting snippets:
