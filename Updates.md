@@ -4,7 +4,7 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 04.04.2026
-1. More on 'meta-cognitive laziness': [“Cognitive surrender” leads AI users to abandon logical thinking, research finds](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/).
+1. More on 'meta-cognitive laziness' (termed 'cognitive surrender' in the following article): [“Cognitive surrender” leads AI users to abandon logical thinking, research finds](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/).
 
 ## Updates: 03.04.2026
 1. Esri has published the [agenda](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda?tab.event=option_1715110503915) for its upcoming in-person *Education Summit* (11-12 July 2026), and it includes sessions such as:
