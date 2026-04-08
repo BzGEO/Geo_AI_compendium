@@ -4,7 +4,7 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 08.04.2026
-1. On the topic of *embeddings*, in March 2026, Clark University, Cloud Native Geo, and Planet Labs co-hosted a meeting about best practices for satellite embeddings data, which also had participants from the Allen Institute for AI (Ai2), Esri, Earth Genome, Development Seed, Element 84, LGND, Wherobots, the University of Cambridge, and the University of Münster: https://www.cloudnativegeo.org/blog/2026/04/geo-embeddings-sprint-march-2026/. A new website (https://geoembeddings.org) was launched.
+1. On the topic of *embeddings*, in March 2026, Clark University, Cloud Native Geo, and Planet Labs co-hosted a meeting about best practices for satellite embeddings data, which also had participants from the Allen Institute for AI (Ai2), Esri, Earth Genome, Development Seed, Element 84, LGND, Wherobots, the University of Cambridge, and the University of Münster: https://www.cloudnativegeo.org/blog/2026/04/geo-embeddings-sprint-march-2026/. A new website (https://geoembeddings.org) was established, and an associated [Google Group](https://groups.google.com/a/cloudnativegeo.org/g/geo-embeddings-community) was set up.
 
 ## Updates: 04.04.2026
 1. More on 'meta-cognitive laziness' (termed 'cognitive surrender' in the following article): [“Cognitive surrender” leads AI users to abandon logical thinking, research finds](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/).
