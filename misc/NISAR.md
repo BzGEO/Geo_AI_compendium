@@ -35,6 +35,12 @@
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/nisar_04b.png)
 
+ > [!NOTE]
+>6. NASA ARSET [training webinar on SAR(2024)](https://www.earthdata.nasa.gov/learn/trainings/introduction-synthetic-aperture-radar-sar-its-applications).
+
+<img width="1264" height="636" alt="image" src="https://github.com/user-attachments/assets/d6554fbb-4fb4-4ddd-a1a6-e0b50394be12" />
+
+
 ## NISAR Jupyter Notebooks
 * Example NISAR data visualization notebook from MAAP: https://github.com/MAAP-Project/maap-documentation/blob/develop/docs/source/science/NISAR/NISAR_access.ipynb
 * Official NISAR notebooks from the mission: https://github.com/NISAR-Science-Algorithms
