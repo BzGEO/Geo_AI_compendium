@@ -1,5 +1,5 @@
 # Resources for the NASA-ISRO Synthetic Aperture Radar (NISAR) mission
-*Last updated: 20.03.2026*
+*Last updated: 10.04.2026*
 
 ## NISAR data cheatsheet
 
