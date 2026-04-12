@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 12.04.2026
+1. On the conundrum of the movement of computing to the cloud in spite of the increasing computing power of personal computers (PCs) / laptops, and the portents of a time when people no longer own PCs: https://www.pcmag.com/news/the-death-of-pc-ownership-framework-computer-ceo-issues-chilling-warning.
+
 ## Updates: 09.04.2026
 1. [Whereobots](https://wherobots.com) published a notebook for the mapping of **agricultural field boundaries** using Google's AlphaEarth Foundations (AEF) embeddings data: https://wherobots.com/blog/alphaearth-foundations-agriculture-change-detection/.
 2. Also related to **agricultural field boundary** mapping, [Dr. Robin Cole](https://github.com/robmarkcole)'s most recent [Satellite Image Deep Learning](https://github.com/satellite-image-deep-learning) video podcast [episode](https://www.youtube.com/watch?v=c-AdWYp1sfc) explored a new platform called [**Fields of the World (FTW)**](https://fieldsofthe.world/ftw-inference-app), from Prof. [Hannah Kerner](https://github.com/hannah-rae) of ASU and Dr. [Tristan Grupp](https://github.com/tristangrupp) of WRI (*posted on 31.03.2026*).
