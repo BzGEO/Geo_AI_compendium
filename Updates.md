@@ -5,6 +5,7 @@
 
 ## Updates: 12.04.2026
 1. On the conundrum of the movement of computing to the cloud in spite of the increasing computing power of personal computers (PCs) / laptops, and the portents of a time when people no longer own PCs: [The Death of PC Ownership? Framework Computer CEO Issues Chilling Warning](https://www.pcmag.com/news/the-death-of-pc-ownership-framework-computer-ceo-issues-chilling-warning). FWIW, this is reminiscent of the following article from late Dec. 2025: [Conspiracy theory or apt prediction? — The AI-fueled hardware shortage will kill local PCs, paving the way for subscription-based cloud computing](https://www.windowscentral.com/hardware/ai-hardware-shortage-end-local-pcs-conspiracy-theory).
+2. On AI-related "de-skilling": [The hidden costs of 'helpful' AI. Even when artificial-intelligence tools aid individuals’ decision-making, they can quietly de-skill whole professions by narrowing how uncertainties and values are debated.](https://www.nature.com/articles/d41586-026-00966-2) (source: *Nature*, 2026).
 
 ## Updates: 09.04.2026
 1. [Whereobots](https://wherobots.com) published a notebook for the mapping of **agricultural field boundaries** using Google's AlphaEarth Foundations (AEF) embeddings data: https://wherobots.com/blog/alphaearth-foundations-agriculture-change-detection/.
