@@ -4,7 +4,7 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 14.04.2026
-1. Today's episode of *The Daily* podcast from the *New York Times* is [The Workers Letting A.I. Do Their Jobs](https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html). There is also a video version of the podcast: https://www.youtube.com/watch?v=KJyQNwVj-_4.
+1. Tangential to GeoAI, today's episode of *The Daily* podcast from the *New York Times* is [The Workers Letting A.I. Do Their Jobs](https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html). There is also a video version of the podcast: https://www.youtube.com/watch?v=KJyQNwVj-_4.
 
 ## Updates: 13.04.2026
 1. The US National Science Foundation (NSF)'s National Center for Atmospheric Research (NCAR) has recently kicked off an ['explorer series'](https://edec.ucar.edu/public/ncar-explorer-series/2026) focused on AI literacy. On *National AI Literacy Day* (27.03.2026), NSF personnel organized a one-hour webinar on [Applications of artificial intelligence in Earth system science](https://edec.ucar.edu/events/ai-literacy-day), which is available as a YouTube [recording](https://www.youtube.com/watch?v=ZxqfRRjcZAM).
