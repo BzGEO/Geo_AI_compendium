@@ -8,7 +8,7 @@
 
 ## Updates: 13.04.2026
 1. The US National Science Foundation (NSF)'s National Center for Atmospheric Research (NCAR) has recently kicked off an ['explorer series'](https://edec.ucar.edu/public/ncar-explorer-series/2026) focused on AI literacy. On *National AI Literacy Day* (27.03.2026), NSF personnel organized a one-hour webinar on [Applications of artificial intelligence in Earth system science](https://edec.ucar.edu/events/ai-literacy-day), which is available as a YouTube [recording](https://www.youtube.com/watch?v=ZxqfRRjcZAM).
-   * The 3rd webinar of the series focuses on [Learning from machine learning for improved Earth system understanding](https://edec.ucar.edu/events/machine-learning-ESS).
+   * The 3rd webinar of the series focuses on [Learning from machine learning for improved Earth system understanding](https://edec.ucar.edu/events/machine-learning-ESS), and will be held on Tue. 14.04.2026.
 
 ## Updates: 12.04.2026
 1. On the conundrum of the movement of computing to the cloud in spite of the increasing computing power of personal computers (PCs) / laptops, and the portents of a time when people no longer own PCs: [The Death of PC Ownership? Framework Computer CEO Issues Chilling Warning](https://www.pcmag.com/news/the-death-of-pc-ownership-framework-computer-ceo-issues-chilling-warning). FWIW, this is reminiscent of the following article from late Dec. 2025: [Conspiracy theory or apt prediction? — The AI-fueled hardware shortage will kill local PCs, paving the way for subscription-based cloud computing](https://www.windowscentral.com/hardware/ai-hardware-shortage-end-local-pcs-conspiracy-theory).
