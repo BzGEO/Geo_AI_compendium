@@ -8,6 +8,7 @@
 
 ## Updates: 13.04.2026
 1. The US National Science Foundation (NSF)'s National Center for Atmospheric Research (NCAR) has recently kicked off an ['explorer series'](https://edec.ucar.edu/public/ncar-explorer-series/2026) focused on AI literacy. On *National AI Literacy Day* (27.03.2026), NSF personnel organized a one-hour webinar on [Applications of artificial intelligence in Earth system science](https://edec.ucar.edu/events/ai-literacy-day), which is available as a YouTube [recording](https://www.youtube.com/watch?v=ZxqfRRjcZAM).
+   * The 2nd webinar of the series focused on [Integrating expertise: Predicting hazardous weather through convergence science and artificial intelligence](https://youtu.be/rJ3_H-Pq2J8?si=TADu8MgAJOdROR1-) anda was held on 08.04.2026.
    * The 3rd webinar of the series focuses on [Learning from machine learning for improved Earth system understanding](https://edec.ucar.edu/events/machine-learning-ESS), and will be held on Tue. 14.04.2026.
 
 ## Updates: 12.04.2026
