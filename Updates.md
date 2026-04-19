@@ -9,8 +9,8 @@
 
 ## Updates: 19.04.2026
 1. The following Esri article examines, how water bodies can be extracted from high spatial resolution imagery using the *Segment Anything Model, v.3* (SAM3) in the [ArcGIS Reality suite](https://www.esri.com/arcgis-blog/products/arcgis/imagery/introducing-arcgis-reality): [Fast, accurate water body extraction for Reality Mapping using SAM3](https://www.esri.com/arcgis-blog/products/arcgis-pro/3d-gis/fast-accurate-water-body-extraction-for-reality-mapping-using-sam3).
-  * "ArcGIS Reality is a suite of photogrammetry software products designed to enable reality capture workflows for sites, cities, and countries." (source: [Introducing ArcGIS Reality!](https://www.esri.com/arcgis-blog/products/arcgis/imagery/introducing-arcgis-reality))
-  * "For this 50 km² dataset, running SAM3 at 5 cm resolution with a batch size of 32 on a GeForce RTX 4090 took approximately 10 hours end‑to‑end." (source: [Fast, accurate water body extraction for Reality Mapping using SAM3](https://www.esri.com/arcgis-blog/products/arcgis-pro/3d-gis/fast-accurate-water-body-extraction-for-reality-mapping-using-sam3))
+    * "ArcGIS Reality is a suite of photogrammetry software products designed to enable reality capture workflows for sites, cities, and countries." (source: [Introducing ArcGIS Reality!](https://www.esri.com/arcgis-blog/products/arcgis/imagery/introducing-arcgis-reality))
+    * "For this 50 km² dataset, running SAM3 at 5 cm resolution with a batch size of 32 on a GeForce RTX 4090 took approximately 10 hours end‑to‑end." (source: [Fast, accurate water body extraction for Reality Mapping using SAM3](https://www.esri.com/arcgis-blog/products/arcgis-pro/3d-gis/fast-accurate-water-body-extraction-for-reality-mapping-using-sam3))
 
 ## Updates: 14.04.2026
 1. Tangential to GeoAI, today's episode of *The Daily* podcast from the *New York Times* is [The Workers Letting A.I. Do Their Jobs](https://www.nytimes.com/2026/04/14/podcasts/the-daily/ai-coders.html). There is also a video version of the podcast: https://www.youtube.com/watch?v=KJyQNwVj-_4.
