@@ -4,7 +4,7 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 20.04.2026
-1. On 'tokenmaxxing' in AI in general: [‘Tokenmaxxing’ is making developers less productive than they think](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/).
+1. On 'tokenmaxxing' in AI in general: [‘Tokenmaxxing’ is making developers less productive than they think](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/) (from *TechCrunch*, 2026).
    * "Enormous token budgets — essentially, the amount of AI processing power a developer is authorized to consume — have become a badge of honor among Silicon Valley developers, but that’s a very weird way to think about productivity."
    * "...The evidence is mounting that large organizations are still figuring out how to use AI tools efficiently."
    * "...Engineers with the largest token budgets produced the most pull requests (proposed changes to a shared codebase), but the productivity improvement didn't scale. They achieved two times the throughput at 10 times the cost of tokens. In other words, the tools are generating volume, not value."
