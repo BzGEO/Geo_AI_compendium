@@ -3,6 +3,12 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 24.04.2026
+1. The UN-GGIM: Americas sponsored series on GeoAI finished successfully this week. Recordings of each of the three sessions are now available via YouTube:
+    * [Module 1](https://www.youtube.com/watch?v=06rZkXPCZJw)
+    * [Module 2](https://www.youtube.com/watch?v=vHv3brPQZjQ)
+    * [Module 3](https://www.youtube.com/watch?v=RSGUdAAowEA)
+
 ## Updates: 20.04.2026
 1. On 'tokenmaxxing' in AI in general: [‘Tokenmaxxing’ is making developers less productive than they think](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/) (from *TechCrunch*, 2026).
    * "Enormous token budgets — essentially, the amount of AI processing power a developer is authorized to consume — have become a badge of honor among Silicon Valley developers, but that’s a very weird way to think about productivity."
