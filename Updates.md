@@ -7,7 +7,7 @@
 1. The UN-GGIM: Americas sponsored series on GeoAI finished successfully this week. Recordings of each of the three sessions are now available via YouTube:
     * [Module 1](https://www.youtube.com/watch?v=06rZkXPCZJw): Introduction to ML/DL Theory
     * [Module 2](https://www.youtube.com/watch?v=vHv3brPQZjQ): Applications of ML/DL on Numerical, Non-Image Data
-    * [Module 3](https://www.youtube.com/watch?v=RSGUdAAowEA): 
+    * [Module 3](https://www.youtube.com/watch?v=RSGUdAAowEA): Applications of GeoAI to High-Resolution Optical Imagery
 
 ## Updates: 20.04.2026
 1. On 'tokenmaxxing' in AI in general: [‘Tokenmaxxing’ is making developers less productive than they think](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/) (from *TechCrunch*, 2026).
