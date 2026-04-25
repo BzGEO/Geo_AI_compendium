@@ -4,7 +4,8 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 25.04.2026
-1. The following article from *The New York Times* [behind a paywall] offers a great primer for how deep learning and AI work: ["We Don’t Really Know How A.I. Works. That’s a Problem."](https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html).
+1. The following recent article from *The New York Times* [behind a paywall] offers a great primer for how deep learning and AI work: ["We Don’t Really Know How A.I. Works. That’s a Problem."](https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html)
+   * "Because the image-classifying algorithm had evolved autonomously, there could have been any number of rules encoded in AlexNet’s internal structure, or neural network, with no obvious way of figuring out what or where those rules were. You could look directly at the functions in the program, but with tens of millions of them, accurately characterizing the emergent structure would be almost impossible. The program was essentially a black box."
 
 ## Updates: 24.04.2026
 1. The UN-GGIM: Americas sponsored series on GeoAI finished successfully this week. Recordings of each of the three sessions are now available via YouTube:
