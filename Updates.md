@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 25.04.2026
+1. The following article from *The New York Times* [behind a paywall] offers a great primer for how deep learning and AI work: ["We Don’t Really Know How A.I. Works. That’s a Problem."](https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html).
+
 ## Updates: 24.04.2026
 1. The UN-GGIM: Americas sponsored series on GeoAI finished successfully this week. Recordings of each of the three sessions are now available via YouTube:
     * [Module 1](https://www.youtube.com/watch?v=06rZkXPCZJw): Introduction to ML/DL Theory
