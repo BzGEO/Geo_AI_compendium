@@ -3,6 +3,11 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 27.04.2026
+1. Planet Labs is hosting a 30-min. webinar entitled ***A First Look at Agentic Geospatial AI*** on 29.04.2026 and 30.04.2026. Here is the [registration link](https://learn.planet.com/AgileEO-Agentic-Geospatial-AI-Register.html).
+<img width="611" height="247" alt="image" src="https://github.com/user-attachments/assets/13f80d7e-cab8-4a75-9d93-802283522fe5" />
+
+
 ## Updates: 25.04.2026
 1. This week, Dr. Robin Cole's [satellite-image-deep-learning](https://www.youtube.com/@satellite-image-deep-learning) video podcast series featured [BetaEarth: Open Embeddings of Sentinel-2 and Sentinel-1](https://www.youtube.com/watch?v=1jfJjXWmoto), which is partly based on Google's [AlphaEarth Foundations](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/) dataset. The *BetaEarth* dataset can be accessed through the following [repo](https://github.com/asterisk-labs/beta-earth) from [*Asterisk Labs*](https://github.com/asterisk-labs).
 2. The following recent article from *The New York Times* [behind a paywall] offers a great primer for how deep learning and AI work, particularly through the framework of **model interpretability**: ["We Don’t Really Know How A.I. Works. That’s a Problem."](https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html)
