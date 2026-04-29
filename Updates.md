@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 29.04.2026
+1. More on AI hype, from a recent BBC article: [Why AI companies want you to be afraid of them](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them).
+
 ## Updates: 27.04.2026
 1. Planet Labs is hosting a 30-min. webinar entitled ***A First Look at Agentic Geospatial AI*** on 29.04.2026 and 30.04.2026. Here is the [registration link](https://learn.planet.com/AgileEO-Agentic-Geospatial-AI-Register.html).
 <img width="611" height="247" alt="image" src="https://github.com/user-attachments/assets/13f80d7e-cab8-4a75-9d93-802283522fe5" />
