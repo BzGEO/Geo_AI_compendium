@@ -5,6 +5,7 @@
 
 ## Updates: 29.04.2026
 1. More on AI hype, from a recent BBC article: [Why AI companies want you to be afraid of them](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them).
+   * "Let's be clear: it is theoretically possible that AI will take over the world. I'm no fortune teller. But ask yourself, does that idea sound similar to other stories you've heard out of Silicon Valley in the past? Weren't we all supposed to be living in Mark Zuckerberg's Metaverse by now? Wasn't Bitcoin going to replace all the world's currency? Remember back in the 2010s, when we heard about how social media would save democracy? All of these things could still happen. Or maybe they won't."
 
 ## Updates: 27.04.2026
 1. Planet Labs is hosting a 30-min. webinar entitled ***A First Look at Agentic Geospatial AI*** on 29.04.2026 and 30.04.2026. Here is the [registration link](https://learn.planet.com/AgileEO-Agentic-Geospatial-AI-Register.html).
