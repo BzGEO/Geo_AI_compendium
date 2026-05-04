@@ -4,7 +4,7 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 03.05.2026
-1. The [recording](https://content.planet.com/c/planet-video-webinar-101?x=TWJAsS) of Planet Labs' ***A First Look at Agentic Geospatial AI*** webinar of 29.04.2026 is now [available](https://content.planet.com/c/planet-video-webinar-101?x=TWJAsS).
+1. The [recording](https://content.planet.com/c/planet-video-webinar-101?x=TWJAsS) of Planet Labs' ***A First Look at Agentic Geospatial AI*** webinar of 29.04.2026 is now available.
 2. On AI in general (but behind a paywall): "[Opinion: Why the A.I. Job Apocalypse (Probably) Won’t Happen](https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html)" (source: *The New York Times*, 2026).
 
 ## Updates: 29.04.2026
