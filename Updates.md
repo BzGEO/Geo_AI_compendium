@@ -8,7 +8,7 @@
 
 ## Updates: 04.05.2026
 1. The [recording](https://www.youtube.com/watch?v=n3oxl99kca8) of the presentation that [Prof. Qiusheng Wu](https://github.com/giswqs) of the University of Tennessee gave to the GeoAI Working Group is now [online](https://www.youtube.com/watch?v=n3oxl99kca8&list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN&index=60) (and part of the Working Group's video [playlist](https://www.youtube.com/watch?v=9VgcdWCFKAs&list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN)).
-2. Prof. Wu also released a video presentation on the [**OpenGeoAgent: A Multimodal AI Agent For Automated Geospatial Analysis & Visualization**](https://www.youtube.com/watch?v=5zkXQlHUsu8) on his ***Open Geospatial Solutions*** [YouTube channel](https://www.youtube.com/@giswqs).
+2. Prof. Wu also released a video presentation on the [**OpenGeoAgent: A Multimodal AI Agent For Automated Geospatial Analysis & Visualization**](https://www.youtube.com/watch?v=5zkXQlHUsu8) on his ***Open Geospatial Solutions*** [YouTube channel](https://www.youtube.com/@giswqs). This topic is similar to the recent "Agentic Geospatial AI" webinar from Planet Labs (i.e., the updates immediately below).
 
 ## Updates: 03.05.2026
 1. The [recording](https://content.planet.com/c/planet-video-webinar-101?x=TWJAsS) of Planet Labs' ***A First Look at Agentic Geospatial AI*** webinar on 29.04.2026 is now available.
