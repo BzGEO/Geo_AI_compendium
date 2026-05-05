@@ -1,6 +1,15 @@
 # NASA-ISRO Synthetic Aperture Radar (NISAR) mission: Available data globally
 *Last updated: 05.05.2026*
 
+## Objectives
+* Quickly visualize available NISAR data footprints
+
+## Caveat
+* The following graphics are based on the initial late Feb. 2026 data dump. One will note that most parts of the globe are not included. Additional data - likely covering other parts of the globe - will be released some time in July 2026, according to the Alaska Satellite Facility (ASF). See the NISAR data release timeline: https://nisar-docs.asf.alaska.edu/availability-overview/#data-release-timeline.
+
+<img width="548" height="829" alt="image" src="https://github.com/user-attachments/assets/6f230af8-f004-4891-bade-69cc70381cd2" />
+
+
 ## All available NISAR data
 
 <img width="1915" height="733" alt="image" src="https://github.com/user-attachments/assets/bb20b157-4012-48cd-acd5-3b769036ba86" />
