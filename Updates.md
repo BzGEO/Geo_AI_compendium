@@ -4,7 +4,11 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 05.05.2026
+1. We are now in May, and *ArcGIS Pro version 3.7* is expected to be released shortly, per an earlier [release](https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/arcgis-pro-3-7-moves-to-net-10) from *Esri*.
+
+## Updates: 04.05.2026
 1. The [recording](https://www.youtube.com/watch?v=n3oxl99kca8) of the presentation that [Prof. Qiusheng Wu](https://github.com/giswqs) of the University of Tennessee gave to the GeoAI Working Group is now [online](https://www.youtube.com/watch?v=n3oxl99kca8&list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN&index=60) (and part of the Working Group's video [playlist](https://www.youtube.com/watch?v=9VgcdWCFKAs&list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN)).
+2. Prof. Wu also released a video presentation on the [**OpenGeoAgent: A Multimodal AI Agent For Automated Geospatial Analysis & Visualization**](https://www.youtube.com/watch?v=5zkXQlHUsu8) on his ***Open Geospatial Solutions*** [YouTube channel](https://www.youtube.com/@giswqs).
 
 ## Updates: 03.05.2026
 1. The [recording](https://content.planet.com/c/planet-video-webinar-101?x=TWJAsS) of Planet Labs' ***A First Look at Agentic Geospatial AI*** webinar on 29.04.2026 is now available.
