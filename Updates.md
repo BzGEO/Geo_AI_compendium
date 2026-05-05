@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 05.05.2026
+1. The [recording](https://www.youtube.com/watch?v=n3oxl99kca8) of the presentation that [Prof. Qiusheng Wu](https://github.com/giswqs) of the University of Tennessee gave to the GeoAI Working Group is now [online](https://www.youtube.com/watch?v=n3oxl99kca8&list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN&index=60) (and part of the Working Group's video [playlist](https://www.youtube.com/watch?v=9VgcdWCFKAs&list=PLKlxghiZuIM59XVSjuye43qcHXRZLwQNN)).
+
 ## Updates: 03.05.2026
 1. The [recording](https://content.planet.com/c/planet-video-webinar-101?x=TWJAsS) of Planet Labs' ***A First Look at Agentic Geospatial AI*** webinar on 29.04.2026 is now available.
 2. On AI in general (but behind a paywall): "[Opinion: Why the A.I. Job Apocalypse (Probably) Won’t Happen](https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html)" (source: *The New York Times*, 2026).
