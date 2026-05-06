@@ -10,7 +10,7 @@
 
 ## Updates: 05.05.2026
 1. We are now in May, and ***ArcGIS Pro version 3.7*** is expected to be released shortly, per an earlier [release](https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/arcgis-pro-3-7-moves-to-net-10) from *Esri*. However, the software is not yet available from https://my.esri.com.
-2. I have discovered that the following document is the top result for a Google search for "GeoAI Compendium": [Mapping Disaster Resilience: GeoAI Best Practices from the UN-SPIDER Network](https://www.un-spider.org/sites/default/files/UN-SPIDER%20GeoAI%20Compendium.pdf).
+2. I have discovered that the following document is the top result for a Google search for "GeoAI Compendium": [Mapping Disaster Resilience: GeoAI Best Practices from the UN-SPIDER Network](https://www.un-spider.org/sites/default/files/UN-SPIDER%20GeoAI%20Compendium.pdf) (UN-SPIDER, 2025).
 
 <img width="1008" height="752" alt="image" src="https://github.com/user-attachments/assets/65c584e1-bc5a-4e30-b440-e1250c7f255c" />
 
