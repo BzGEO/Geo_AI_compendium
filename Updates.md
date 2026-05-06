@@ -4,7 +4,7 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 06.05.2026
-1. On digital twins, AI, and water use, from AGU's *Eos* last week: [The Genesis Mission Needs Hydrology: Here’s How to Incorporate It. By positioning water security as one of the “most challenging problems of this century,” the Genesis Mission can become the sandbox in which AI reshapes how the United States measures, models, and manages water.](https://eos.org/opinions/the-genesis-mission-needs-hydrology-heres-how-to-incorporate-it).
+1. On digital twins, AI, and water use, from AGU's *Eos* last week: [The Genesis Mission Needs Hydrology: Here’s How to Incorporate It. By positioning water security as one of the “most challenging problems of this century,” the Genesis Mission can become the sandbox in which AI reshapes how the United States measures, models, and manages water.](https://eos.org/opinions/the-genesis-mission-needs-hydrology-heres-how-to-incorporate-it)
 
 <img width="786" height="622" alt="image" src="https://github.com/user-attachments/assets/696e2f3d-5d5b-440e-ac54-2d6102e7afd3" />
 
