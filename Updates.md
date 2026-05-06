@@ -6,6 +6,8 @@
 ## Updates: 06.05.2026
 1. On digital twins, AI, and water use, from AGU's *Eos* last week: [The Genesis Mission Needs Hydrology: Here’s How to Incorporate It. By positioning water security as one of the “most challenging problems of this century,” the Genesis Mission can become the sandbox in which AI reshapes how the United States measures, models, and manages water.](https://eos.org/opinions/the-genesis-mission-needs-hydrology-heres-how-to-incorporate-it).
 
+<img width="786" height="622" alt="image" src="https://github.com/user-attachments/assets/696e2f3d-5d5b-440e-ac54-2d6102e7afd3" />
+
 ## Updates: 05.05.2026
 1. We are now in May, and ***ArcGIS Pro version 3.7*** is expected to be released shortly, per an earlier [release](https://www.esri.com/arcgis-blog/products/arcgis-pro/announcements/arcgis-pro-3-7-moves-to-net-10) from *Esri*. However, the software is not yet available from https://my.esri.com.
 
