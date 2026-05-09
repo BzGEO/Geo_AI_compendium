@@ -3,10 +3,8 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
-<!--
 ## Updates: 09.05.2026
 1. On AI in general (but behind a paywall): [The Secret to Understanding AI. “Imagine the tech without the tech companies.”](https://www.theatlantic.com/ideas/2026/05/ai-for-good-uses/687082/) (*source: The Atlantic, 2026*)
--->
 
 ## Updates: 06.05.2026
 1. On digital twins, AI, and water use, from AGU's *Eos* last week: [The Genesis Mission Needs Hydrology: Here’s How to Incorporate It. By positioning water security as one of the “most challenging problems of this century,” the Genesis Mission can become the sandbox in which AI reshapes how the United States measures, models, and manages water.](https://eos.org/opinions/the-genesis-mission-needs-hydrology-heres-how-to-incorporate-it)
