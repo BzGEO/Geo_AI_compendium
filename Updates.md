@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 11.05.2026
+1. On Git in general: [Why developers are ditching GitHub for this nonprofit alternative](https://www.howtogeek.com/this-open-source-github-alternative-is-gaining-serious-momentum-and-its-refreshingly-simple/) (*source: HowToGeek, 2026*).
+
 ## Updates: 10.05.2026
 1. On AI's impact on the skills and critical thinking of recent university graduates: [Bosses Horrified as “AI Native” College Graduates Hit the Workplace. "Massive numbers of students are going to emerge from university with degrees, and into the workforce, who are essentially illiterate."](https://futurism.com/future-society/college-critical-thinking-ai) (*source: Futurism, 2026*).
 
