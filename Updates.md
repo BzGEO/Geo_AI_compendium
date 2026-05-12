@@ -7,7 +7,8 @@
 1. The NASA Earth Science Division's Earth Science Data Systems program recently (28.04.2026) published its ***Artificial Intelligence in Earth Science Data Systems*** Strategy for FY 2027 to FY 2030, available as a webpage and also as a PDF document:
    * https://www.earthdata.nasa.gov/about/ai-strategy
    * https://www.earthdata.nasa.gov/s3fs-public/2026-04/ESDS-AI-Strategy.pdf (14 pp.)
-2. If the following is considered a suitable alternative to *AutoCAD*, is there something similar for GIS? [This free CAD software runs in your browser and puts expensive programs to shame](https://www.makeuseof.com/free-cad-software-in-browser-expensive-programs-shame/) (*source: MakeUseOf, 2026*)
+2. Here's a useful AI glossary from *TechCrunch*: [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/).
+3. If the following is considered a suitable alternative to *AutoCAD*, is there something similar for GIS? [This free CAD software runs in your browser and puts expensive programs to shame](https://www.makeuseof.com/free-cad-software-in-browser-expensive-programs-shame/) (*source: MakeUseOf, 2026*)
 
 ## Updates: 11.05.2026
 1. On Git in general: [Why developers are ditching GitHub for this nonprofit alternative](https://www.howtogeek.com/this-open-source-github-alternative-is-gaining-serious-momentum-and-its-refreshingly-simple/) (*source: HowToGeek, 2026*).
