@@ -9,7 +9,7 @@
    * https://www.earthdata.nasa.gov/s3fs-public/2026-04/ESDS-AI-Strategy.pdf (14 pp.)
 2. Here's a useful AI glossary from *TechCrunch*: [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/).
 3. If the following is considered a suitable alternative to *AutoCAD*, is there something similar for GIS? [This free CAD software runs in your browser and puts expensive programs to shame](https://www.makeuseof.com/free-cad-software-in-browser-expensive-programs-shame/) (*source: MakeUseOf, 2026*)
-4. Google indicated that it will host two *Geo for Good* 2026 Summits, one in California and the other in a location TBD. Information on the first Summit can be found at: https://earthoutreachonair.withgoogle.com/events/geoforgood26-map.
+4. Google indicated that it will host two 2026 ***Geo for Good*** Summits, one in California and the other in a location TBD. Information on the first Summit can be found at: https://earthoutreachonair.withgoogle.com/events/geoforgood26-map.
 5. The book [AI for Good. How Real People Are Using Artificial Intelligence to Fix Things That Matter](https://www.simonandschuster.com/books/AI-for-Good/Josh-Tyrangiel/9781668082508) by Josh Tyrangiel was released today. It is available via Amazon (print / Kindle / audiobook).
 
 ## Updates: 11.05.2026
