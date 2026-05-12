@@ -3,6 +3,11 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 12.05.2026
+1. The NASA Earth Science Division's Earth Science Data Systems program recently (28.04.2026) published its ***Artificial Intelligence in Earth Science Data Systems*** Strategy for FY 2027 to FY 2030, available as a webpage and also as a PDF document:
+   * https://www.earthdata.nasa.gov/about/ai-strategy
+   * https://www.earthdata.nasa.gov/s3fs-public/2026-04/ESDS-AI-Strategy.pdf (14 pp.)
+
 ## Updates: 11.05.2026
 1. On Git in general: [Why developers are ditching GitHub for this nonprofit alternative](https://www.howtogeek.com/this-open-source-github-alternative-is-gaining-serious-momentum-and-its-refreshingly-simple/) (*source: HowToGeek, 2026*).
 
