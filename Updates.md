@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 13.05.2026
+1. From Jack Dangermond, the founder of *Esri*: [Creating A More Intelligent World–Together. How Geography, GIS, and AI Are Reshaping Our Understanding of the Planet](https://www.forbes.com/sites/esri/2026/04/15/creating-a-more-intelligent-worldtogether/) (*source: Forbes, 2026*).
+
 ## Updates: 12.05.2026
 1. The NASA Earth Science Division's Earth Science Data Systems program recently (28.04.2026) published its ***Artificial Intelligence in Earth Science Data Systems*** Strategy for FY 2027 to FY 2030, available as a webpage and also as a PDF document:
    * https://www.earthdata.nasa.gov/about/ai-strategy
