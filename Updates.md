@@ -5,6 +5,7 @@
 
 ## Updates: 14.05.2026
 1. On the impacts of over-dependence on AI-based coding: [Software Engineers Say They’re Losing the Ability to Code Now That AI Does It for Them](https://futurism.com/artificial-intelligence/engineers-losing-coding-ability-ai) (*source: Futurism, 2026*).
+2. ArcGIS Pro 3.7 - which will apparently have integration of Prithvi EO 2.0 - was released today. What's new is documented in: https://doc.esri.com/en/arcgis-pro/latest/get-started/whats-new-in-arcgis-pro.html.
 
 ## Updates: 13.05.2026
 1. From Jack Dangermond, the founder of *Esri*: [Creating A More Intelligent World–Together. How Geography, GIS, and AI Are Reshaping Our Understanding of the Planet](https://www.forbes.com/sites/esri/2026/04/15/creating-a-more-intelligent-worldtogether/) (*source: Forbes, 2026*).
