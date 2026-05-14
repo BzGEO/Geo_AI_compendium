@@ -422,10 +422,9 @@
 
 If this documentation is used in publications, presentations, or other venues, please cite 📝 the following:
 
-Cherrington, E. (2025). Geo AI Compendium (Version 1.0.0) [Document]. https://doi.org/10.5281/zenodo.16735094
+Cherrington, E. (2025). Geo AI Compendium (Version 1.0.0.1) [Document]. https://doi.org/10.5281/zenodo.20143618
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16735094.svg)](https://doi.org/10.5281/zenodo.16735094)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20143618.svg)](https://doi.org/10.5281/zenodo.20143618)
 
 ## Contact information
 
