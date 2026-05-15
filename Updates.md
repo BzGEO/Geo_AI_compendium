@@ -8,7 +8,13 @@
 
 ## Updates: 14.05.2026
 1. On the impacts of over-dependence on AI-based coding: [Software Engineers Say They’re Losing the Ability to Code Now That AI Does It for Them](https://futurism.com/artificial-intelligence/engineers-losing-coding-ability-ai) (*source: Futurism, 2026*).
-2. ArcGIS Pro 3.7 - which will apparently have integration of Prithvi EO 2.0 - was released today. What's new is documented in: https://doc.esri.com/en/arcgis-pro/latest/get-started/whats-new-in-arcgis-pro.html.
+2. ArcGIS Pro 3.7 - which will apparently have integration of Prithvi EO 2.0 - was released today. What's new is documented in: https://doc.esri.com/en/arcgis-pro/latest/get-started/whats-new-in-arcgis-pro.html. Specific to ArcGIS Pro 3.7, the following are the **Model Types** that are available (*which are different from the Backbone Models*):
+
+<img width="297" height="417" alt="Screenshot 2026-05-15 110453" src="https://github.com/user-attachments/assets/e14084ee-44a6-46d5-9aad-ffb552746971" />
+
+<img width="297" height="417" alt="Screenshot 2026-05-15 110633" src="https://github.com/user-attachments/assets/06a9907c-cad4-45bf-83de-58d1db4c6400" />
+
+<img width="297" height="417" alt="Screenshot 2026-05-15 110703" src="https://github.com/user-attachments/assets/b4b0fa66-f7ab-48d1-a9d0-a491d9cf59cf" />
 
 ## Updates: 13.05.2026
 1. From Jack Dangermond, the founder of *Esri*: [Creating A More Intelligent World–Together. How Geography, GIS, and AI Are Reshaping Our Understanding of the Planet](https://www.forbes.com/sites/esri/2026/04/15/creating-a-more-intelligent-worldtogether/) (*source: Forbes, 2026*).
