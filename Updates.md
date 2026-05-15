@@ -7,8 +7,7 @@
 1. The 2nd ***ESA-NASA Workshop on AI Foundation Model for Earth Observation*** is happening next week (19-22 May 2026) in Huntsville, Alabama (USA). The final agenda for the workshop is available at: https://bit.ly/eofm_workshop_2026.
 
 ## Updates: 14.05.2026
-1. On the impacts of over-dependence on AI-based coding: [Software Engineers Say They’re Losing the Ability to Code Now That AI Does It for Them](https://futurism.com/artificial-intelligence/engineers-losing-coding-ability-ai) (*source: Futurism, 2026*).
-2. **ArcGIS Pro version 3.7** - which will apparently have integration of Prithvi EO 2.0 - was released today. What's new is documented in: https://doc.esri.com/en/arcgis-pro/latest/get-started/whats-new-in-arcgis-pro.html. Specific to ArcGIS Pro 3.7, the following are the **Model Types** that are available (*which are different from the Backbone Models*), via the **Train Deep Learning Model** tool:
+1. The significant happening of the day was the release of **ArcGIS Pro version 3.7** - which will apparently have [integration of the Prithvi EO 2.0 model](https://community.esri.com/t5/education-blog/resources-for-unlocking-the-power-of-geospatial-ai/bc-p/1688050/highlight/true#M2657). What's new is documented in: https://doc.esri.com/en/arcgis-pro/latest/get-started/whats-new-in-arcgis-pro.html. Specific to ArcGIS Pro 3.7, the following are the **Model Types** that are available (*which are different from the Backbone Models*), via the **Train Deep Learning Model** tool:
 
 <img width="297" height="417" alt="Screenshot 2026-05-15 110453" src="https://github.com/user-attachments/assets/e14084ee-44a6-46d5-9aad-ffb552746971" />
 
@@ -16,9 +15,20 @@
 
 <img width="297" height="417" alt="Screenshot 2026-05-15 110703" src="https://github.com/user-attachments/assets/b4b0fa66-f7ab-48d1-a9d0-a491d9cf59cf" />
 
-The options specific to **pixel classification** are as follows. Additional information can be found at: https://doc.esri.com/en/arcgis-pro/latest/tool-reference/image-analyst/train-deep-learning-model.html?tabs=dialog.
+* The options specific to **pixel classification** are as follows. Additional information can be found at: https://doc.esri.com/en/arcgis-pro/latest/tool-reference/image-analyst/train-deep-learning-model.html?tabs=dialog.
 
 <img width="425" height="297" alt="Screenshot 2026-05-15 111540" src="https://github.com/user-attachments/assets/92fdb3b5-0af4-4993-a27f-fe09a8add13c" />
+
+* On **Backbone Models**:
+
+<img width="541" height="189" alt="image" src="https://github.com/user-attachments/assets/a39f298f-fbb0-4153-a283-bebda2bb6992" />
+
+<img width="536" height="352" alt="image" src="https://github.com/user-attachments/assets/a84a7007-7511-4b46-b853-14fd2143423b" />
+
+
+* On **Embeddings**: https://www.wri.org/insights/urban-trees-cooling-potential?apcid=0065aea1024a6d4198939500.
+
+<img width="802" height="491" alt="image" src="https://github.com/user-attachments/assets/b3f43701-fac9-4dbc-8f4a-d039d1aa875b" />
 
 
 ## Updates: 13.05.2026
@@ -35,6 +45,7 @@ The options specific to **pixel classification** are as follows. Additional info
 3. If the following is considered a suitable alternative to *AutoCAD*, is there something similar for GIS? [This free CAD software runs in your browser and puts expensive programs to shame](https://www.makeuseof.com/free-cad-software-in-browser-expensive-programs-shame/) (*source: MakeUseOf, 2026*)
 4. Google indicated that it will host two 2026 ***Geo for Good*** Summits, one in California and the other in a location TBD. Information on the first Summit can be found at: https://earthoutreachonair.withgoogle.com/events/geoforgood26-map.
 5. The book [AI for Good. How Real People Are Using Artificial Intelligence to Fix Things That Matter](https://www.simonandschuster.com/books/AI-for-Good/Josh-Tyrangiel/9781668082508) by Josh Tyrangiel was released today. It is available via Amazon (print / Kindle / audiobook).
+6. On the impacts of over-dependence on AI-based coding: [Software Engineers Say They’re Losing the Ability to Code Now That AI Does It for Them](https://futurism.com/artificial-intelligence/engineers-losing-coding-ability-ai) (*source: Futurism, 2026*).
 
 ## Updates: 11.05.2026
 1. On Git in general: [Why developers are ditching GitHub for this nonprofit alternative](https://www.howtogeek.com/this-open-source-github-alternative-is-gaining-serious-momentum-and-its-refreshingly-simple/) (*source: HowToGeek, 2026*).
