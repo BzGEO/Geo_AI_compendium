@@ -16,7 +16,7 @@
 
 <img width="297" height="417" alt="Screenshot 2026-05-15 110703" src="https://github.com/user-attachments/assets/b4b0fa66-f7ab-48d1-a9d0-a491d9cf59cf" />
 
-The options specific to **pixel classification** are as follows:
+The options specific to **pixel classification** are as follows. Additional information can be found at: https://doc.esri.com/en/arcgis-pro/latest/tool-reference/image-analyst/train-deep-learning-model.html?tabs=dialog.
 
 <img width="425" height="297" alt="Screenshot 2026-05-15 111540" src="https://github.com/user-attachments/assets/92fdb3b5-0af4-4993-a27f-fe09a8add13c" />
 
