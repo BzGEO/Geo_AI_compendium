@@ -33,7 +33,7 @@
 
 ## Updates: 13.05.2026
 1. From Jack Dangermond, the founder of *Esri*: [Creating A More Intelligent World–Together. How Geography, GIS, and AI Are Reshaping Our Understanding of the Planet](https://www.forbes.com/sites/esri/2026/04/15/creating-a-more-intelligent-worldtogether/) (*source: Forbes, 2026*).
-2. On *"GIS for Good,"* which sounds very similar to *"Geo for Good"*: [GIS for Good: Esri’s Commitment to People, Planet, Prosperity, and Peace](https://www.esri.com/about/newsroom/arcnews/gis-for-good-esri-commitment-to-people-planet-prosperity-peace) (*source: Esri, 2026*)
+2. On *"GIS for Good"* (which sounds very similar to *"Geo for Good"*): [GIS for Good: Esri’s Commitment to People, Planet, Prosperity, and Peace](https://www.esri.com/about/newsroom/arcnews/gis-for-good-esri-commitment-to-people-planet-prosperity-peace) (*source: Esri, 2026*)
 3. On the cost of AI in science: [AI bills can be as big as a postdoc salary. Is the cost worth it?](https://www.nature.com/articles/d41586-026-01369-z) (*source: Nature, 2026*)
 4. On changes to GitHub Copilot billing: [GitHub Copilot is moving to usage-based billing. Starting June 1, your Copilot usage will consume GitHub AI Credits.](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/).
 
