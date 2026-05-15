@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 15.05.2026
+1. The 2nd ***ESA-NASA Workshop on AI Foundation Model for Earth Observation*** is happening next week (19-22 May 2026) in Huntsville, Alabama (USA). The final agenda for the workshop is available at: https://bit.ly/eofm_workshop_2026.
+
 ## Updates: 14.05.2026
 1. On the impacts of over-dependence on AI-based coding: [Software Engineers Say They’re Losing the Ability to Code Now That AI Does It for Them](https://futurism.com/artificial-intelligence/engineers-losing-coding-ability-ai) (*source: Futurism, 2026*).
 2. ArcGIS Pro 3.7 - which will apparently have integration of Prithvi EO 2.0 - was released today. What's new is documented in: https://doc.esri.com/en/arcgis-pro/latest/get-started/whats-new-in-arcgis-pro.html.
