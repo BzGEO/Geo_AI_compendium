@@ -16,6 +16,11 @@
 
 <img width="297" height="417" alt="Screenshot 2026-05-15 110703" src="https://github.com/user-attachments/assets/b4b0fa66-f7ab-48d1-a9d0-a491d9cf59cf" />
 
+The options specific to **pixel classification** are as follows:
+
+<img width="425" height="297" alt="Screenshot 2026-05-15 111540" src="https://github.com/user-attachments/assets/92fdb3b5-0af4-4993-a27f-fe09a8add13c" />
+
+
 ## Updates: 13.05.2026
 1. From Jack Dangermond, the founder of *Esri*: [Creating A More Intelligent World–Together. How Geography, GIS, and AI Are Reshaping Our Understanding of the Planet](https://www.forbes.com/sites/esri/2026/04/15/creating-a-more-intelligent-worldtogether/) (*source: Forbes, 2026*).
 2. On *"GIS for Good,"* which sounds very similar to *"Geo for Good"*: [GIS for Good: Esri’s Commitment to People, Planet, Prosperity, and Peace](https://www.esri.com/about/newsroom/arcnews/gis-for-good-esri-commitment-to-people-planet-prosperity-peace) (*source: Esri, 2026*)
