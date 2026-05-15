@@ -19,7 +19,7 @@
 
 <img width="425" height="297" alt="Screenshot 2026-05-15 111540" src="https://github.com/user-attachments/assets/92fdb3b5-0af4-4993-a27f-fe09a8add13c" />
 
-* On **Backbone Models**:
+* On **Backbone Models**, ***Clay*** and **TerraMind** are recent entrants to the proverbial race:
 
 <img width="541" height="189" alt="image" src="https://github.com/user-attachments/assets/a39f298f-fbb0-4153-a283-bebda2bb6992" />
 
