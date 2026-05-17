@@ -11,6 +11,7 @@
   * [Prithvi-EO-2.0-tiny-TL](https://huggingface.co/ibm-nasa-geospatial/Prithvi-EO-2.0-tiny-TL) ("pretrained 5M parameter model with temporal and location embeddings")
 
 ## Video resources
-* Video on Prithvi-EO-2.0 and TerraTorch (presented by Paolo Fraccaro) of IBM, from a March 2025 #AIforGood workshop: https://www.youtube.com/watch?v=CB3FKtmuPI8.
+* Video on Prithvi-EO-2.0 and TerraTorch (presented by Paolo Fraccaro of IBM), from a March 2025 #AIforGood workshop: https://www.youtube.com/watch?v=CB3FKtmuPI8.
 
 ## References
+* Szwarcman et al. 2024. Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications. Preprint. [Arxiv](https://arxiv.org/abs/2412.02732). https://doi.org/10.48550/arXiv.2412.02732.
