@@ -1,5 +1,5 @@
 # Resources related to the NASA / IBM Prithvi-EO models
-* Last updated: 17.05.2026*
+*Last updated: 17.05.2026*
 
 * The models live on the *HuggingFace* platform: https://huggingface.co/ibm-nasa-geospatial. There are 7 individual Prithvi-EO models, available via: https://huggingface.co/ibm-nasa-geospatial.
   * x
