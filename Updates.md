@@ -4,12 +4,12 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 21.05.2026
-1. The 2nd [***ESA-NASA Workshop on AI Foundation Model for Earth Observation***](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/) is ongoing this week in Huntsville, Alabama (USA).
+1. The 2nd [***ESA-NASA Workshop on AI Foundation Models for Earth Observation***](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/) is ongoing this week in Huntsville, Alabama (USA).
    * The GitHub repo for the workshop is: https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026
      * The various Jupyter Notebooks for the EO-Embeddings session on day 2 can be found at: https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026/tree/main/Day%202/Track%202/Earth-Embeddings-EO.
 
 ## Updates: 15.05.2026
-1. The 2nd [***ESA-NASA Workshop on AI Foundation Model for Earth Observation***](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/) is happening next week (19-22 May 2026) in Huntsville, Alabama (USA). The final agenda for the workshop is available at: https://bit.ly/eofm_workshop_2026.
+1. The 2nd [***ESA-NASA Workshop on AI Foundation Models for Earth Observation***](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/) is happening next week (19-22 May 2026) in Huntsville, Alabama (USA). The final agenda for the workshop is available at: https://bit.ly/eofm_workshop_2026.
 
 ## Updates: 14.05.2026
 1. The significant happening of the day was the release of **ArcGIS Pro version 3.7** - which will apparently have [integration of the Prithvi EO 2.0 model](https://community.esri.com/t5/education-blog/resources-for-unlocking-the-power-of-geospatial-ai/bc-p/1688050/highlight/true#M2657). What's new is documented in: https://doc.esri.com/en/arcgis-pro/latest/get-started/whats-new-in-arcgis-pro.html. Specific to ArcGIS Pro 3.7, the following are the **Model Types** that are available (*which are different from the Backbone Models*), via the **Train Deep Learning Model** tool:
@@ -162,7 +162,7 @@
 1. Esri deep learning tools will be featured during the GeoAI Working Group meeting this week, on 01.04.2026: https://bsky.app/profile/tmayerscience.bsky.social/post/3mi2cm72wnc27.
 
 ## Updates: 28.03.2026
-1. The agenda for the upcoming 2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation (19.05.2026 - 22.05.2026) has been published: https://airdrive.eventsair.com/eventsairwesteuprod/production-nikal-public/f88071e9ce554f50a0ce91229cc4d5a3.
+1. The agenda for the upcoming 2nd ESA-NASA Workshop on AI Foundation Models for Earth Observation (19.05.2026 - 22.05.2026) has been published: https://airdrive.eventsair.com/eventsairwesteuprod/production-nikal-public/f88071e9ce554f50a0ce91229cc4d5a3.
 
 <img width="2188" height="590" alt="image" src="https://github.com/user-attachments/assets/110d7c62-fa17-4f45-814f-5182c609f728" />
 
@@ -196,7 +196,7 @@
 
 1. Regarding the ongoing series of webinars organized by Natural Resources Canada in the context of the UN-GGIM: Americas' [*GeoAI Community of Practice*](https://www.interamericangeoportal.org/pages/geo-ai), the team has developed a GitHub repo for the webinars: https://github.com/geoaiclassroom/geoai_learning/. The various *Tutorial* subfolders (i.e., [Tutorial1](https://github.com/geoaiclassroom/geoai_learning/tree/main/Tutorial1), [Tutorial2](https://github.com/geoaiclassroom/geoai_learning/tree/main/Tutorial2), [Tutorial3](https://github.com/geoaiclassroom/geoai_learning/tree/main/Tutorial3) subfolders) in the repo contain Jupyter Notebooks associated with the webinar. They have also set up a *Google Classroom* for the webinar series: https://classroom.google.com/c/ODQwNjQxMjc1OTQx.
 
-2. The organizers of the upcoming *2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation* (19-22 May 2026) have indicated that the event's draft [program](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/programme) will be available by the end of the next week (i.e., circa 27.03.2026).
+2. The organizers of the upcoming *2nd ESA-NASA Workshop on AI Foundation Models for Earth Observation* (19-22 May 2026) have indicated that the event's draft [program](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/programme) will be available by the end of the next week (i.e., circa 27.03.2026).
 
 <img width="1088" height="295" alt="image" src="https://github.com/user-attachments/assets/0d71df5f-672d-4330-94d2-5cc18e8ac64a" />
 
@@ -272,7 +272,7 @@ Data-analysis and modelling positions are already becoming obsolete, but hands-o
  * [You Can Rent HP’s Ginormous Gaming Laptops. Here’s Why You Shouldn’t](https://gizmodo.com/you-can-rent-hps-ginormous-gaming-laptops-heres-why-you-shouldnt-2000720761) (*Gizmodo*, Feb. 2025)
 
 ## Updates: 03.02.2026
-1. The 2nd ESA-NASA Workshop on AI Foundation Model for Earth Observation will be held in Huntsville, Alabama from 19-22 May, 2026. The abstract submission deadline is Thu. 19 Feb. 2026 (*updated*). See: https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/. The workshop's main themes are as follows:
+1. The 2nd ESA-NASA Workshop on AI Foundation Models for Earth Observation will be held in Huntsville, Alabama from 19-22 May, 2026. The abstract submission deadline is Thu. 19 Feb. 2026 (*updated*). See: https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/. The workshop's main themes are as follows:
 <img width="823" height="263" alt="image" src="https://github.com/user-attachments/assets/e404eee2-588a-4435-8c51-66c0182d6ae2" />
 
 ## Updates: 30.01.2026
