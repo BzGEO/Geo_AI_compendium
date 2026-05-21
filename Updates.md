@@ -3,9 +3,13 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 21.05.2026
+1. The 2nd [***ESA-NASA Workshop on AI Foundation Model for Earth Observation***](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/) is ongoing this week in Huntsville, Alabama (USA).
+   * The GitHub repo for the workshop is: https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026
+     * The various Jupyter Notebooks for the EO-Embeddings session on day 2 can be found at: https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026/tree/main/Day%202/Track%202/Earth-Embeddings-EO.
+
 ## Updates: 15.05.2026
-1. The 2nd ***ESA-NASA Workshop on AI Foundation Model for Earth Observation*** is happening next week (19-22 May 2026) in Huntsville, Alabama (USA). The final agenda for the workshop is available at: https://bit.ly/eofm_workshop_2026.
-   * The various Jupyter Notebooks can be found at: https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026/tree/main/Day%202/Track%202/Earth-Embeddings-EO.
+1. The 2nd [***ESA-NASA Workshop on AI Foundation Model for Earth Observation***](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/) is happening next week (19-22 May 2026) in Huntsville, Alabama (USA). The final agenda for the workshop is available at: https://bit.ly/eofm_workshop_2026.
 
 ## Updates: 14.05.2026
 1. The significant happening of the day was the release of **ArcGIS Pro version 3.7** - which will apparently have [integration of the Prithvi EO 2.0 model](https://community.esri.com/t5/education-blog/resources-for-unlocking-the-power-of-geospatial-ai/bc-p/1688050/highlight/true#M2657). What's new is documented in: https://doc.esri.com/en/arcgis-pro/latest/get-started/whats-new-in-arcgis-pro.html. Specific to ArcGIS Pro 3.7, the following are the **Model Types** that are available (*which are different from the Backbone Models*), via the **Train Deep Learning Model** tool:
