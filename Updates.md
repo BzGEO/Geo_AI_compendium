@@ -5,9 +5,9 @@
 
 ## Updates: 22.05.2026
 1. The 2nd [***ESA-NASA Workshop on AI Foundation Models for Earth Observation***](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/) is ongoing this week in Huntsville, Alabama (USA).
-   * The GitHub repo for the workshop is: https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026
-     * The various Jupyter Notebooks for the EO-Embeddings session on day 2 can be found at: https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026/tree/main/Day%202/Track%202/Earth-Embeddings-EO.
-     * The AI for Science page from the agentic GeoAI session on day 4 can be found at: https://nasa-impact.github.io/AI-Agents-for-Science/.
+   * The **workshop's GitHub repo** is: https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026
+     * The various Jupyter Notebooks for the **EO-Embeddings** session on day 2 can be found at: https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026/tree/main/Day%202/Track%202/Earth-Embeddings-EO.
+     * The AI for Science page from the **agentic GeoAI** session on day 4 can be found at: https://nasa-impact.github.io/AI-Agents-for-Science/.
 
 ## Updates: 15.05.2026
 1. The 2nd [***ESA-NASA Workshop on AI Foundation Models for Earth Observation***](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/) is happening next week (19-22 May 2026) in Huntsville, Alabama (USA). The final agenda for the workshop is available at: https://bit.ly/eofm_workshop_2026.
