@@ -8,8 +8,8 @@
    * The **workshop's GitHub repo** is: https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026
      * The various Jupyter Notebooks for the **EO-Embeddings** session on day 2 can be found [here](https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026/tree/main/Day%202/Track%202/Earth-Embeddings-EO).
      * The *AI for Science* page from the **agentic GeoAI** session on day 4 can be found at: https://nasa-impact.github.io/AI-Agents-for-Science/.
-       * The accompanying session intrductory [slides](https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026/blob/main/Day%204/Track%201/GeoAI-Agent-Tutorial/presentations/Handson_ESA_NASA_CARE.pdf).
-       * The Jupyter Notebook [on GitHub](https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026/blob/main/Day%204/Track%201/GeoAI-Agent-Tutorial/geo_agent.ipynb) / [on Colab](https://colab.research.google.com/github/NASA-IMPACT/ESA-NASA-Workshop-2026/blob/feature/pai-geoagent/Day%204/Track%201/GeoAI-Agent-Tutorial/geoai_agent_tutorial.ipynb)
+       * Accompanying session intrductory [slides](https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026/blob/main/Day%204/Track%201/GeoAI-Agent-Tutorial/presentations/Handson_ESA_NASA_CARE.pdf).
+       * Jupyter Notebook: [on GitHub](https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026/blob/main/Day%204/Track%201/GeoAI-Agent-Tutorial/geo_agent.ipynb) / [on Colab](https://colab.research.google.com/github/NASA-IMPACT/ESA-NASA-Workshop-2026/blob/feature/pai-geoagent/Day%204/Track%201/GeoAI-Agent-Tutorial/geoai_agent_tutorial.ipynb)
 
 ## Updates: 15.05.2026
 1. The 2nd [***ESA-NASA Workshop on AI Foundation Models for Earth Observation***](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/) is happening next week (19-22 May 2026) in Huntsville, Alabama (USA). The final agenda for the workshop is available at: https://bit.ly/eofm_workshop_2026.
