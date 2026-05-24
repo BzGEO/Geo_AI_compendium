@@ -12,6 +12,10 @@
        * Jupyter Notebook: [on GitHub](https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026/blob/main/Day%204/Track%201/GeoAI-Agent-Tutorial/geo_agent.ipynb) / [on Colab](https://colab.research.google.com/github/NASA-IMPACT/ESA-NASA-Workshop-2026/blob/feature/pai-geoagent/Day%204/Track%201/GeoAI-Agent-Tutorial/geoai_agent_tutorial.ipynb)
        * *Recently, other agentic GeoAI-related talks have been given by Prof. Qiusheng Wu ([here](https://github.com/BzGEO/GeoAI_compendium/blob/main/Updates.md#updates-04052026)) and Planet Labs ([here](https://github.com/BzGEO/GeoAI_compendium/blob/main/Updates.md#updates-03052026)).*
 
+<img width="658" height="824" alt="image" src="https://github.com/user-attachments/assets/efe6f7ff-4c45-4707-b6c9-a6b6adb58b95" />
+
+<img width="664" height="732" alt="image" src="https://github.com/user-attachments/assets/ab0dbd14-d779-4782-a9a9-e7842beea0fe" />
+
 ## Updates: 15.05.2026
 1. The 2nd [***ESA-NASA Workshop on AI Foundation Models for Earth Observation***](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/) is happening next week (19-22 May 2026) in Huntsville, Alabama (USA). The final agenda for the workshop is available at: https://bit.ly/eofm_workshop_2026.
 
