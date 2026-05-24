@@ -4,7 +4,7 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 22.05.2026
-1. The 2nd [***ESA-NASA Workshop on AI Foundation Models for Earth Observation***](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/) is ongoing this week in Huntsville, Alabama (USA).
+1. The 2nd [***ESA-NASA Workshop on AI Foundation Models for Earth Observation***](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/) - attended by approximately 260 in-person participants and additional virtual participants - is ongoing this week in Huntsville, Alabama (USA).
    * The **workshop's GitHub repo** is: https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026
      * The various Jupyter Notebooks for the **EO-Embeddings** session on day 2 can be found [here](https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026/tree/main/Day%202/Track%202/Earth-Embeddings-EO).
      * The *AI for Science* page from the **agentic GeoAI** session on day 4 can be found at: https://nasa-impact.github.io/AI-Agents-for-Science/. 
