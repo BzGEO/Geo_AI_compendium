@@ -121,7 +121,7 @@
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/algo_gee_options.PNG)
 
-*source*: [Google (2022)](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit#slide=id.gff707151b9_21_352) | for viewing class probabilities, see [this](https://developers.google.com/earth-engine/apidocs/ee-classifier-setoutputmode)
+*source*: [Google (2022)](https://docs.google.com/presentation/d/1zha7dCuy7Rq43OFDQOXbwWbDP2fAv5aOpgdzhno7IhU/edit#slide=id.gff707151b9_21_352) | for viewing class probabilities, see [this](https://developers.google.com/earth-engine/apidocs/ee-classifier-setoutputmode) | see [updated table](https://developers.google.com/earth-engine/guides/classification)
 
 ## 3.c. Classical / traditional ML in commonly-used software applications
 
