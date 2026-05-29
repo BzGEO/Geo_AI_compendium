@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 29.05.2026
+1. On AI in general: ["To A.I. Executives, We’re All Just ‘Meat Computers’"](https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html) (*source: The New York Times, 2026*)
+
 ## Updates: 22.05.2026
 1. The 2nd [***ESA-NASA Workshop on AI Foundation Models for Earth Observation***](https://nikal.eventsair.com/2nd-esa-nasa-workshop-on-ai-foundation-model-for-earth-observation-eo/) - *attended by approximately 260 in-person participants and additional virtual participants* - is ongoing this week in Huntsville, Alabama (USA).
    * The **workshop's GitHub repo** is: https://github.com/NASA-IMPACT/ESA-NASA-Workshop-2026
