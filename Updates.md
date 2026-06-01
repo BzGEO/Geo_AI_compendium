@@ -3,6 +3,10 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 01.06.2026
+1. On the expected impacts of AI on the workforce: [Silicon Valley Is Bracing for a Permanent Underclass](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html) (*source: The New York Times, 2026*)
+2. More on AI hype, from May 2024: [Press Pause on the Silicon Valley Hype Machine](https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html) (*source: The New York Times, 2026*)
+
 ## Updates: 29.05.2026
 1. Additional support from Google regarding the *AlphaEarth Foundations* (AEF) satellite embeddings data: [Using AlphaEarth Satellite Embeddings in Google Earth Engine](https://github.com/google/earthengine-community/blob/master/skills/alphaearth/SKILL.md).
 
