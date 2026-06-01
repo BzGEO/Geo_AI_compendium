@@ -5,10 +5,10 @@
 
 ## Updates: 01.06.2026
 1. On the expected impacts of AI on the workforce: [Silicon Valley Is Bracing for a Permanent Underclass](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html) (*source: The New York Times, 2026*)
-2. More on AI hype, from May 2024: [Press Pause on the Silicon Valley Hype Machine](https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html) (*source: The New York Times, 2026*)
+2. More on **AI hype**, albeit from May 2024: [Press Pause on the Silicon Valley Hype Machine](https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html) (*source: The New York Times, 2026*)
 
 ## Updates: 29.05.2026
-1. Additional support from Google regarding the *AlphaEarth Foundations* (AEF) satellite embeddings data: [Using AlphaEarth Satellite Embeddings in Google Earth Engine](https://github.com/google/earthengine-community/blob/master/skills/alphaearth/SKILL.md).
+1. Additional support from Google regarding the *AlphaEarth Foundations* (AEF) satellite **embeddings** data: [Using AlphaEarth Satellite Embeddings in Google Earth Engine](https://github.com/google/earthengine-community/blob/master/skills/alphaearth/SKILL.md).
 
 ## Updates: 28.05.2026
 1. On AI in general: ["To A.I. Executives, We’re All Just ‘Meat Computers’"](https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html) (*source: The New York Times, 2026*)
@@ -99,7 +99,7 @@
 2. On AI in general (but behind a paywall): "[Opinion: Why the A.I. Job Apocalypse (Probably) Won’t Happen](https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html)" (source: *The New York Times*, 2026).
 
 ## Updates: 29.04.2026
-1. More on AI hype, from a recent BBC article: [Why AI companies want you to be afraid of them](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them).
+1. More on **AI hype**, from a recent BBC article: [Why AI companies want you to be afraid of them](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them).
    * "Let's be clear: it is theoretically possible that AI will take over the world. I'm no fortune teller. But ask yourself, does that idea sound similar to other stories you've heard out of Silicon Valley in the past? Weren't we all supposed to be living in Mark Zuckerberg's Metaverse by now? Wasn't Bitcoin going to replace all the world's currency? Remember back in the 2010s, when we heard about how social media would save democracy? All of these things could still happen. Or maybe they won't."
 
 ## Updates: 27.04.2026
@@ -190,11 +190,11 @@
    * GitHub: https://book.opengeoai.org
    * PDF (via LeanPub): https://leanpub.com/geoai
    * Print (via Amazon): https://www.amazon.com/dp/B0GTVFY3PQ
-3. More on AI hype: [Why AI hasn’t caused a job apocalypse — so far](https://www.nature.com/articles/d41586-026-00883-4) (24.03.2026).
-4. Even more on AI hype: ['I Don’t Use AI Much': Steve Wozniak Expresses Skepticism AI Can Replace Humans](https://gizmodo.com/i-dont-use-ai-much-apple-co-founder-expresses-skepticism-ai-can-replace-humans-2000737127) (24.03.2026).
+3. More on **AI hype**: [Why AI hasn’t caused a job apocalypse — so far](https://www.nature.com/articles/d41586-026-00883-4) (24.03.2026).
+4. Even more on **AI hype**: ['I Don’t Use AI Much': Steve Wozniak Expresses Skepticism AI Can Replace Humans](https://gizmodo.com/i-dont-use-ai-much-apple-co-founder-expresses-skepticism-ai-can-replace-humans-2000737127) (24.03.2026).
 
 ## Updates: 24.03.2026
-1. More on AI hype: [The intelligence illusion: why AI isn’t as smart as it is made out to be. Artificial-intelligence models will supposedly take over the world, but AI innovator Luc Julia tells Nature that they’re little more than glorified pocket calculators.](https://www.nature.com/articles/d41586-026-00882-5) (23.02.2026).
+1. More on **AI hype**: [The intelligence illusion: why AI isn’t as smart as it is made out to be. Artificial-intelligence models will supposedly take over the world, but AI innovator Luc Julia tells Nature that they’re little more than glorified pocket calculators.](https://www.nature.com/articles/d41586-026-00882-5) (23.02.2026).
 2. Upcoming opportunity from *Nature* (*closes on 27.05.2026*): [Nature Awards AI for Discovery](https://www.nature.com/immersive/aifordiscovery/for-applicants/index.html).
 3. *R*, version 4.5.3 was released on 11.03.2026. If you're interested in accessing the previous versions of *R* (for Windows), see: https://cran.r-project.org/bin/windows/base/old/. Five versions of *R* have been released between March 2025 and March 2026.
 
@@ -283,8 +283,8 @@ Data-analysis and modelling positions are already becoming obsolete, but hands-o
 
 ## Updates: 14.02.2026
 1. New Esri article on GeoAI in agriculture: https://www.esri.com/en-us/industries/blog/articles/trusted-applications-of-geospatial-ai-for-agriculture
-2. On AI hype: [Gary Marcus calls out viral AI essay as alarmist 'hype'](https://www.businessinsider.com/gary-marcus-response-something-big-is-happening-ai-essay-shumer-2026-2) (13.02.2026)
- * The response to the recent AI hype article (linked within the previous article) is certainly reminiscent of "The AI Con" [book](https://thecon.ai), whose thesis is that consumers (i.e., all of us) are being *substantially oversold* a bill of goods regarding the capabilities of artificial intelligence.
+2. On **AI hype**: [Gary Marcus calls out viral AI essay as alarmist 'hype'](https://www.businessinsider.com/gary-marcus-response-something-big-is-happening-ai-essay-shumer-2026-2) (13.02.2026)
+ * The response to the recent **AI hype** article (linked within the previous article) is certainly reminiscent of "The AI Con" [book](https://thecon.ai), whose thesis is that consumers (i.e., all of us) are being *substantially oversold* a bill of goods regarding the capabilities of artificial intelligence.
 3. On cloud computing:
  * [I will never rent my PC from the cloud—and you shouldn't either](https://www.howtogeek.com/i-will-never-rent-my-pc-from-the-cloud-and-neither-should-you/) (*How To Geek*, Feb. 2025)
  * [You Can Rent HP’s Ginormous Gaming Laptops. Here’s Why You Shouldn’t](https://gizmodo.com/you-can-rent-hps-ginormous-gaming-laptops-heres-why-you-shouldnt-2000720761) (*Gizmodo*, Feb. 2025)
