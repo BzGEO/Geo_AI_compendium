@@ -1,5 +1,5 @@
 # Google's AlphaEarth Foundations (AEF) / Satellite Embeddings Dataset / Embedding Fields Model (EFM) dataset
-*last updated: 02.02.2026*
+*last updated: 02.06.2026*
 
 **Description**: *"The Google Satellite Embedding dataset is a global, analysis-ready collection of learned geospatial embeddings. Each 10-meter pixel in this dataset is a 64-dimensional representation, or "embedding vector," that encodes temporal trajectories of surface conditions at and around that pixel as measured by various Earth observation instruments and datasets, over a single calendar year. Unlike conventional spectral inputs and indices, where bands correspond to physical measurements, embeddings are feature vectors that summarize relationships across multi-source, multi-modal observations in a less directly interpretable, but more powerful way."* - [Google (2025)](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL#description)
 
@@ -34,6 +34,7 @@
 * Jan. 2026 [update](https://groups.google.com/g/google-earth-engine-developers/c/oCYk15Mta0s) (published on the Earth Engine Developers group)
 
 ## Other
+* [Asterisk Labs](https://github.com/asterisk-labs) developed an effort called *BetaEarth* satellite embeddings, which are patterned off of Google's *AlphaEarth* Foundations; here is the associated code [repo](https://github.com/asterisk-labs/beta-earth).
 * European Space Agency *Major TOM* embeddings ➡️ *complementary effort to AlphaEarth*
   * GitHub [repo](https://github.com/ESA-PhiLab/Major-TOM)
   * Overview [article](https://philab.esa.int/new-ai-powered-insights-with-the-latest-major-tom-embeddings/) (Jan. 2025)
