@@ -5,6 +5,7 @@
 
 ## Updates: 03.06.2026
 1. The title of the following is misleading, since Nvidia's GPUs are *already* in personal computers: [Nvidia Has a Plan to Put Its Chips in Personal Computers](https://www.nytimes.com/2026/06/01/technology/nvidia-chips-personal-computers.html) (*source: The New York Times, 2026*)
+2. The following is related to the previous item: [Nvidia RTX Spark laptop prices tipped: Surface Laptop Ultra, Dell XPS 16 to rival MacBook Pro](https://www.notebookcheck.net/Nvidia-RTX-Spark-laptop-prices-tipped-Surface-Laptop-Ultra-Dell-XPS-16-to-rival-MacBook-Pro.1313708.0.html) (*source: Notebook Check, 2026*)
 
 ## Updates: 01.06.2026
 1. On the expected impacts of AI on the workforce: [Silicon Valley Is Bracing for a Permanent Underclass](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html) (*source: The New York Times, 2026*)
