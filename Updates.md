@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 03.06.2026
+1. The title of the following is misleading, since Nvidia's GPUs are *already* in personal computers: [Nvidia Has a Plan to Put Its Chips in Personal Computers](https://www.nytimes.com/2026/06/01/technology/nvidia-chips-personal-computers.html) (*source: The New York Times, 2026*)
+
 ## Updates: 01.06.2026
 1. On the expected impacts of AI on the workforce: [Silicon Valley Is Bracing for a Permanent Underclass](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html) (*source: The New York Times, 2026*)
 2. More on **AI hype**, albeit from May 2024: [Press Pause on the Silicon Valley Hype Machine](https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html) (*source: The New York Times, 2026*)
