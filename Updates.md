@@ -3,6 +3,10 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 07.06.2026
+1. *
+
+
 ## Updates: 03.06.2026
 1. The title of the following is misleading, since Nvidia's GPUs are *already* in personal computers: [Nvidia Has a Plan to Put Its Chips in Personal Computers](https://www.nytimes.com/2026/06/01/technology/nvidia-chips-personal-computers.html) (*source: The New York Times, 2026*)
 2. The following is related to the previous item: [Nvidia RTX Spark laptop prices tipped: Surface Laptop Ultra, Dell XPS 16 to rival MacBook Pro](https://www.notebookcheck.net/Nvidia-RTX-Spark-laptop-prices-tipped-Surface-Laptop-Ultra-Dell-XPS-16-to-rival-MacBook-Pro.1313708.0.html) (*source: Notebook Check, 2026*)
