@@ -3,9 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
-## Updates: 07.06.2026
-1. *
-
+## Updates: 08.06.2026
+1. Regarding **AI hype**, the MIT Technology Review maintains an **AI Hype Index**, with articles related to overblown claims tagged in the following: https://www.technologyreview.com/tag/ai-hype-index/.
+2. ICYMI, the motivations behind establishing the **AI Hype Index** were documented in the following, from October 2024: [Introducing: The AI Hype Index. Everything you need to know about the state of AI.](https://www.technologyreview.com/2024/10/23/1105192/ai-hype-index-nov-dec-2024/).
 
 ## Updates: 03.06.2026
 1. The title of the following is misleading, since Nvidia's GPUs are *already* in personal computers: [Nvidia Has a Plan to Put Its Chips in Personal Computers](https://www.nytimes.com/2026/06/01/technology/nvidia-chips-personal-computers.html) (*source: The New York Times, 2026*)
