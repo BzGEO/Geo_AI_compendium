@@ -7,6 +7,9 @@
 1. The agenda for next month's **Esri User Conference** (*formerly the **Esri International User Conference***) is now available [online](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda?tab.event=option_1715110492243). There are a number of [sessions](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda?tab.event=option_1715110492243&search=geoai) relevant to **GeoAI**. The event runs from the 13-17 July 2026. For those unable to attend in person, online participation is an [option](https://www.esri.com/en-us/about/events/uc/registration).
 
 ## Updates: 10.06.2026
+1. This week, Dr. Robin Cole's [satellite-image-deep-learning](https://www.youtube.com/@satellite-image-deep-learning) video podcast series featured [Taylor Geospatial](https://github.com/taylor-geospatial)'s an [interview](https://www.youtube.com/watch?v=b5NZfl1xWgQ) regarding their [**Fields of the World**](https://fieldsofthe.world) effort.
+
+## Updates: 09.06.2026
 1. On the impacts of AI on the workforce: [AI is masking America's "post-literate" workforce](https://www.axios.com/2026/06/08/ai-america-literacy) (*source: Axios, 2026*)
 
 ## Updates: 08.06.2026
