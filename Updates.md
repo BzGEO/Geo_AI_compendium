@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 12.06.2026
+1. Another perspective on the **impact of AI on the workforce**: [Gordon Ritter: I predicted AI’s learning loop a decade ago. The doomers are still measuring the wrong thing](https://fortune.com/2026/06/11/ai-doom-wrong-metric-human-judgment-emergence-capital-ritter/) (*source: Fortune, 2026*).
+
 ## Updates: 11.06.2026
 1. The agenda for next month's **Esri User Conference** (*formerly the **Esri International User Conference***) is now available [online](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda?tab.event=option_1715110492243). There are a number of [sessions](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda?tab.event=option_1715110492243&search=geoai) relevant to **GeoAI**. The event runs from the 13-17 July 2026. For those unable to attend in person, online participation is an [option](https://www.esri.com/en-us/about/events/uc/registration).
 
