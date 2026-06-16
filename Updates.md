@@ -116,7 +116,8 @@
 
 ## Updates: 03.05.2026
 1. The [recording](https://content.planet.com/c/planet-video-webinar-101?x=TWJAsS) of Planet Labs' ***A First Look at Agentic Geospatial AI*** webinar on 29.04.2026 is now available.
-2. On AI in general (but behind a paywall): "[Opinion: Why the A.I. Job Apocalypse (Probably) Won’t Happen](https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html)" (source: *The New York Times*, 2026).
+   * There is an associated *Planet Pulse* article: [How Agentic AI Transforms Earth Observation Into Actionable Intelligence](https://www.planet.com/pulse/how-agentic-ai-transforms-earth-observation-into-actionable-intelligence/).
+3. On AI in general (but behind a paywall): "[Opinion: Why the A.I. Job Apocalypse (Probably) Won’t Happen](https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html)" (source: *The New York Times*, 2026).
 
 ## Updates: 29.04.2026
 1. More on **AI hype**, from a recent BBC article: [Why AI companies want you to be afraid of them](https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them).
