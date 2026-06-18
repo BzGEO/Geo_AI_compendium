@@ -5,6 +5,7 @@
 
 ## Updates: 17.06.2026
 1. On the incorporation of AI in schools: [The Battle over A.I. in the Classroom](https://www.nytimes.com/2026/06/17/podcasts/the-daily/battle-over-ai-in-school.html), from *The New York Times*' *The Daily* podcast.
+2. The [Committee on Earth Observation Satellites (CEOS)](https://ceos.org/)' [Working Group on Capacity Development and Data Democracy (WGCapD)](https://ceos.org/ourwork/workinggroups/wgcapd/)'s EOTEC DevNet group hosted a [webinar](https://eotecdev.net/june-17-webinar-are-eo-training-providers-keeping-pace-with-evolving-user-needs/) today on **the impact of AI in capacity development in EO.** (The webinar's title was "Webinar on Evolving User Needs.") The event was recorded, so I will post the link later.
 
 ## Updates: 12.06.2026
 1. Another perspective on the **impact of AI on the workforce**: [Gordon Ritter: I predicted AI’s learning loop a decade ago. The doomers are still measuring the wrong thing](https://fortune.com/2026/06/11/ai-doom-wrong-metric-human-judgment-emergence-capital-ritter/) (*source: Fortune, 2026*).
