@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 17.06.2026
+1. On the incorporation of AI in schools: [The Battle over A.I. in the Classroom](https://www.nytimes.com/2026/06/17/podcasts/the-daily/battle-over-ai-in-school.html), from *The New York Times*' *The Daily* podcast.
+
 ## Updates: 12.06.2026
 1. Another perspective on the **impact of AI on the workforce**: [Gordon Ritter: I predicted AI’s learning loop a decade ago. The doomers are still measuring the wrong thing](https://fortune.com/2026/06/11/ai-doom-wrong-metric-human-judgment-emergence-capital-ritter/) (*source: Fortune, 2026*).
 
