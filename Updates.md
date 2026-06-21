@@ -4,7 +4,7 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 21.06.2026
-1. On the impacts of the over-reliance on AI: [Is AI ruining our skills? Early results are in — and they’re not good](https://www.nature.com/articles/d41586-026-01947-1) (*source: Nature, 2026*).
+1. On the **impacts of AI on skills**: [Is AI ruining our skills? Early results are in — and they’re not good](https://www.nature.com/articles/d41586-026-01947-1) (*source: Nature, 2026*).
 
 ## Updates: 17.06.2026
 1. On the incorporation of AI in schools: [The Battle over A.I. in the Classroom](https://www.nytimes.com/2026/06/17/podcasts/the-daily/battle-over-ai-in-school.html), from *The New York Times*' *The Daily* podcast.
