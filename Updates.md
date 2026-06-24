@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 24.06.2026
+1. Today, [Dr. Kelsey Doerksen](https://github.com/kelsdoerksen), a postdoctoral researcher with ASU's [Kerner Lab](https://github.com/kerner-lab), presented during the [**Geo-AI Working Group**](https://sites.google.com/uah.edu/geo-ai-working-group/home)'s biweekly meeting, on the topic of [**EarthShift**](https://github.com/kerner-lab/earthshift). A preprint for EarthShift is available on arXiv: https://arxiv.org/abs/2605.29330. A video of Dr. Doerksen's presentation should be forthcoming.
+
 ## Updates: 23.06.2026
 1. The University of California-Berkeley's Center for Responsible Decentralized Intelligence (RDI) is organizing a **2026 Agentic AI Summit** for 1-2 August 2026: https://rdi.berkeley.edu/events/agentic-ai-summit-2026.
 2. On the **impacts of AI on the workforce**: [Head of Microsoft Rages at His Fellow CEOs for Admitting What They’re Actually Doing to Society With AI](https://futurism.com/future-society/microsoft-ceo-satya-nadella-ai-society) (*source: Futurism, 2026*).
