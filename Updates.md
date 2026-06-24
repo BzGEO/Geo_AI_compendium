@@ -5,7 +5,7 @@
 
 ## Updates: 24.06.2026
 1. Today, [Dr. Kelsey Doerksen](https://github.com/kelsdoerksen), a postdoctoral researcher with ASU's [Kerner Lab](https://github.com/kerner-lab), presented during the [**Geo-AI Working Group**](https://sites.google.com/uah.edu/geo-ai-working-group/home)'s biweekly meeting, on the topic of [**EarthShift**](https://github.com/kerner-lab/earthshift). A preprint for EarthShift is available on arXiv: https://arxiv.org/abs/2605.29330. A video of Dr. Doerksen's presentation should be forthcoming.
-2. [**OlmoEarth**](https://allenai.org/olmoearth), an EO Foundation Model ~recently developed by the [Allen Institute for Artificial Intelligence](https://allenai.org) (AI2) is featured on the most recent episode of Dr. Robin Cole's *Satellite Image Deep Learning* video podcast: https://www.youtube.com/watch?v=wzCHJf6Ly24. There is also an [*OlmoEarth Platform*](https://olmoearth.allenai.org/?utm_source=ai2-olmoearth).
+2. [**OlmoEarth**](https://allenai.org/olmoearth), an EO Foundation Model ~recently developed by the [Allen Institute for Artificial Intelligence](https://allenai.org) (AI2) is featured on the most recent episode of Dr. Robin Cole's [*Satellite Image Deep Learning*](https://github.com/satellite-image-deep-learning) video podcast: https://www.youtube.com/watch?v=wzCHJf6Ly24. There is also an [*OlmoEarth Platform*](https://olmoearth.allenai.org/?utm_source=ai2-olmoearth).
 3. Last week, Dr. Cole's *Satellite Image Deep Learning* video podcast featured an interview with Lakshay Sharma, formerly of Microsoft's geospatial AI team. His interview is entitled, ["
 A Single GPU Is All You Need for Self-Supervised Pretraining"](https://www.youtube.com/watch?v=ta40N4KwMvw).
 
