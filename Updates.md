@@ -10,7 +10,7 @@
 A Single GPU Is All You Need for Self-Supervised Pretraining"](https://www.youtube.com/watch?v=ta40N4KwMvw).
 
 ## Updates: 23.06.2026
-1. The University of California-Berkeley's Center for Responsible Decentralized Intelligence (RDI) is organizing a **2026 Agentic AI Summit** for 1-2 August 2026: https://rdi.berkeley.edu/events/agentic-ai-summit-2026.
+1. The University of California-Berkeley's [Center for Responsible Decentralized Intelligence](https://rdi.berkeley.edu/) (RDI) is organizing a **2026 Agentic AI Summit** for 1-2 August 2026: https://rdi.berkeley.edu/events/agentic-ai-summit-2026.
 2. On the **impacts of AI on the workforce**: [Head of Microsoft Rages at His Fellow CEOs for Admitting What They’re Actually Doing to Society With AI](https://futurism.com/future-society/microsoft-ceo-satya-nadella-ai-society) (*source: Futurism, 2026*).
 
 ## Updates: 22.06.2026
