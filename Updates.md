@@ -9,6 +9,7 @@
 
 ## Updates: 22.06.2026
 1. The following, focusing on **AI / ML in ag**, looks like a worthwhile read: Bhattarai et al. (2026)'s [Scale, trust, and the digital divide: a systematic review of AI and ML for agricultural applications](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1798896/full).
+2. Similar to the previous entry, on the topic of **remote sensing and crop type mapping**, IEEE recently published Huang et al. (2026)'s [Progress and Perspectives of Crop Type Mapping With Remote Sensing: A review](https://ieeexplore.ieee.org/document/11361086).
 
 ## Updates: 21.06.2026
 1. On the **impacts of AI on skills**: [Is AI ruining our skills? Early results are in — and they’re not good](https://www.nature.com/articles/d41586-026-01947-1) (*source: Nature, 2026*).
