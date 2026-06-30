@@ -6,7 +6,7 @@
 ## Updates: 30.06.2026
 1. On **detecting fake AI imagery**: [Scientists Think This Is the Best Way to Detect AI Slop Imagery](https://gizmodo.com/scientists-think-this-is-the-best-way-to-detect-ai-slop-imagery-2000777919) (*source: Gizmodo, 2026*).
 2. On the **integration of AI into workflows**: [Research at Middlebury College reveals nuanced story about artificial intelligence use](https://vtdigger.org/2026/06/28/research-at-middlebury-college-reveals-nuanced-story-about-artificial-intelligence-use/) (*source: Middlebury College, 2026*)
-3. On **AI-related burnout**: [](https://www.fastcompany.com/91563604/trees-are-burning-teams-are-burning-out) (*source: Fast Company, 2026*).
+3. On **AI-related burnout**: [Trees are burning, teams are burning out. Human intelligence is scaffolding artificial intelligence.](https://www.fastcompany.com/91563604/trees-are-burning-teams-are-burning-out) (*source: Fast Company, 2026*).
 
 ## Updates: 24.06.2026
 1. Today, [Dr. Kelsey Doerksen](https://github.com/kelsdoerksen), a postdoctoral researcher with ASU's [Kerner Lab](https://github.com/kerner-lab), presented during the [**Geo-AI Working Group**](https://sites.google.com/uah.edu/geo-ai-working-group/home)'s biweekly meeting, on the topic of [**EarthShift**](https://github.com/kerner-lab/earthshift). A preprint for EarthShift is available on arXiv: https://arxiv.org/abs/2605.29330. A video of Dr. Doerksen's presentation should be forthcoming.
