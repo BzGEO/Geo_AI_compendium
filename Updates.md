@@ -3,6 +3,11 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 30.06.2026
+1. On **detecting fake AI imagery**: [Scientists Think This Is the Best Way to Detect AI Slop Imagery](https://gizmodo.com/scientists-think-this-is-the-best-way-to-detect-ai-slop-imagery-2000777919) (*source: Gizmodo, 2026*).
+2. On the **integration of AI into workflows**: [Research at Middlebury College reveals nuanced story about artificial intelligence use](https://vtdigger.org/2026/06/28/research-at-middlebury-college-reveals-nuanced-story-about-artificial-intelligence-use/) (*source: Middlebury College, 2026*)
+3. On **AI-related burnout**: [](https://www.fastcompany.com/91563604/trees-are-burning-teams-are-burning-out) (*source: Fast Company, 2026*).
+
 ## Updates: 24.06.2026
 1. Today, [Dr. Kelsey Doerksen](https://github.com/kelsdoerksen), a postdoctoral researcher with ASU's [Kerner Lab](https://github.com/kerner-lab), presented during the [**Geo-AI Working Group**](https://sites.google.com/uah.edu/geo-ai-working-group/home)'s biweekly meeting, on the topic of [**EarthShift**](https://github.com/kerner-lab/earthshift). A preprint for EarthShift is available on arXiv: https://arxiv.org/abs/2605.29330. A video of Dr. Doerksen's presentation should be forthcoming.
 2. [**OlmoEarth**](https://allenai.org/olmoearth), an [EO Foundation Model](https://developmentseed.org/igarss25tutorial/tut1-intro/) ~recently developed by the [Allen Institute for Artificial Intelligence](https://allenai.org) (AI2) is featured on the most recent episode of Dr. Robin Cole's [*Satellite Image Deep Learning*](https://github.com/satellite-image-deep-learning) video podcast: https://www.youtube.com/watch?v=wzCHJf6Ly24. There is also an [*OlmoEarth Platform*](https://olmoearth.allenai.org/?utm_source=ai2-olmoearth).
