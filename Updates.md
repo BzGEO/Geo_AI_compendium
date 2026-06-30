@@ -7,7 +7,7 @@
 1. On **detecting fake AI imagery**: [Scientists Think This Is the Best Way to Detect AI Slop Imagery](https://gizmodo.com/scientists-think-this-is-the-best-way-to-detect-ai-slop-imagery-2000777919) (*source: Gizmodo, 2026*).
 2. On the **integration of AI into workflows**: [Research at Middlebury College reveals nuanced story about artificial intelligence use](https://vtdigger.org/2026/06/28/research-at-middlebury-college-reveals-nuanced-story-about-artificial-intelligence-use/) (*source: Middlebury College, 2026*)
 3. On **AI-related burnout**: [Trees are burning, teams are burning out. Human intelligence is scaffolding artificial intelligence.](https://www.fastcompany.com/91563604/trees-are-burning-teams-are-burning-out) (*source: Fast Company, 2026*).
-4. A summary of the **recent EOTEC DevNet [webinar](https://www.youtube.com/watch?v=_8JYIGMBqAY) focusing heavily on AI and capacity development** has been circulated by email:
+4. A summary of the **recent EOTEC DevNet [webinar](https://www.youtube.com/watch?v=_8JYIGMBqAY) focusing heavily on AI and capacity development** has been circulated by email. (Also see the survey [findings](https://eotecdev.net/users-share-priorities-for-the-future-of-eo-capacity-building/) shared.)
 
 <img width="1568" height="793" alt="image" src="https://github.com/user-attachments/assets/1773d658-6ace-4f5c-a44c-f75a293e76ea" />
 
