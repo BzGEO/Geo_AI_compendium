@@ -50,7 +50,7 @@
 * Official NISAR notebooks from the mission: https://github.com/NISAR-Science-Algorithms
 
 ## NISAR 2026 Town Hall
-* Recording of the NISAR Town Hall meeting on 26.02.2026 (which includes walk-throughs of the various tutorials, as well as background on NISAR): https://www.youtube.com/watch?v=7tJJmNg8qyE.
+* Recording of the **NISAR Town Hall meeting on 26.02.2026** (which includes walk-throughs of the various tutorials, as well as background on NISAR): https://www.youtube.com/watch?v=7tJJmNg8qyE.
 
 ## Examples
 * Exploration of radio frequency interference (RFI) in NISAR data over northern Alabama: https://bit.ly/nisar_rfi_examples. Also see the NISAR [documentation](https://nisar-docs.asf.alaska.edu/product-known-issues/#radio-frequency-interference-rfi) on RFI.
