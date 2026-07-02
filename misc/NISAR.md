@@ -11,7 +11,7 @@
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/nisar_01.png)
 
 > [!IMPORTANT]
-> 2. If there is NISAR imagery available for your AOI, **download** the data from ASF's [Vertex](https://search.asf.alaska.edu/#/?dataset=NISAR&prodConfig=PR) portal. And if you can't currenly find imagery for your AOI, it should eventually become available after the mission starts forward processing data in ~mid-2026.
+> 2. If there is NISAR imagery available for your AOI, **download** the data from ASF's [Vertex](https://search.asf.alaska.edu/#/?dataset=NISAR&prodConfig=PR) portal. *If you can't currenly find imagery for your AOI, it should eventually become available after the mission starts forward processing data in ~mid-2026.*
 
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/nisar_02.png)
 
