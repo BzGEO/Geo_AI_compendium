@@ -1,5 +1,5 @@
 # Resources for the NASA-ISRO Synthetic Aperture Radar (NISAR) mission
-*Last updated: 10.04.2026*
+*Last updated: 02.07.2026*
 
 ## NISAR data cheatsheet
 
@@ -36,10 +36,14 @@
 ![](https://github.com/BzGEO/Geo_AI_compendium/blob/main/_graphics/nisar_04b.png)
 
  > [!NOTE]
->6. NASA ARSET [training webinar on SAR](https://www.earthdata.nasa.gov/learn/trainings/introduction-synthetic-aperture-radar-sar-its-applications) (2024).
+>6. NASA ARSET [training webinar on the NISAR mission](https://www.earthdata.nasa.gov/learn/trainings/introduction-synthetic-aperture-radar-sar-its-applications) (2026).
+
+<img width="1273" height="574" alt="image" src="https://github.com/user-attachments/assets/20df5ca5-88ba-4194-b5a3-d662d5041365" />
+
+ > [!NOTE]
+>7. NASA ARSET [training webinar on SAR](https://www.earthdata.nasa.gov/learn/trainings/introduction-synthetic-aperture-radar-sar-its-applications) (2024).
 
 <img width="1264" height="636" alt="image" src="https://github.com/user-attachments/assets/d6554fbb-4fb4-4ddd-a1a6-e0b50394be12" />
-
 
 ## NISAR Jupyter Notebooks
 * Example NISAR data visualization notebook from MAAP: https://github.com/MAAP-Project/maap-documentation/blob/develop/docs/source/science/NISAR/NISAR_access.ipynb
