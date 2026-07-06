@@ -4,7 +4,9 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
 ## Updates: 06.07.2026
-1. Esri is organizing a 6-week MOOC on the topic of imagery, for 26 August to 7 October: [ArcGIS Imagery MOOC: Foundations and Frontiers](https://www.esri.com/training/catalog/68250ef99d321b7e769b5e9f/the-arcgis-imagery-mooc-foundations-and-frontiers/).
+1. Esri is organizing a 6-week MOOC on the topic of imagery, for 26 August to 7 October: [ArcGIS Imagery MOOC: Foundations and Frontiers](https://www.esri.com/training/catalog/68250ef99d321b7e769b5e9f/the-arcgis-imagery-mooc-foundations-and-frontiers/). Its goals are as follows:
+
+<img width="641" height="392" alt="image" src="https://github.com/user-attachments/assets/c1f9dc72-c110-43ab-b825-50f6a9e923d5" />
 
 ## Updates: 30.06.2026
 1. On **detecting fake AI imagery**: [Scientists Think This Is the Best Way to Detect AI Slop Imagery](https://gizmodo.com/scientists-think-this-is-the-best-way-to-detect-ai-slop-imagery-2000777919) (*source: Gizmodo, 2026*).
