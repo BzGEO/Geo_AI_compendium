@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 06.07.2026
+1. Esri is organizing a 6-week MOOC on the topic of imagery, for 26 August to 7 October: [ArcGIS Imagery MOOC: Foundations and Frontiers](https://www.esri.com/training/catalog/68250ef99d321b7e769b5e9f/the-arcgis-imagery-mooc-foundations-and-frontiers/).
+
 ## Updates: 30.06.2026
 1. On **detecting fake AI imagery**: [Scientists Think This Is the Best Way to Detect AI Slop Imagery](https://gizmodo.com/scientists-think-this-is-the-best-way-to-detect-ai-slop-imagery-2000777919) (*source: Gizmodo, 2026*).
 2. On the **integration of AI into workflows**: [Research at Middlebury College reveals nuanced story about artificial intelligence use](https://vtdigger.org/2026/06/28/research-at-middlebury-college-reveals-nuanced-story-about-artificial-intelligence-use/) (*source: Middlebury College, 2026*)
