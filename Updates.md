@@ -3,8 +3,13 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 08.07.2026
+1. **Upcoming event:** The University of Washington's [eScience Institute](https://github.com/uwescience) is hosting a ***Responsible Gen-AI for NASA Earthdata*** [workshop](https://responsible-genai.hackweek.io/index.html?jump_to=schedule) in Seattle, Washington from 24-28 August 2026. There is also an affiliated GitHub [repo](https://github.com/responsible-genai-hackweek/responsible-genai-hackweek).
+
+<img width="458" height="275" alt="image" src="https://github.com/user-attachments/assets/7c9a39e1-4ec0-4dc3-96af-a1d65b89bad9" />
+
 ## Updates: 06.07.2026
-1. Esri is organizing a 6-week MOOC on the topic of imagery, for 26 August to 7 October 2026: [ArcGIS Imagery MOOC: Foundations and Frontiers](https://www.esri.com/training/catalog/68250ef99d321b7e769b5e9f/the-arcgis-imagery-mooc-foundations-and-frontiers/). Its goals are as follows:
+1. **Upcoming event:** Esri is organizing a 6-week MOOC on the topic of imagery, for 26 August to 7 October 2026: [ArcGIS Imagery MOOC: Foundations and Frontiers](https://www.esri.com/training/catalog/68250ef99d321b7e769b5e9f/the-arcgis-imagery-mooc-foundations-and-frontiers/). Its goals are as follows:
 
 <img width="641" height="392" alt="image" src="https://github.com/user-attachments/assets/c1f9dc72-c110-43ab-b825-50f6a9e923d5" />
 
