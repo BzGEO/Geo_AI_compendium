@@ -30,7 +30,7 @@
 A Single GPU Is All You Need for Self-Supervised Pretraining"](https://www.youtube.com/watch?v=ta40N4KwMvw).
 
 ## Updates: 23.06.2026
-1. The University of California-Berkeley's [Center for Responsible Decentralized Intelligence](https://rdi.berkeley.edu/) (RDI) is organizing a **2026 Agentic AI Summit** for 1-2 August 2026: https://rdi.berkeley.edu/events/agentic-ai-summit-2026.
+1. **Upcoming event:** The University of California-Berkeley's [Center for Responsible Decentralized Intelligence](https://rdi.berkeley.edu/) (RDI) is organizing a **2026 Agentic AI Summit** for 1-2 August 2026: https://rdi.berkeley.edu/events/agentic-ai-summit-2026.
 2. On the **impacts of AI on the workforce**: [Head of Microsoft Rages at His Fellow CEOs for Admitting What They’re Actually Doing to Society With AI](https://futurism.com/future-society/microsoft-ceo-satya-nadella-ai-society) (*source: Futurism, 2026*).
 
 ## Updates: 22.06.2026
@@ -48,7 +48,7 @@ A Single GPU Is All You Need for Self-Supervised Pretraining"](https://www.youtu
 1. Another perspective on the **impact of AI on the workforce**: [Gordon Ritter: I predicted AI’s learning loop a decade ago. The doomers are still measuring the wrong thing](https://fortune.com/2026/06/11/ai-doom-wrong-metric-human-judgment-emergence-capital-ritter/) (*source: Fortune, 2026*).
 
 ## Updates: 11.06.2026
-1. The agenda for next month's **Esri User Conference** (*formerly the **Esri International User Conference***) is now available [online](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda?tab.event=option_1715110492243). There are a number of [sessions](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda?tab.event=option_1715110492243&search=geoai) relevant to **GeoAI**. The event runs from the 13-17 July 2026. For those unable to attend in person, online participation is an [option](https://www.esri.com/en-us/about/events/uc/registration).
+1. **Upcoming event:** The agenda for next month's **Esri User Conference** (*formerly the **Esri International User Conference***) is now available [online](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda?tab.event=option_1715110492243). There are a number of [sessions](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda?tab.event=option_1715110492243&search=geoai) relevant to **GeoAI**. The event runs from the 13-17 July 2026. For those unable to attend in person, online participation is an [option](https://www.esri.com/en-us/about/events/uc/registration).
 
 ## Updates: 10.06.2026
 1. This week, Dr. Robin Cole's [satellite-image-deep-learning](https://www.youtube.com/@satellite-image-deep-learning) video podcast series featured [Taylor Geospatial](https://github.com/taylor-geospatial)'s an [interview](https://www.youtube.com/watch?v=b5NZfl1xWgQ) regarding their [**Fields of the World**](https://fieldsofthe.world) effort.
