@@ -46,9 +46,9 @@
 <img width="1264" height="636" alt="image" src="https://github.com/user-attachments/assets/d6554fbb-4fb4-4ddd-a1a6-e0b50394be12" />
 
 ## NISAR Jupyter Notebooks
-* NISAR notebooks from the Alaska Satellite Facility's [**NISAR Cookbook**](https://asfopensarlab.github.io/NISAR_Cookbook/): https://github.com/ASFOpenSARlab/NISAR_Cookbook/tree/main/notebooks
-* Example NISAR data visualization notebook from MAAP: https://github.com/MAAP-Project/maap-documentation/blob/develop/docs/source/science/NISAR/NISAR_access.ipynb
-* Official NISAR notebooks from the mission: https://github.com/NISAR-Science-Algorithms
+* **NISAR notebooks** from the Alaska Satellite Facility's [**NISAR Cookbook**](https://asfopensarlab.github.io/NISAR_Cookbook/): https://github.com/ASFOpenSARlab/NISAR_Cookbook/tree/main/notebooks
+* Example **NISAR data visualization notebook** from MAAP: https://github.com/MAAP-Project/maap-documentation/blob/develop/docs/source/science/NISAR/NISAR_access.ipynb
+* Official **NISAR notebooks** from the mission: https://github.com/NISAR-Science-Algorithms
 
 ## NISAR 2026 Town Hall
 * Recording of the **NISAR Town Hall meeting on 26.02.2026** (which includes walk-throughs of the various tutorials, as well as background on NISAR): https://www.youtube.com/watch?v=7tJJmNg8qyE.
