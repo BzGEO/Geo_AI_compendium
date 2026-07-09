@@ -5,6 +5,9 @@
 
 ## Updates: 09.07.2026
 1. There is an **ongoing [survey](https://uconn.co1.qualtrics.com/jfe/form/SV_82Eb62dRtmxAw0S) on GeoAI perception**, being led by a team out of the University of South Florida and the University of Connecticut. *"The purpose of this survey is to capture how academics and research professionals perceive and define GeoAI, including their awareness, expectations, concerns, and experiences with GeoAI... Responses will help identify opportunities, challenges, and priorities for situating Geography and GIScience education and research in the era of GeoAI."* The survey will be open through 15 July 2026.
+2. [*Coursera*]() just published a **2026 Job Skills Report** which included, among others, AI/ML-related "data skills" that are in high demand. See: https://www.coursera.org/skills-reports/job-skills#form.
+
+<img width="477" height="187" alt="image" src="https://github.com/user-attachments/assets/6870bc93-51de-45e8-bf17-d4e843d0322e" />
 
 ## Updates: 08.07.2026
 1. **Upcoming event:** The University of Washington's [eScience Institute](https://github.com/uwescience) is hosting a ***Responsible Gen-AI for NASA Earthdata*** [workshop](https://responsible-genai.hackweek.io/index.html?jump_to=schedule) in Seattle, Washington from 24-28 August 2026. There is also an affiliated GitHub [repo](https://github.com/responsible-genai-hackweek/responsible-genai-hackweek).
