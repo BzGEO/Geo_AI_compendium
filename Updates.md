@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 10.07.2026
+1. On the **use of ML for earthquake detection**: [AI Improves Earthquake Detection. A new study shows the pros and cons of different model training methods](https://eos.org/research-spotlights/ai-improves-earthquake-detection/) (*source: Eos, 2026*).
+
 ## Updates: 09.07.2026
 1. There is an **ongoing [survey](https://uconn.co1.qualtrics.com/jfe/form/SV_82Eb62dRtmxAw0S) on GeoAI perception**, being led by a team out of the University of South Florida and the University of Connecticut. *"The purpose of this survey is to capture how academics and research professionals perceive and define GeoAI, including their awareness, expectations, concerns, and experiences with GeoAI... Responses will help identify opportunities, challenges, and priorities for situating Geography and GIScience education and research in the era of GeoAI."* The survey will be open through 15 July 2026.
 2. [*Coursera*]() recently published a **2026 Job Skills Report** which included, among others, AI/ML-related "data skills" that are in high demand. See: https://www.coursera.org/skills-reports/job-skills#form.
