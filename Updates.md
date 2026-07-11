@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 11.07.2026
+1. On **shifts in the AI landscape**: [The AI race is shifting from bigger models to cheaper, smarter systems](https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html) (*source: CNBC, 2026*)
+
 ## Updates: 10.07.2026
 1. On the **use of ML for earthquake detection**: [AI Improves Earthquake Detection. A new study shows the pros and cons of different model training methods](https://eos.org/research-spotlights/ai-improves-earthquake-detection/) (*source: Eos, 2026*).
 
