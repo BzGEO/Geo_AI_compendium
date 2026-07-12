@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 12.07.2026
+1. **ArcGIS Pro:** The first patch for *ArcGIS Pro 3.7* (i.e., 3.7.1) was released on 07.07.2026: https://community.esri.com/t5/arcgis-pro-documents/arcgis-pro-3-7-patch-1-3-7-1-is-now-available/ta-p/1713013. Information on the issues addressed is contained in: https://doc.esri.com/en/arcgis-pro/latest/get-started/release-notes.html.
+
 ## Updates: 11.07.2026
 1. On **shifts in the AI landscape**: [The AI race is shifting from bigger models to cheaper, smarter systems](https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html) (*source: CNBC, 2026*).
 
