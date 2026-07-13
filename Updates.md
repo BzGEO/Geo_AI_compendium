@@ -3,6 +3,19 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources.
 
+## Updates: 13.07.2026
+1. **Upcoming events:** At the 2026 [Esri User Conference](https://www.esri.com/en-us/about/events/uc/overview) this week in San Diego, California, there are **multiple relevant GeoAI- / ML-related sessions**:
+   * Tue. 14.07.2026
+     * [AI and ArcGIS](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1771358204603001U4Df)
+     * [Imagery: A Complete Workflow from Management and Analysis to Sharing](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1763406986167001ExFo)
+     * [ArcGIS: GeoAI](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1763400906815001V0R7)
+     * [ArcGIS: An Overview of Image Analysis](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1762974020063001T9hb)
+   * Wed. 15.07.2026
+     * [Analytics and Data Science and ArcGIS](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1771370076862001HZxI)
+   * Thu. 16.07.2026
+     * [Imagery: What’s New](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1762974025333001TuDI)
+     * [Imagery in ArcGIS: What's New with Deep Learning](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1762974024978001TaLU)
+
 ## Updates: 12.07.2026
 1. **ArcGIS Pro:** The first patch for Esri's ***ArcGIS Pro 3.7*** (i.e., 3.7.1) was released on 07.07.2026: https://community.esri.com/t5/arcgis-pro-documents/arcgis-pro-3-7-patch-1-3-7-1-is-now-available/ta-p/1713013. Information on the issues addressed is contained in: https://doc.esri.com/en/arcgis-pro/latest/get-started/release-notes.html.
 
