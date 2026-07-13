@@ -47,12 +47,12 @@
 
 ## NISAR Jupyter Notebooks
 * **NISAR notebooks** from the Alaska Satellite Facility's [**NISAR Cookbook**](https://asfopensarlab.github.io/NISAR_Cookbook/): https://github.com/ASFOpenSARlab/NISAR_Cookbook/tree/main/notebooks ➡️ ***14 individual notebooks***
-  * 🚨 NISAR GCOV backscatter time series [notebook](https://github.com/ASFOpenSARlab/NISAR_Cookbook/blob/main/notebooks/NISAR_GCOV_Time_Series_Example.ipynb) 🚨
+  * 🚨 NISAR GCOV backscatter time series [notebook](https://github.com/ASFOpenSARlab/NISAR_Cookbook/blob/main/notebooks/NISAR_GCOV_Time_Series_Example.ipynb) 🚨 ➡️ accompanying NISAR ARSET YouTube [recording](https://www.youtube.com/watch?v=B1HPbpfg4oI)
 * Example **NISAR data visualization notebook** from MAAP: https://github.com/MAAP-Project/maap-documentation/blob/develop/docs/source/science/NISAR/NISAR_access.ipynb
 * Official **NISAR notebooks** from the mission: https://github.com/NISAR-Science-Algorithms
 
 ## NISAR 2026 Town Hall
-* Recording of the **NISAR Town Hall meeting on 26.02.2026** (which includes walk-throughs of the various tutorials, as well as background on NISAR): https://www.youtube.com/watch?v=7tJJmNg8qyE.
+* Recording of the **NISAR Town Hall meeting on 26.02.2026** (*which includes walk-throughs of the various tutorials, as well as background on NISAR*): https://www.youtube.com/watch?v=7tJJmNg8qyE.
 
 ## Examples
 * Exploration of radio frequency interference (RFI) in NISAR data over northern Alabama: https://bit.ly/nisar_rfi_examples. Also see the NISAR [documentation](https://nisar-docs.asf.alaska.edu/product-known-issues/#radio-frequency-interference-rfi) on RFI.
