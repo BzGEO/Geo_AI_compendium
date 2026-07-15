@@ -1,7 +1,7 @@
 # Updates (formerly the *change log*) associated with the GeoAI Compendium
 [![Update](https://img.shields.io/github/last-commit/bzgeo/Geo_AI_compendium?label=repo%20last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
 
-**About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources. (*In case you're wondering, dates are formatted as DD.MM.YYYY.*)
+**About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources. (*In case you're wondering, dates are formatted as* ***DD.MM.YYYY.***)
 
 ## Updates: 14.07.2026
 1. Given that the 2026 [***Esri User Conference***](https://www.esri.com/en-us/about/events/uc/overview) is underway, there will likely be a number of articles about ***ArcGIS Pro***'s capabilities coming out on the [*ArcGIS Blog*](https://www.esri.com/arcgis-blog/overview). Recent relevant articles include the following:
