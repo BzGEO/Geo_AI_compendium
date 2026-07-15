@@ -5,6 +5,7 @@
 
 ## Updates: 14.07.2026
 1. Given that the 2026 [***Esri User Conference***](https://www.esri.com/en-us/about/events/uc/overview) is underway, there will likely be a number of articles about ***ArcGIS Pro***'s capabilities coming out on the [*ArcGIS Blog*](https://www.esri.com/arcgis-blog/overview). Recent relevant articles include the following:
+   * [An Introduction to Embeddings for GIS Analysts](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/an-introduction-to-embeddings-for-gis-analysts)
    * [Beyond latitude and longitude: Giving geographic context to coordinates](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/beyond-latitude-and-longitude-giving-geographic-context-to-coordinates)
    * [Earth Observation with Remote Sensing Foundation Models in ArcGIS](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/earth-observation-with-remote-sensing-foundation-models-in-arcgis)
    * [Every place has a fingerprint: How foundation models are learning locations](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/every-place-has-a-fingerprint-how-foundation-models-are-learning-locations)
