@@ -13,6 +13,7 @@
    * [Introducing Geospatial Foundation Models in ArcGIS](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/introducing-geospatial-foundation-models-in-arcgis) ➡️ *also focuses on embeddings*
    * [Understanding Grid Size for Geospatial Foundation Models for Image Embeddings](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/understanding-grid-size-for-geospatial-foundation-models-for-image-embeddings) ➡️ *focuses on embeddings*
    * [What's new in AI tools and models in ArcGIS (Q2 2026)](https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-ai-tools-and-models-in-arcgis-q2-2026) ➡️ *also focuses on embeddings*
+   * [What’s new in Analytics Across ArcGIS in Q2 2026](https://www.esri.com/arcgis-blog/products/arcgis/analytics/whats-new-in-analytics-across-arcgis-in-q2-2026)
 2. Related to a number of the aforementioned articles, Esri also released deep learning models (*in .dlpk format*) for ***ArcGIS Pro*** that can generate **embeddings** directly from input satellite imagery, and leveraging **foundation models** like ***Clay***, ***Prithvi***, and ***TerraMind***. Those packages can be found in Esri's [***Living Atlas***](https://livingatlas.arcgis.com/en/browse/?q=embeddings#d=2&type=tool&itemTypes=Deep+Learning+Package&srt=modified&q=embeddings) platform.
 
 ## Updates: 13.07.2026
