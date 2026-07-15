@@ -150,7 +150,7 @@ A Single GPU Is All You Need for Self-Supervised Pretraining"](https://www.youtu
 <img width="536" height="352" alt="image" src="https://github.com/user-attachments/assets/a84a7007-7511-4b46-b853-14fd2143423b" />
 
 
-* On **Embeddings**: https://www.wri.org/insights/urban-trees-cooling-potential?apcid=0065aea1024a6d4198939500.
+* On **Embeddings**:
 
 <img width="802" height="491" alt="image" src="https://github.com/user-attachments/assets/b3f43701-fac9-4dbc-8f4a-d039d1aa875b" />
 
