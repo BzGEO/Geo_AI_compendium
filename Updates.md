@@ -4,7 +4,7 @@
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources. (*In case you're wondering, dates are formatted as DD.MM.YYYY.*)
 
 ## Updates: 14.07.2026
-1. Given that the 2026 [*Esri User Conference*](https://www.esri.com/en-us/about/events/uc/overview) is underway, there will likely be a number of articles about ***ArcGIS Pro***'s capabilities coming out on the [*ArcGIS Blog*](https://www.esri.com/arcgis-blog/overview). Recent relevant articles include the following:
+1. Given that the 2026 [***Esri User Conference***](https://www.esri.com/en-us/about/events/uc/overview) is underway, there will likely be a number of articles about ***ArcGIS Pro***'s capabilities coming out on the [*ArcGIS Blog*](https://www.esri.com/arcgis-blog/overview). Recent relevant articles include the following:
    * [Beyond latitude and longitude: Giving geographic context to coordinates](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/beyond-latitude-and-longitude-giving-geographic-context-to-coordinates)
    * [Earth Observation with Remote Sensing Foundation Models in ArcGIS](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/earth-observation-with-remote-sensing-foundation-models-in-arcgis)
    * [Every place has a fingerprint: How foundation models are learning locations](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/every-place-has-a-fingerprint-how-foundation-models-are-learning-locations)
@@ -14,7 +14,7 @@
    * [What's new in AI tools and models in ArcGIS (Q2 2026)](https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-ai-tools-and-models-in-arcgis-q2-2026)
 
 ## Updates: 13.07.2026
-1. **Upcoming events:** At the 2026 [*Esri User Conference*](https://www.esri.com/en-us/about/events/uc/overview) this week in San Diego, California, there are **multiple relevant GeoAI- / ML-related sessions**:
+1. **Upcoming events:** At the 2026 [***Esri User Conference***](https://www.esri.com/en-us/about/events/uc/overview) this week in San Diego, California, there are **multiple relevant GeoAI- / ML-related sessions**:
    * Tue. 14.07.2026
      * [AI and ArcGIS](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1771358204603001U4Df)
      * [Imagery: A Complete Workflow from Management and Analysis to Sharing](https://registration.esri.com/flow/esri/26uc/eventportal/page/detailed-agenda/session/1763406986167001ExFo)
