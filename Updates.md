@@ -12,7 +12,7 @@
    * [Introducing Geospatial Foundation Models in ArcGIS](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/introducing-geospatial-foundation-models-in-arcgis)
    * [Understanding Grid Size for Geospatial Foundation Models for Image Embeddings](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/understanding-grid-size-for-geospatial-foundation-models-for-image-embeddings)
    * [What's new in AI tools and models in ArcGIS (Q2 2026)](https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-ai-tools-and-models-in-arcgis-q2-2026)
-2. Related to a number of the aforementioned articles, Esri also released deep learning models for ***ArcGIS Pro*** that can generate **embeddings**. See: https://livingatlas.arcgis.com/en/browse/?q=embeddings#d=2&type=tool&itemTypes=Deep+Learning+Package&srt=modified&q=embeddings.
+2. Related to a number of the aforementioned articles, Esri also released deep learning models for ***ArcGIS Pro*** that can generate **embeddings**. Those packages can be found in Esri's [***Living Atlas***](https://livingatlas.arcgis.com/en/browse/?q=embeddings#d=2&type=tool&itemTypes=Deep+Learning+Package&srt=modified&q=embeddings) platform.
 
 ## Updates: 13.07.2026
 1. **Upcoming events:** At the 2026 [***Esri User Conference***](https://www.esri.com/en-us/about/events/uc/overview) this week in San Diego, California, there are **multiple relevant GeoAI- / ML-related sessions**:
