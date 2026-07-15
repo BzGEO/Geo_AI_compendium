@@ -1,4 +1,4 @@
-# Updates (formerly the *change log*) associated with the GeoAI Compendium
+# Updates (formerly the *change log*) associated with the [GeoAI Compendium](https://github.com/BzGEO/GeoAI_compendium)
 [![Update](https://img.shields.io/github/last-commit/bzgeo/Geo_AI_compendium?label=repo%20last%20updated&style=flat-square)](https://github.com/BzGEO/Geo_AI_compendium)
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources. (*In case you're wondering, dates are formatted as* ***DD.MM.YYYY.***)
