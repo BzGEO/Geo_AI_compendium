@@ -18,7 +18,7 @@
    * [What's new in AI tools and models in ArcGIS (Q2 2026)](https://www.esri.com/arcgis-blog/products/arcgis/geoai/whats-new-in-ai-tools-and-models-in-arcgis-q2-2026) ➡️ *also focuses on embeddings*
    * [What’s new in Analytics Across ArcGIS in Q2 2026](https://www.esri.com/arcgis-blog/products/arcgis/analytics/whats-new-in-analytics-across-arcgis-in-q2-2026)
 2. Related to a number of the aforementioned articles, Esri also released deep learning models (*in .dlpk format*) for ***ArcGIS Pro*** that can generate **embeddings** directly from input satellite imagery, and leveraging **foundation models** like ***Clay***, ***Prithvi***, and ***TerraMind***. Those packages can be found in Esri's [***Living Atlas***](https://livingatlas.arcgis.com/en/browse/?q=embeddings#d=2&type=tool&itemTypes=Deep+Learning+Package&srt=modified&q=embeddings) platform.
-3. It will make sense to put together a summer of some of the ML relevant take aways from the Esri UC.
+3. It will make sense to put together a summary of some of the ML relevant take aways from the Esri UC.
 
 <!-- https://photos.app.goo.gl/bcc2iPSsABsT6g5c6 -->
 
