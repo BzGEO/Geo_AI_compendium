@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources. (*In case you're wondering, dates are formatted as* ***DD.MM.YYYY.***)
 
+## Updates: 20.07.2026
+1. On the **impacts of AI slop on birdwatching / conservation:** [AI-altered images on birdwatching forums putting research at risk. Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientists](https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe) (*source: The Guardian, 2026*).
+
 ## Updates: 14.07.2026
 1. Given that the 2026 [***Esri User Conference***](https://www.esri.com/en-us/about/events/uc/overview) is underway, there will likely be a number of articles about ***ArcGIS Pro***'s capabilities coming out on the [*ArcGIS Blog*](https://www.esri.com/arcgis-blog/overview). Recent relevant articles include the following:
    * [An Introduction to Embeddings for GIS Analysts](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/an-introduction-to-embeddings-for-gis-analysts) ➡️ *focuses on embeddings*
