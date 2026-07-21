@@ -1,8 +1,11 @@
 # NASA-ISRO Synthetic Aperture Radar (NISAR) mission: Available data globally
-*Last updated: 05.05.2026*
+*Last updated: ~~05.05.2026~~ 21.07.2026*
 
 ## Objectives
 * Quickly visualize available NISAR data footprints
+
+> [!NOTE]
+> As of 21 July 2026, NISAR data for practically everywhere on Earth (land at least) are now available. This includes data that were not available in the initial Feb. 2026 release.
 
 ## Caveat
 * The following graphics are based on the initial late Feb. 2026 data dump. One will note that most parts of the globe are not included. Additional data - likely covering other parts of the globe - will be released some time in July 2026, according to the Alaska Satellite Facility (ASF). See the NISAR data release timeline: https://nisar-docs.asf.alaska.edu/availability-overview/#data-release-timeline.
