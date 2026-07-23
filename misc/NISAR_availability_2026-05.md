@@ -5,7 +5,7 @@
 * Quickly visualize available NISAR data footprints
 
 > [!NOTE]
-> As of 21 July 2026, NISAR data for practically everywhere on Earth (land at least) are now available. This includes data that were not available in the initial Feb. 2026 release.
+> As of 21 July 2026, NISAR data for practically everywhere on Earth (land at least) are now available. This includes data that were not available in the initial Feb. 2026 release. The graphics below will need to be updated.
 
 ## Caveat
 * The following graphics are based on the initial late Feb. 2026 data dump. One will note that most parts of the globe are not included. Additional data - likely covering other parts of the globe - will be released some time in July 2026, according to the Alaska Satellite Facility (ASF). See the NISAR data release timeline: https://nisar-docs.asf.alaska.edu/availability-overview/#data-release-timeline.
