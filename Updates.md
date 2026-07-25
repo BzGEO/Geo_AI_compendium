@@ -3,6 +3,12 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources. (*In case you're wondering, dates are formatted as* ***DD.MM.YYYY.***)
 
+## Updates: 25.07.2026
+1. On the **impact of spatial resolution on model results**: [Spatial Resolution Matters: Choosing the Right Imagery for Geospatial AI Models](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/spatial-resolution-matters-choosing-the-right-imagery-for-geospatial-ai-models) (*source: ArcGIS Blog, 2026*).
+2. On the **use of LLMs for describing satellite images**: [NASA Puts Google’s Gemma Large Language Model in Orbit. Gemma 3 runs on Nvidia hardware to analyze satellite images](https://spectrum.ieee.org/nasa-ai-satellite-image-analysis) (*source: IEEE Spectrum, 2026*).
+   * "*Once the system was in orbit, NASA researchers performed two live capture tests with a camera on Loft’s YAM-9 satellite: one over Toulouse, France, and a second over the coast of Argentina. Gemma 3 generated a text description of each image, and NASA also prompted the LLM with a set of scripted questions about the images, such as whether they contain commercial or residential areas or show natural features.*"
+   *  "*Instead of sending large amounts of raw image data, a satellite can report a text summary of noteworthy information.*"
+
 ## Updates: 20.07.2026
 1. On the **impacts of AI slop on birdwatching / conservation:** [AI-altered images on birdwatching forums putting research at risk. Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientists](https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe) (*source: The Guardian, 2026*).
 
