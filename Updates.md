@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources. (*In case you're wondering, dates are formatted as* ***DD.MM.YYYY.***)
 
+## Updates: 27.07.2026
+1. On accelerating AI research in the US: [White House rolls out AI funding — and signals a new era for US science](https://www.nature.com/articles/d41586-026-02332-8) (*source: Nature news, 2026*).
+
 ## Updates: 25.07.2026
 1. On the **impact of spatial resolution on model results**: [Spatial Resolution Matters: Choosing the Right Imagery for Geospatial AI Models](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/spatial-resolution-matters-choosing-the-right-imagery-for-geospatial-ai-models) (*source: ArcGIS Blog, 2026*).
 2. On the **use of LLMs for describing satellite images**: [NASA Puts Google’s Gemma Large Language Model in Orbit. Gemma 3 runs on Nvidia hardware to analyze satellite images](https://spectrum.ieee.org/nasa-ai-satellite-image-analysis) (*source: IEEE Spectrum, 2026*).
