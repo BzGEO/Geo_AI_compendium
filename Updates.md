@@ -3,6 +3,11 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources. (*In case you're wondering, dates are formatted as* ***DD.MM.YYYY.***)
 
+## Updates: 29.07.2026
+1. Esri recently released a free eBook entitled [Beyond the Map: A Guide to Geospatial Strategy](https://www.esri.com/content/dam/esrisites/en-us/media/ebooks/geospatial-strategy-ebook.pdf).
+
+<img width="632" height="840" alt="image" src="https://github.com/user-attachments/assets/a66300f2-08fc-4038-bf81-874bc35a152c" />
+
 ## Updates: 27.07.2026
 1. On accelerating AI research in the US: [White House rolls out AI funding — and signals a new era for US science](https://www.nature.com/articles/d41586-026-02332-8) (*source: Nature news, 2026*).
 
