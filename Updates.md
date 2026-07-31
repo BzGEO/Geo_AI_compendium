@@ -5,6 +5,7 @@
 
 ## Updates: 31.07.2026
 1. *New* custom **satellite embeddings data** available from Google: [Introducing Custom Satellite Embeddings, powered by AlphaEarth Foundations](https://mapsplatform.google.com/resources/blog/introducing-custom-satellite-embeddings-powered-by-alphaearth-foundations/) (*source: Google, 2026*).
+2. On the **utility of *Hugging Face***: [The Python Ecosystem That Changed AI Development. How one open-source ecosystem made state-of-the-art AI accessible](https://towardsdatascience.com/the-python-ecosystem-that-changed-ai-development/) (*source: Towards Data Science, 2026*).
 
 ## Updates: 30.07.2026
 1. On **ArcGIS Pro and remote sensing**: [Satellite Imagery for Business: How GIS Turns Earth Observation Data into Insights](https://www.esri.com/en-us/industries/blog/articles/satellite-imagery-business-decision-making) (*source: Esri Industry Blogs, 2026*).
