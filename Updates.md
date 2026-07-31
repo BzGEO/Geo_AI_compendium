@@ -3,6 +3,9 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources. (*In case you're wondering, dates are formatted as* ***DD.MM.YYYY.***)
 
+## Updates: 31.07.2026
+1. *New* custom **satellite embeddings data** available from Google: [Introducing Custom Satellite Embeddings, powered by AlphaEarth Foundations](https://mapsplatform.google.com/resources/blog/introducing-custom-satellite-embeddings-powered-by-alphaearth-foundations/) (*source: Google, 2026*).
+
 ## Updates: 30.07.2026
 1. On **ArcGIS Pro and remote sensing**: [Satellite Imagery for Business: How GIS Turns Earth Observation Data into Insights](https://www.esri.com/en-us/industries/blog/articles/satellite-imagery-business-decision-making) (*source: Esri Industry Blogs, 2026*).
 2. On the **development of custom functions leveraging Kubernetes**: [Custom Python Raster Functions in ArcGIS Enterprise on Kubernete](https://www.esri.com/arcgis-blog/products/arcgis-enterprise/imagery/custom-python-raster-functions-arcgis-enterprise-kubernetes) (*source: ArcGIS Blog, 2026*).
