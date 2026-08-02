@@ -3,6 +3,13 @@
 
 **About**: This file is intended to provide updates *and news* related to the main items presented in the GeoAI Compendium's [Readme](https://github.com/BzGEO/Geo_AI_compendium/blob/main/README.md), which contains an extensive collection of links to different GeoAI / GeoML resources. (*In case you're wondering, dates are formatted as* ***DD.MM.YYYY.***)
 
+<!-- (*source: x, 2026*) -->
+
+
+## Updates: 02.08.2026
+1. On the **AI boom** in general: [Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html) (*paywalled*) (*source: the New York Times, 2026*).
+2. On the **impacts of AI on worker creativity**: [Generative AI could boost creativity, but only for some workers](https://www.fastcompany.com/91578663/generative-ai-could-boost-creativity-but-only-for-some-workers) (*source: Fast Company, 2026*).
+
 ## Updates: 31.07.2026
 1. *New* custom **satellite embeddings data** available from Google: [Introducing Custom Satellite Embeddings, powered by AlphaEarth Foundations](https://mapsplatform.google.com/resources/blog/introducing-custom-satellite-embeddings-powered-by-alphaearth-foundations/) (*source: Google, 2026*).
 2. On the **utility of *Hugging Face***: [The Python Ecosystem That Changed AI Development. How one open-source ecosystem made state-of-the-art AI accessible](https://towardsdatascience.com/the-python-ecosystem-that-changed-ai-development/) (*source: Towards Data Science, 2026*).
