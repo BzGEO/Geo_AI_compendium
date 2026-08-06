@@ -25,7 +25,7 @@
 <img width="632" height="840" alt="image" src="https://github.com/user-attachments/assets/a66300f2-08fc-4038-bf81-874bc35a152c" />
 
 ## Updates: 27.07.2026
-1. On accelerating AI research in the US: [White House rolls out AI funding — and signals a new era for US science](https://www.nature.com/articles/d41586-026-02332-8) (*source: Nature news, 2026*).
+1. On accelerating AI research in the US: [White House rolls out AI funding — and signals a new era for US science](https://www.nature.com/articles/d41586-026-02332-8) (*source: Nature news, 2026*). Read the Executive Order, entitled, [Science: A New Golden Age](https://www.whitehouse.gov/wp-content/uploads/2026/07/Science-A-New-Golden-Age.pdf).
 
 ## Updates: 25.07.2026
 1. On the **impact of spatial resolution on model results**: [Spatial Resolution Matters: Choosing the Right Imagery for Geospatial AI Models](https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/spatial-resolution-matters-choosing-the-right-imagery-for-geospatial-ai-models) (*source: ArcGIS Blog, 2026*).
