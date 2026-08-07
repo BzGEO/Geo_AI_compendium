@@ -5,6 +5,8 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 07.08.2026
+1. Esri recently published the following article, which is relevant to GeoAI: [Trusting Data: New Guardrails for the AI Era](https://www.esri.com/about/newsroom/publications/wherenext/ai-geospatial-data-trust) (*source: Esri, 2026*).
 
 ## Updates: 02.08.2026
 1. On the **AI boom** in general: [Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html) (*paywalled*) (*source: the New York Times, 2026*).
