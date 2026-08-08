@@ -5,6 +5,10 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 08.08.2026
+1. On **deepfakes in Earth observation**: [Google pauses AI satellite images, after fears of deepfakes in the sky](https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky) (*source: NPR, 2026*).
+2. On the need for the **optimization of compute resources**: [Amazon cracks down on 'CPU waste' among engineers as agentic AI crunch intensifies — CPU demand makes low-utilization EC2 instances a hot commodity](https://www.tomshardware.com/pc-components/cpus/amazon-cracks-down-on-cpu-waste-among-engineers-as-agentic-ai-crunch-intensifies-cpu-demand-makes-low-utilization-ec2-instances-a-hot-commodity) (*source: Tom's Hardware, 2026*).
+
 ## Updates: 07.08.2026
 1. Esri recently published the following article, related to **GeoAI and guardrails**: [Trusting Data: New Guardrails for the AI Era](https://www.esri.com/about/newsroom/publications/wherenext/ai-geospatial-data-trust) (*source: Esri, 2026*).
 
