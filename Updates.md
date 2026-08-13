@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 13.08.2026
+1. Related to the overall topic of GeoAI, Planet Labs' Robbie Schingler delivered a TED talk on the integration of Earth observation and AI, back in April 2026: [How satellites and AI can protect the planet](https://www.ted.com/talks/robbie_schingler_how_satellites_and_ai_can_protect_the_planet).
+
 ## Updates: 08.08.2026
 1. On **deepfakes in Earth observation**: [Google pauses AI satellite images, after fears of deepfakes in the sky](https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky) (*source: NPR, 2026*).
 2. On the need for the **optimization of compute resources**: [Amazon cracks down on 'CPU waste' among engineers as agentic AI crunch intensifies — CPU demand makes low-utilization EC2 instances a hot commodity](https://www.tomshardware.com/pc-components/cpus/amazon-cracks-down-on-cpu-waste-among-engineers-as-agentic-ai-crunch-intensifies-cpu-demand-makes-low-utilization-ec2-instances-a-hot-commodity) (*source: Tom's Hardware, 2026*).
