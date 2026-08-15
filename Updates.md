@@ -5,6 +5,10 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 15.08.2026
+1. On the quest to optimize ML inferencing: [
+Kog is going deeper to squeeze more inference out of GPUs](https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/).
+
 ## Updates: 13.08.2026
 1. Related to the overall topic of GeoAI, Planet Labs' Robbie Schingler delivered a TED talk on the integration of Earth observation and AI, back in April 2026: [How satellites and AI can protect the planet](https://www.ted.com/talks/robbie_schingler_how_satellites_and_ai_can_protect_the_planet).
 
