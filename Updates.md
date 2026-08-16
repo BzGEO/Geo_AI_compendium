@@ -5,7 +5,7 @@
 
 <!-- []() (*source: x, 2026*) -->
 
-## Updates: 15.08.2026 
+## Updates: 15.08.2026
 1. On the quest to optimize ML inferencing: [
 Kog is going deeper to squeeze more inference out of GPUs](https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/) (*source: Tech Crunch, 2026*).
 
