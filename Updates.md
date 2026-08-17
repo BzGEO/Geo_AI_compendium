@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 17.08.2026
-1. Geospatial World has launched a [Global Government Geospatial Agentic AI Readiness Survey 2026](https://www.surveymonkey.com/r/GeoAgenticAI). The deadline for survey responses is 21 August 2026.
+1. Geospatial World has launched a 2026 [**Global Government Geospatial Agentic AI Readiness Survey**](https://www.surveymonkey.com/r/GeoAgenticAI). The deadline for survey responses is 21 August 2026.
 
 ## Updates: 15.08.2026
 1. On the quest to optimize ML inferencing: [
