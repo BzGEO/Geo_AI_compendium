@@ -7,6 +7,7 @@
 
 ## Updates: 17.08.2026
 1. Geospatial World has launched a 2026 [**Global Government Geospatial Agentic AI Readiness Survey**](https://www.surveymonkey.com/r/GeoAgenticAI). The deadline for survey responses is 21 August 2026.
+2. It appears that people need reminding that information shared with chatbots is not exactly private: [What happens to the secrets you share with AI](https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic) (*source: Axios, 2026*).
 
 ## Updates: 15.08.2026
 1. On the quest to optimize ML inferencing: [
