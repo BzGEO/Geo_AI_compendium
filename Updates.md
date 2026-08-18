@@ -5,6 +5,11 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 18.08.2026
+1. ICYMI, "The Chen Institute & Science Prize for AI Accelerated Research celebrates outstanding early-career researchers who are advancing interdisciplinary breakthroughs at the intersection of artificial intelligence and natural sciences." See: https://www.science.org/content/prize-award/chen-institute-science-prize-for-ai-accelerated-research. The deadline for this is 13 December 2026.
+
+<img width="647" height="792" alt="image" src="https://github.com/user-attachments/assets/1f9148e5-6233-4640-9622-a0f2af486992" />
+
 ## Updates: 17.08.2026
 1. Geospatial World has launched a 2026 [**Global Government Geospatial Agentic AI Readiness Survey**](https://www.surveymonkey.com/r/GeoAgenticAI). The deadline for survey responses is 21 August 2026.
 2. It appears that people need reminding that information shared with chatbots is not exactly private: [What happens to the secrets you share with AI](https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic) (*source: Axios, 2026*).
