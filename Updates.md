@@ -6,7 +6,7 @@
 <!-- []() (*source: x, 2026*) -->
 
 ## Updates: 18.08.2026
-1. ICYMI, "The Chen Institute & Science Prize for AI Accelerated Research celebrates outstanding early-career researchers who are advancing interdisciplinary breakthroughs at the intersection of artificial intelligence and natural sciences." See: https://www.science.org/content/prize-award/chen-institute-science-prize-for-ai-accelerated-research. The deadline for this is 13 December 2026.
+1. ICYMI: "The Chen Institute & Science Prize for AI Accelerated Research celebrates outstanding early-career researchers who are advancing interdisciplinary breakthroughs **at the intersection of artificial intelligence and natural sciences**" (*emphasis added*). See: https://www.science.org/content/prize-award/chen-institute-science-prize-for-ai-accelerated-research. The deadline for this is **13 December 2026**.
 
 <img width="647" height="792" alt="image" src="https://github.com/user-attachments/assets/1f9148e5-6233-4640-9622-a0f2af486992" />
 
