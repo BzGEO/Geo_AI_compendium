@@ -5,6 +5,11 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 20.08.2026
+1. There is a [*Photogrammetric Engineering & Remote Sensing* (PE&RS)](https://www.sciencedirect.com/journal/photogrammetric-engineering-and-remote-sensing) special issue on "A New Era of Earth Observation: Applications of Google DeepMind’s 10‑m AI-Generated Remote Sensing Embeddings of the Planet Earth." The deadline for the special issue's submissions is **31 July 2027**. See: https://my.asprs.org/common/Uploaded%20files/PERS/SpecialIssues/Google_Deep_Mind_10m_embeddings.pdf.
+
+<img width="631" height="422" alt="image" src="https://github.com/user-attachments/assets/6765afd4-c162-4e66-b5db-6639d06cbb25" />
+
 ## Updates: 18.08.2026
 1. ICYMI: "The Chen Institute & Science Prize for AI Accelerated Research celebrates outstanding early-career researchers who are advancing interdisciplinary breakthroughs **at the intersection of artificial intelligence and natural sciences**" (*emphasis added*). See: https://www.science.org/content/prize-award/chen-institute-science-prize-for-ai-accelerated-research. The deadline for this is **13 December 2026**.
 
