@@ -10,6 +10,10 @@
 
 <img width="631" height="422" alt="image" src="https://github.com/user-attachments/assets/6765afd4-c162-4e66-b5db-6639d06cbb25" />
 
+2. The ***Spatial Signals*** podcast launched in April 2025. It is "*a podcast about remote sensing, GIS, and geospatial technologies - but more importantly it’s a podcast about the people who use and apply them. This podcast is sponsored by AmericaView, the national remote sensing network dedicated to empowering Earth Observation.*" See: https://americaview.podbean.com.
+
+<img width="207" height="207" alt="image" src="https://github.com/user-attachments/assets/c70b22f0-4af9-4660-acef-43bc88cf6b59" />
+
 ## Updates: 18.08.2026
 1. ICYMI: "The Chen Institute & Science Prize for AI Accelerated Research celebrates outstanding early-career researchers who are advancing interdisciplinary breakthroughs **at the intersection of artificial intelligence and natural sciences**" (*emphasis added*). See: https://www.science.org/content/prize-award/chen-institute-science-prize-for-ai-accelerated-research. The deadline for this is **13 December 2026**.
 
