@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 25.08.2026
+1. On "pro-worker AI": [Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI](https://www.nature.com/articles/d41586-026-02566-6) (*source: Nature, 2026*).
+
 ## Updates: 20.08.2026
 1. There is a [*Photogrammetric Engineering & Remote Sensing* (PE&RS)](https://www.sciencedirect.com/journal/photogrammetric-engineering-and-remote-sensing) special issue on "A New Era of Earth Observation: Applications of Google DeepMind’s 10‑m AI-Generated Remote Sensing Embeddings of the Planet Earth." The deadline for the special issue's submissions is **31 July 2027**. See: https://my.asprs.org/common/Uploaded%20files/PERS/SpecialIssues/Google_Deep_Mind_10m_embeddings.pdf.
 
