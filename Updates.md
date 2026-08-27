@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 26.08.2026
+1. On the **influence of AI chatbots on the educational system**: [How AI Chatbots are Infiltrating Classrooms](https://www.wnycstudios.org/podcasts/otm/articles/how-ai-chatbots-are-infiltrating-classrooms). <!-- [video](https://www.youtube.com/watch?v=57g4FuOMJCk). -->
+
 ## Updates: 25.08.2026
 1. On "pro-worker AI": [Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI](https://www.nature.com/articles/d41586-026-02566-6) (*source: Nature, 2026*).
 
