@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 30.08.2026
+1. On the fear of **workers being replaced by AI agents**: [Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly](https://futurism.com/artificial-intelligence/mark-zuckerberg-secret-plan-replace-meta-staff-ai) (*source: Futurism, 2026*).
+
 ## Updates: 26.08.2026
 1. On the **influence of AI chatbots on the educational system**: [How AI Chatbots are Infiltrating Classrooms](https://www.wnycstudios.org/podcasts/otm/articles/how-ai-chatbots-are-infiltrating-classrooms). <!-- [video](https://www.youtube.com/watch?v=57g4FuOMJCk). -->
 
