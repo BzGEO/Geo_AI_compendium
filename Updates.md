@@ -5,6 +5,9 @@
 
 <!-- []() (*source: x, 2026*) -->
 
+## Updates: 03.09.2026
+1. On the overall **utility of Graphics Processing Units (GPUs)** (also includes explanations of what GPUs do): [12 Things Your GPU Can Do Besides Play Games](https://www.bgr.com/2248404/things-gpu-can-do-besides-games/) (*source: BGR, 2026*).
+
 ## Updates: 30.08.2026
 1. On the fear of **workers being replaced by AI agents**: [Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly](https://futurism.com/artificial-intelligence/mark-zuckerberg-secret-plan-replace-meta-staff-ai) (*source: Futurism, 2026*).
 
